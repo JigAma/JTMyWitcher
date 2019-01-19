@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<!--Religions
+		7:Dana Méadbh
+		-->
+		<Row Type="RELIGION_GREAT_SUN" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MELITELE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_ETERNAL_FIRE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_GREAT_MOTHER_FREYA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_FOREFATHER_KREVE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_LEBIODA" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_WITCHER_DRUIDS" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_DANA_MEADBH" Kind="KIND_RELIGION" />
+
+	</Types>
+
+	<Religions>
+		<Row ReligionType="RELIGION_GREAT_SUN" Name="LOC_RELIGION_GREAT_SUN" Iconstring="GS" RequiresCustomName="0" Color="COLOR_RELIGION_GREAT_SUN"/>
+		<Row ReligionType="RELIGION_MELITELE" Name="LOC_RELIGION_MELITELE" Iconstring="Ml" RequiresCustomName="0" Color="COLOR_RELIGION_MELITELE"/>
+		<Row ReligionType="RELIGION_ETERNAL_FIRE" Name="LOC_RELIGION_ETERNAL_FIRE" Iconstring="EF" RequiresCustomName="0" Color="COLOR_RELIGION_ETERNAL_FIRE"/>
+		<Row ReligionType="RELIGION_GREAT_MOTHER_FREYA" Name="LOC_RELIGION_GREAT_MOTHER_FREYA" Iconstring="GF" RequiresCustomName="0" Color="COLOR_RELIGION_GREAT_MOTHER_FREYA"/>
+		<Row ReligionType="RELIGION_FOREFATHER_KREVE" Name="LOC_RELIGION_FOREFATHER_KREVE" Iconstring="FK" RequiresCustomName="0" Color="COLOR_RELIGION_FOREFATHER_KREVE"/>
+		<Row ReligionType="RELIGION_LEBIODA" Name="LOC_RELIGION_LEBIODA" Iconstring="Lb" RequiresCustomName="0" Color="COLOR_RELIGION_LEBIODA"/>
+		<Row ReligionType="RELIGION_WITCHER_DRUIDS" Name="LOC_RELIGION_WITCHER_DRUIDS" Iconstring="Dd" RequiresCustomName="0" Color="COLOR_RELIGION_WITCHER_DRUIDS"/>
+		<Row ReligionType="RELIGION_DANA_MEADBH" Name="LOC_RELIGION_DANA_MEADBH" Iconstring="DM" RequiresCustomName="0" Color="COLOR_RELIGION_DANA_MEADBH"/>
+
+	</Religions>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_EMHYR_VAR_EMREIS" ReligionType="RELIGION_GREAT_SUN" />
+		<Row LeaderType="LEADER_FOLTEST" ReligionType="RELIGION_MELITELE" />
+		<Row LeaderType="LEADER_DIJKSTRA" ReligionType="RELIGION_ETERNAL_FIRE" />
+		<Row LeaderType="LEADER_RADOVID" ReligionType="RELIGION_ETERNAL_FIRE" />
+		<Row LeaderType="LEADER_HENSELT" ReligionType="RELIGION_LEBIODA" />
+		<Row LeaderType="LEADER_DEMAVEND" ReligionType="RELIGION_LEBIODA" />
+		<Row LeaderType="LEADER_CRACH_AN_CRAITE" ReligionType="RELIGION_GREAT_MOTHER_FREYA" />
+		<Row LeaderType="LEADER_ESTERAD_THYSSEN" ReligionType="RELIGION_FOREFATHER_KREVE" />
+		<Row LeaderType="LEADER_MEVE" ReligionType="RELIGION_WITCHER_DRUIDS" />
+		<Row LeaderType="LEADER_FRANCESCA_FINDABAIR" ReligionType="RELIGION_DANA_MEADBH" />
+		<Row LeaderType="LEADER_JAN_CALVEIT" ReligionType="RELIGION_GREAT_SUN" />
+		<Row LeaderType="LEADER_BRAN_TUIRSEACH" ReligionType="RELIGION_WITCHER_DRUIDS" />
+		<Row LeaderType="LEADER_HARALD_AN_CRAITE" ReligionType="RELIGION_GREAT_MOTHER_FREYA" />
+		<Row LeaderType="LEADER_LADY_EITHNE" ReligionType="RELIGION_DANA_MEADBH" />
+
+	</FavoredReligions>
+
+	<Colors>
+		<Row>
+			<Type>RELIGION_GREAT_SUN</Type>
+			<Red>1</Red>
+			<Green>0.615</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>RELIGION_MELITELE</Type>
+			<Red>1</Red>
+			<Green>0.407</Green>
+			<Blue>0.329</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>RELIGION_ETERNAL_FIRE</Type>
+			<Red>1</Red>
+			<Green>0.184</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>RELIGION_GREAT_MOTHER_FREYA</Type>
+			<Red>1</Red>
+			<Green>1</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>RELIGION_FOREFATHER_KREVE</Type>
+			<Red>1</Red>
+			<Green>0.886</Green>
+			<Blue>0.517</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>RELIGION_LEBIODA</Type>
+			<Red>0.568</Red>
+			<Green>0.427</Green>
+			<Blue>1</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>RELIGION_WITCHER_DRUIDS</Type>
+			<Red>0.321</Red>
+			<Green>0.498</Green>
+			<Blue>0.247</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>RELIGION_DANA_MEADBH</Type>
+			<Red>0.713</Red>
+			<Green>1</Green>
+			<Blue>0</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+</GameData>

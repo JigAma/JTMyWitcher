@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_FOLTEST" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SIEGEMASTER" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_EMHYR_VAR_EMREIS" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_WHITE_FLAME_DANCING" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_DIJKSTRA" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_REDANIAN_SPYMASTER" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_RADOVID" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_STERN" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_HENSELT" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_DYNASTY_OF_THE_UNICORN" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_CRACH_AN_CRAITE" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SEA_BOAR" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_DEMAVEND" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_CRUEL_TACTICS_OF_WAR" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_MEVE" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_WHITE_QUEEN" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_FRANCESCA_FINDABAIR" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_DAISY_OF_THE_VALLEYS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_ESTERAD_THYSSEN" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_HOUSE_THYSSEN" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_MORVRAN_VOORHIS" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_GUILD_OF_MERCHANTS" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_JAN_CALVEIT" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_PROPER_PREPARATION" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_BRAN_TUIRSEACH" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_CLAN_TUIRSEACH" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_HARALD_AN_CRAITE" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_THE_CRIPPLE" Kind="KIND_TRAIT"/>
+
+		<Row Type="LEADER_LADY_EITHNE" Kind="KIND_LEADER"/>
+		<Row Type="TRAIT_LEADER_SILVER_EYED" Kind="KIND_TRAIT"/>
+
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_FOLTEST" Name="LOC_LEADER_FOLTEST_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_EMHYR_VAR_EMREIS" Name="LOC_LEADER_EMHYR_VAR_EMREIS_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_DIJKSTRA" Name="LOC_LEADER_DIJKSTRA_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_RADOVID" Name="LOC_LEADER_RADOVID_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_HENSELT" Name="LOC_LEADER_HENSELT_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_CRACH_AN_CRAITE" Name="LOC_LEADER_CRACH_AN_CRAITE_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_DEMAVEND" Name="LOC_LEADER_DEMAVEND_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_MEVE" Name="LOC_LEADER_MEVE_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_FRANCESCA_FINDABAIR" Name="LOC_LEADER_FRANCESCA_FINDABAIR_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_ESTERAD_THYSSEN" Name="LOC_LEADER_ESTERAD_THYSSEN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_MORVRAN_VOORHIS" Name="LOC_LEADER_MORVRAN_VOORHIS_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_JAN_CALVEIT" Name="LOC_LEADER_JAN_CALVEIT_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_BRAN_TUIRSEACH" Name="LOC_LEADER_BRAN_TUIRSEACH_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_HARALD_AN_CRAITE" Name="LOC_LEADER_HARALD_AN_CRAITE_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_LADY_EITHNE" Name="LOC_LEADER_LADY_EITHNE_NAME" InheritFrom="LEADER_DEFAULT"/>
+
+	</Leaders>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_FOLTEST" ForegroundImage="LEADER_FOLTEST_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_EMHYR_VAR_EMREIS" ForegroundImage="LEADER_EMHYR_VAR_EMREIS_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_DIJKSTRA" ForegroundImage="LEADER_DIJKSTRA_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_RADOVID" ForegroundImage="LEADER_RADOVID_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_HENSELT" ForegroundImage="LEADER_HENSELT_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_CRACH_AN_CRAITE" ForegroundImage="LEADER_CRACH_AN_CRAITE_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_DEMAVEND" ForegroundImage="LEADER_DEMAVEND_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_MEVE" ForegroundImage="LEADER_MEVE_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_FRANCESCA_FINDABAIR" ForegroundImage="LEADER_FRANCESCA_FINDABAIR_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_ESTERAD_THYSSEN" ForegroundImage="LEADER_ESTERAD_THYSSEN_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_MORVRAN_VOORHIS" ForegroundImage="LEADER_MORVRAN_VOORHIS_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_JAN_CALVEIT" ForegroundImage="LEADER_JAN_CALVEIT_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_BRAN_TUIRSEACH" ForegroundImage="LEADER_BRAN_TUIRSEACH_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_HARALD_AN_CRAITE" ForegroundImage="LEADER_HARALD_AN_CRAITE_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+		<Row LeaderType="LEADER_LADY_EITHNE" ForegroundImage="LEADER_LADY_EITHNE_NEUTRAL" BackgroundImage="MyWitcher_Loading_Background"/>
+
+	</LoadingInfo>
+	
+	<DiplomacyInfo>
+		<Row Type="LEADER_FOLTEST" BackgroundImage="LEADER_FOLTEST_BACKGROUND"/>
+		<Row Type="LEADER_EMHYR_VAR_EMREIS" BackgroundImage="LEADER_EMHYR_VAR_EMREIS_BACKGROUND"/>
+		<Row Type="LEADER_DIJKSTRA" BackgroundImage="LEADER_DIJKSTRA_BACKGROUND"/>
+		<Row Type="LEADER_RADOVID" BackgroundImage="LEADER_RADOVID_BACKGROUND"/>
+		<Row Type="LEADER_HENSELT" BackgroundImage="LEADER_HENSELT_BACKGROUND"/>
+		<Row Type="LEADER_CRACH_AN_CRAITE" BackgroundImage="LEADER_CRACH_AN_CRAITE_BACKGROUND"/>
+		<Row Type="LEADER_DEMAVEND" BackgroundImage="LEADER_DEMAVEND_BACKGROUND"/>
+		<Row Type="LEADER_MEVE" BackgroundImage="LEADER_MEVE_BACKGROUND"/>
+		<Row Type="LEADER_FRANCESCA_FINDABAIR" BackgroundImage="LEADER_FRANCESCA_FINDABAIR_BACKGROUND"/>
+		<Row Type="LEADER_ESTERAD_THYSSEN" BackgroundImage="LEADER_ESTERAD_THYSSEN_BACKGROUND"/>
+		<Row Type="LEADER_MORVRAN_VOORHIS" BackgroundImage="LEADER_EMHYR_VAR_EMREIS_BACKGROUND"/>
+		<Row Type="LEADER_JAN_CALVEIT" BackgroundImage="LEADER_EMHYR_VAR_EMREIS_BACKGROUND"/>
+		<Row Type="LEADER_BRAN_TUIRSEACH" BackgroundImage="LEADER_CRACH_AN_CRAITE_BACKGROUND"/>
+		<Row Type="LEADER_HARALD_AN_CRAITE" BackgroundImage="LEADER_CRACH_AN_CRAITE_BACKGROUND"/>
+		<Row Type="LEADER_LADY_EITHNE" BackgroundImage="LEADER_LADY_EITHNE_BACKGROUND"/>
+
+	</DiplomacyInfo>
+	
+	
+	<LeaderTraits>
+		<Row LeaderType="LEADER_FOLTEST" TraitType="TRAIT_LEADER_SIEGEMASTER"/>
+		<Row LeaderType="LEADER_EMHYR_VAR_EMREIS" TraitType="TRAIT_LEADER_WHITE_FLAME_DANCING"/>
+		<Row LeaderType="LEADER_DIJKSTRA" TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER"/>
+		<Row LeaderType="LEADER_RADOVID" TraitType="TRAIT_LEADER_THE_STERN"/>
+		<Row LeaderType="LEADER_HENSELT" TraitType="TRAIT_LEADER_DYNASTY_OF_THE_UNICORN"/>
+		<Row LeaderType="LEADER_CRACH_AN_CRAITE" TraitType="TRAIT_LEADER_SEA_BOAR"/>
+		<Row LeaderType="LEADER_DEMAVEND" TraitType="TRAIT_LEADER_CRUEL_TACTICS_OF_WAR"/>
+		<Row LeaderType="LEADER_MEVE" TraitType="TRAIT_LEADER_THE_WHITE_QUEEN"/>
+		<Row LeaderType="LEADER_FRANCESCA_FINDABAIR" TraitType="TRAIT_LEADER_DAISY_OF_THE_VALLEYS"/>
+		<Row LeaderType="LEADER_ESTERAD_THYSSEN" TraitType="TRAIT_LEADER_HOUSE_THYSSEN"/>
+		<Row LeaderType="LEADER_MORVRAN_VOORHIS" TraitType="TRAIT_LEADER_GUILD_OF_MERCHANTS"/>
+		<Row LeaderType="LEADER_JAN_CALVEIT" TraitType="TRAIT_LEADER_PROPER_PREPARATION"/>
+		<Row LeaderType="LEADER_BRAN_TUIRSEACH" TraitType="TRAIT_LEADER_CLAN_TUIRSEACH"/>
+		<Row LeaderType="LEADER_HARALD_AN_CRAITE" TraitType="TRAIT_LEADER_THE_CRIPPLE"/>
+		<Row LeaderType="LEADER_LADY_EITHNE" TraitType="TRAIT_LEADER_SILVER_EYED"/>
+
+		<Row LeaderType="LEADER_LADY_EITHNE" TraitType="TRAIT_CIVILIZATION_UNIT_DRYAD_ARCHER"/>
+		<Row LeaderType="LEADER_FRANCESCA_FINDABAIR" TraitType="TRAIT_CIVILIZATION_UNIT_ELF_COMMANDO_ARCHER"/>
+
+		
+	</LeaderTraits>
+
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_SIEGEMASTER" Name="LOC_TRAIT_SIEGEMASTER_NAME" Description="LOC_TRAIT_SIEGEMASTER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_WHITE_FLAME_DANCING" Name="LOC_TRAIT_WHITE_FLAME_DANCING_NAME" Description="LOC_TRAIT_WHITE_FLAME_DANCING_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" Name="LOC_TRAIT_REDANIAN_SPYMASTER_NAME" Description="LOC_TRAIT_REDANIAN_SPYMASTER_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_STERN" Name="LOC_TRAIT_THE_STERN_NAME" Description="LOC_TRAIT_THE_STERN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_DYNASTY_OF_THE_UNICORN" Name="LOC_TRAIT_DYNASTY_OF_THE_UNICORN_NAME" Description="LOC_TRAIT_DYNASTY_OF_THE_UNICORN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SEA_BOAR" Name="LOC_TRAIT_SEA_BOAR_NAME" Description="LOC_TRAIT_SEA_BOAR_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_CRUEL_TACTICS_OF_WAR" Name="LOC_TRAIT_CRUEL_TACTICS_OF_WAR_NAME" Description="LOC_TRAIT_CRUEL_TACTICS_OF_WAR_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_WHITE_QUEEN" Name="LOC_TRAIT_THE_WHITE_QUEEN_NAME" Description="LOC_TRAIT_THE_WHITE_QUEEN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_DAISY_OF_THE_VALLEYS" Name="LOC_TRAIT_DAISY_OF_THE_VALLEYS_NAME" Description="LOC_TRAIT_DAISY_OF_THE_VALLEYS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_HOUSE_THYSSEN" Name="LOC_TRAIT_HOUSE_THYSSEN_NAME" Description="LOC_TRAIT_HOUSE_THYSSEN_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GUILD_OF_MERCHANTS" Name="LOC_TRAIT_GUILD_OF_MERCHANTS_NAME" Description="LOC_TRAIT_GUILD_OF_MERCHANTS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_PROPER_PREPARATION" Name="LOC_TRAIT_PROPER_PREPARATION_NAME" Description="LOC_TRAIT_PROPER_PREPARATION_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" Name="LOC_TRAIT_CLAN_TUIRSEACH_NAME" Description="LOC_TRAIT_CLAN_TUIRSEACH_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_THE_CRIPPLE" Name="LOC_TRAIT_THE_CRIPPLE_NAME" Description="LOC_TRAIT_THE_CRIPPLE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_SILVER_EYED" Name="LOC_TRAIT_SILVER_EYED_NAME" Description="LOC_TRAIT_SILVER_EYED_DESCRIPTION"/>
+
+	</Traits>
+
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LEADER_SIEGEMASTER" ModifierId="MYWITCHER_SIEGE_UNITS_MODIFIER"/>
+		<Row TraitType="TRAIT_LEADER_SIEGEMASTER" ModifierId="MYWITCHER_SIEGEUNITS_CLASSICAL_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_SIEGEMASTER" ModifierId="MYWITCHER_SIEGEUNITS_RENAISSANCE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_SIEGEMASTER" ModifierId="MYWITCHER_SUPORTUNITS_ANCIENT_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_SIEGEMASTER" ModifierId="MYWITCHER_SUPORTUNITS_CLASSICAL_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_SIEGEMASTER" ModifierId="MYWITCHER_SUPORTUNITS_MEDIEVAL_PRODUCTION"/>
+
+		<Row TraitType="TRAIT_LEADER_WHITE_FLAME_DANCING" ModifierId="UNIQUE_LEADER_ADD_VISIBILITY"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_WHITE_FLAME_DANCING" ModifierId="UNIQUE_LEADER_ADD_SPY_CAPACITY"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_WHITE_FLAME_DANCING" ModifierId="TRAIT_MYWITCHER_CAPTURE_AS_WORKERS"/>
+
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="UNIQUE_LEADER_ADD_VISIBILITY"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="UNIQUE_LEADER_ADD_SPY_CAPACITY"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="MACHIAVELLIANISM_SPYPRODUCTION"/>
+		<!--<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="MACHIAVELLIANISM_ROCKETRYTIME"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="MACHIAVELLIANISM_SOURCESTIME"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="MACHIAVELLIANISM_HEISTTIME"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="MACHIAVELLIANISM_PARTISANSTIME"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="MACHIAVELLIANISM_SABOTAGETIME"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="MACHIAVELLIANISM_SIPHONTIME"/>
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="MACHIAVELLIANISM_STEALTECHTIME"/>-->
+		<Row TraitType="TRAIT_LEADER_REDANIAN_SPYMASTER" ModifierId="POLICESTATE_SPYDEFENSE"/>
+		<Row TraitType="TRAIT_LEADER_THE_STERN" ModifierId="TRAIT_ADJUST_INQUISITOR_CHARGES"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_THE_STERN" ModifierId="TRAIT_COMBAT_BONUS_OTHER_RELIGION"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_DYNASTY_OF_THE_UNICORN" ModifierId="UNIQUE_LEADER_ADD_VISIBILITY"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_DYNASTY_OF_THE_UNICORN" ModifierId="MYWITCHER_PLOTPURCHASECOST"/>
+		<Row TraitType="TRAIT_LEADER_DYNASTY_OF_THE_UNICORN" ModifierId="WARS_OF_RELIGION_COMBAT"/><!-- Implemented In Vanilla-->
+		<Row>
+			<TraitType>TRAIT_LEADER_SEA_BOAR</TraitType>
+			<ModifierId>TRAIT_IGNORE_EMBARK_DISEMBARK_COST</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row TraitType="TRAIT_LEADER_SEA_BOAR" ModifierId="TRAIT_COMBAT_BONUS_LAND_ON_COAST"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_CRUEL_TACTICS_OF_WAR" ModifierId="TRAIT_MILITARY_GOVERNMENT_SLOT"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_THE_WHITE_QUEEN" ModifierId="TRAIT_WILDCARD_GOVERNMENT_SLOT"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_DAISY_OF_THE_VALLEYS" ModifierId="TRAIT_WILDCARD_GOVERNMENT_SLOT"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_DAISY_OF_THE_VALLEYS" ModifierId="FRESCOES_GREATARTISTPOINTS"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_DAISY_OF_THE_VALLEYS" ModifierId="LITERARYTRADITION_GREATWRITERPOINTS"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_HOUSE_THYSSEN" ModifierId="MYWITCHER_TWO_INFLUENCE_POINTS"/>
+		<Row TraitType="TRAIT_LEADER_HOUSE_THYSSEN" ModifierId="UNIQUE_LEADER_ADD_VISIBILITY"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_HOUSE_THYSSEN" ModifierId="UNIQUE_LEADER_ADD_SPY_CAPACITY"/><!-- Implemented In Vanilla-->
+		<Row TraitType="TRAIT_LEADER_GUILD_OF_MERCHANTS" ModifierId="MYWITCHER_GOLD_KILLS"/>
+		<Row TraitType="TRAIT_LEADER_GUILD_OF_MERCHANTS" ModifierId="MYWITCHER_FOREIGNGOLD"/>
+		<Row TraitType="TRAIT_LEADER_GUILD_OF_MERCHANTS" ModifierId="MYWITCHER_TRADEROUTEGOLD"/>
+		<Row TraitType="TRAIT_LEADER_PROPER_PREPARATION" ModifierId="TRAIT_CULTURE_PER_CITY_STATE_TRIBUTARY"/>
+		<Row TraitType="TRAIT_LEADER_PROPER_PREPARATION" ModifierId="TRADECONFEDERATION_TRADEROUTECULTURE"/>
+		<Row TraitType="TRAIT_LEADER_PROPER_PREPARATION" ModifierId="TRADECONFEDERATION_TRADEROUTESCIENCE"/>
+		<Row TraitType="TRAIT_LEADER_PROPER_PREPARATION" ModifierId="MYWITCHER_DOUBLELIBRARY"/>
+		<Row TraitType="TRAIT_LEADER_PROPER_PREPARATION" ModifierId="MYWITCHER_DOUBLEUNIVERSITY"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="MARITIMIEINDUSTRIES_ANCIENT_NAVAL_MELEE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_MELEE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RANGED_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RANGED_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="MARITIMIEINDUSTRIES_ANCIENT_NAVAL_RAIDER_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="MARITIMIEINDUSTRIES_CLASSICAL_NAVAL_RAIDER_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="PRESSGANGS_RENAISSANCE_NAVAL_MELEE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="PRESSGANGS_INDUSTRIAL_NAVAL_MELEE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="PRESSGANGS_RENAISSANCE_NAVAL_RANGED_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="PRESSGANGS_INDUSTRIAL_NAVAL_RANGED_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="PRESSGANGS_RENAISSANCE_NAVAL_RAIDER_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="PRESSGANGS_INDUSTRIAL_NAVAL_RAIDER_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_CLAN_TUIRSEACH" ModifierId="TRAIT_ADJUST_PROGRESS_DIFF_TRADE_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_THE_CRIPPLE" ModifierId="BONUS_VS_WOUNDED_UNITS"/>
+		<Row TraitType="TRAIT_LEADER_THE_CRIPPLE" ModifierId="HEAL_AFTER_DEFEATING_UNIT"/>
+		<Row TraitType="TRAIT_LEADER_SILVER_EYED" ModifierId="TRAIT_MYWITCHER_COMBAT_BONUS_HOME_TERRITORY"/>
+		<Row TraitType="TRAIT_LEADER_SILVER_EYED" ModifierId="TRAIT_WILDCARD_GOVERNMENT_SLOT"/>
+
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGE_UNITS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_GRANT_ABILITY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGEUNITS_CLASSICAL_PRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_UNIT_TAG_ERA_PRODUCTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGEUNITS_RENAISSANCE_PRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_UNIT_TAG_ERA_PRODUCTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_ANCIENT_PRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_UNIT_TAG_ERA_PRODUCTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_CLASSICAL_PRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_UNIT_TAG_ERA_PRODUCTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_MEDIEVAL_PRODUCTION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_UNIT_TAG_ERA_PRODUCTION</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWITCHER_CAPTURE_AS_WORKERS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_CAPTURE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_PLOTPURCHASECOST</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_PLOT_PURCHASE_COST</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TWO_INFLUENCE_POINTS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_INFLUENCE_POINTS_PER_TURN</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_GOLD_KILLS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_FOREIGNGOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_CITY_YIELD_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>CITY_NOT_OWNER_CAPITAL_CONTINENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TRADEROUTEGOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_DOUBLELIBRARY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_DOUBLEUNIVERSITY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWITCHER_COMBAT_BONUS_HOME_TERRITORY</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>COMBAT_MYWITCHER_BONUS_HOME_TERRITORY_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>COSSACK_PLOT_IS_OWNER_OR_ADJACENT_REQUIREMENTS</SubjectRequirementSetId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGE_UNITS_MODIFIER</ModifierId>
+			<Name>AbilityType</Name>
+			<Value>ABILITY_MYWITCHER_SIEGE_UNITS_BONUS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGEUNITS_CLASSICAL_PRODUCTION</ModifierId>
+			<Name>UnitPromotionClass</Name>
+			<Value>PROMOTION_CLASS_SIEGE</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGEUNITS_CLASSICAL_PRODUCTION</ModifierId>
+			<Name>EraType</Name>
+			<Value>ERA_CLASSICAL</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGEUNITS_CLASSICAL_PRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<!--  -->
+		<Row>
+			<ModifierId>MYWITCHER_SIEGEUNITS_RENAISSANCE_PRODUCTION</ModifierId>
+			<Name>UnitPromotionClass</Name>
+			<Value>PROMOTION_CLASS_SIEGE</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGEUNITS_RENAISSANCE_PRODUCTION</ModifierId>
+			<Name>EraType</Name>
+			<Value>ERA_RENAISSANCE</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGEUNITS_RENAISSANCE_PRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<!--  -->
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_ANCIENT_PRODUCTION</ModifierId>
+			<Name>UnitPromotionClass</Name>
+			<Value>PROMOTION_CLASS_SUPPORT</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_ANCIENT_PRODUCTION</ModifierId>
+			<Name>EraType</Name>
+			<Value>ERA_ANCIENT</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_ANCIENT_PRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<!--  -->
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_CLASSICAL_PRODUCTION</ModifierId>
+			<Name>UnitPromotionClass</Name>
+			<Value>PROMOTION_CLASS_SUPPORT</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_CLASSICAL_PRODUCTION</ModifierId>
+			<Name>EraType</Name>
+			<Value>ERA_CLASSICAL</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_CLASSICAL_PRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<!--  -->
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_MEDIEVAL_PRODUCTION</ModifierId>
+			<Name>UnitPromotionClass</Name>
+			<Value>PROMOTION_CLASS_SUPPORT</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_MEDIEVAL_PRODUCTION</ModifierId>
+			<Name>EraType</Name>
+			<Value>ERA_MEDIEVAL</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SUPORTUNITS_MEDIEVAL_PRODUCTION</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWITCHER_CAPTURE_AS_WORKERS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWITCHER_CAPTURE_COMBAT_UNITS_AS_WORKERS</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<Name>CanCapture</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_CAPTURE_COMBAT_UNITS_AS_WORKERS</ModifierId>
+			<Name>UnitType</Name>
+			<Value>UNIT_BUILDER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_PLOTPURCHASECOST</ModifierId>
+			<Name>Amount</Name>
+			<Value>-40</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TWO_INFLUENCE_POINTS</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_GOLD_KILLS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_GOLD_KILLS</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_FOREIGNGOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_FOREIGNGOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TRADEROUTEGOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TRADEROUTEGOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_DOUBLELIBRARY</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_LIBRARY</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_DOUBLELIBRARY</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_DOUBLELIBRARY</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_DOUBLEUNIVERSITY</ModifierId>
+			<Name>BuildingType</Name>
+			<Value>BUILDING_UNIVERSITY</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_DOUBLEUNIVERSITY</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_DOUBLEUNIVERSITY</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYWITCHER_COMBAT_BONUS_HOME_TERRITORY</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>COMBAT_MYWITCHER_BONUS_HOME_TERRITORY_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>COMBAT_MYWITCHER_BONUS_HOME_TERRITORY_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+	</ModifierArguments>
+	<ModifierStrings>
+		<Row ModifierId="COMBAT_MYWITCHER_BONUS_HOME_TERRITORY_MODIFIER" Context="Preview" Text="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION"/>
+	</ModifierStrings>
+</GameData>

@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_MYWITCHER_DISTRICT_FOREST_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Forest</Text>
+		</Row>
+		<!-- TEMERIA | FOLTEST -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_FOLTEST" Language="en_US">
+			<Text>King Foltest was the ruler of Temeria, prince of Sodden, sovereign of Pontaria and Mahakam as well as the senior protector of Brugge and Ellander. He was the son of King Medell and Queen Sancia of Sodden. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SIEGE_COMBAT_BONUS_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength for Siegemaster.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BLUE_STRIPES_NAME" Language="en_US">
+			<Text>Blue Stripes</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BLUE_STRIPES_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] when fighting in Forest or Jungle.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VIZIMA" Language="en_US">
+			<Text>Vizima</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORS_VELEN" Language="en_US">
+			<Text>Gors Velen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARRERAS" Language="en_US">
+			<Text>Carreras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DORNDAL" Language="en_US">
+			<Text>Dorndal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DORIAN" Language="en_US">
+			<Text>Dorian</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANCHOR" Language="en_US">
+			<Text>Anchor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LA_VALETTE" Language="en_US">
+			<Text>La Valette</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARIBOR" Language="en_US">
+			<Text>Maribor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAYENA" Language="en_US">
+			<Text>Mayena</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOEN" Language="en_US">
+			<Text>Moen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRENNA" Language="en_US">
+			<Text>Brenna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FLOTSAM" Language="en_US">
+			<Text>Flotsam</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAELF" Language="en_US">
+			<Text>Caelf</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BURDOFF" Language="en_US">
+			<Text>Burdoff</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ACORN_BAY" Language="en_US">
+			<Text>Acorn Bay</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAZWAN" Language="en_US">
+			<Text>Razwan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VATTWEIR" Language="en_US">
+			<Text>Vattweir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAPEYS" Language="en_US">
+			<Text>Napeys</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZAVADA" Language="en_US">
+			<Text>Zavada</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOUTBORG" Language="en_US">
+			<Text>Houtborg</Text>
+		</Row>
+		<!-- END OF TEMERIA | FOLTEST -->
+		<!-- NILFGAARD | EMHYR_VAR_EMREIS -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_EMHYR_VAR_EMREIS" Language="en_US">
+			<Text>Emhyr var Emreis was the Imperator of the Nilfgaardian Empire. His rule of Nilfgaard was highly aggressive, often pursuing expansionist policies similar to those of his predecessors. This led to the outbreak of two wars against the North.Emhyr var Emreis was an intelligent and brilliant ruler. He chose his people well and crushed all plots against him. He was ruthless toward traitors and moved towards his goals with great determination. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IMPERA_BRIGADE_NAME" Language="en_US">
+			<Text>Impera Brigade</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IMPERA_BRIGADE_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BLACK_INFANTRY_ARCHERS_NAME" Language="en_US">
+			<Text>Black Infantry Archers</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BLACK_INFANTRY_ARCHERS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength]Combat Strength when attacking.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAUSICAA_CAVALRY_NAME" Language="en_US">
+			<Text>Nausicaa Cavalry</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAUSICAA_CAVALRY_DESCRIPTION" Language="en_US">
+			<Text>+100% flanking bonus.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOLDEN_TOWERS" Language="en_US">
+			<Text>City of Golden Towers</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARN_RUACH" Language="en_US">
+			<Text>Darn Ruach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINNEBURG" Language="en_US">
+			<Text>Winneburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BACCALA" Language="en_US">
+			<Text>Baccalà</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARN_DYFFRA" Language="en_US">
+			<Text>Darn Dyffra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAERLAN" Language="en_US">
+			<Text>Daerlan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAGNE" Language="en_US">
+			<Text>Magne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YMLAC" Language="en_US">
+			<Text>Ymlac</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DARN_ROWAN" Language="en_US">
+			<Text>Darn Rowan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAECHT" Language="en_US">
+			<Text>Maecht</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THURN" Language="en_US">
+			<Text>Thurn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEMMERA" Language="en_US">
+			<Text>Gemmera</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EIDDON" Language="en_US">
+			<Text>Eiddon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ETOLIA" Language="en_US">
+			<Text>Etolia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VICOVARO" Language="en_US">
+			<Text>Vicovaro</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMARILLO" Language="en_US">
+			<Text>Amarillo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRUIGH" Language="en_US">
+			<Text>Druigh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FEN_ASPRA" Language="en_US">
+			<Text>Fen Aspra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GLYSWEN" Language="en_US">
+			<Text>Glyswen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOREDO" Language="en_US">
+			<Text>Loredo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEW_IRONWORKS" Language="en_US">
+			<Text>New Ironworks</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SARDA" Language="en_US">
+			<Text>Sarda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TYFFI" Language="en_US">
+			<Text>Tyffi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUDNO" Language="en_US">
+			<Text>Dudno</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ROCAYNE" Language="en_US">
+			<Text>Rocayne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CLAREMONT" Language="en_US">
+			<Text>Claremont</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUN_DARE" Language="en_US">
+			<Text>Dun Dâre</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FANO" Language="en_US">
+			<Text>Fano</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JEALOUSY" Language="en_US">
+			<Text>Jealousy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALHOUN" Language="en_US">
+			<Text>Malhoun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEWEUGEN" Language="en_US">
+			<Text>Neweugen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STYGGA" Language="en_US">
+			<Text>Stygga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEGAMO" Language="en_US">
+			<Text>Tegamo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UNICORN" Language="en_US">
+			<Text>Unicorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SALM" Language="en_US">
+			<Text>Salm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TARNHANN" Language="en_US">
+			<Text>Tarnhann</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_METTINA" Language="en_US">
+			<Text>Metinna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEUNREUTH" Language="en_US">
+			<Text>Neunreuth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORGEHAM" Language="en_US">
+			<Text>Forgeham</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAG_DEIRA" Language="en_US">
+			<Text>Mag Deira</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIDDERTAL" Language="en_US">
+			<Text>Liddertal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VIROLEDO" Language="en_US">
+			<Text>Viroledo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARAVISTA" Language="en_US">
+			<Text>Caravista</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TERGANO" Language="en_US">
+			<Text>Tergano</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ASSENGARD" Language="en_US">
+			<Text>Assengard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BELHAVEN" Language="en_US">
+			<Text>Belhaven</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RHYS_RHUN" Language="en_US">
+			<Text>Rhys-Rhun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAZAIR" Language="en_US">
+			<Text>Nazair</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOC_GRIM" Language="en_US">
+			<Text>Loc Grim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VENENDAL" Language="en_US">
+			<Text>Venendal</Text>
+		</Row>
+		<!-- END OF NILFGAARD | EMHYR_VAR_EMREIS -->
+		<!-- REDANIA | DIJKSTRA & RADOVID -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DIJKSTRA" Language="en_US">
+			<Text>Sigismund Dijkstra is the head of Redanian Intelligence, or secret service. During the Second Nilfgaard War, King Vizimir of Redania was assassinated. During the interregnum, the country was ruled by a Regency Council headed by Dijkstra and Philippa Eilhart. This made him basically the most powerful man in the kingdom.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_RADOVID" Language="en_US">
+			<Text>Radovid V the Stern is the King of Redania.He bears a deep hatred of mages. His father Vizimir II the Just was secretly assassinated during Radovid's infancy probably by the sorceress advisor Philippa Eilhart, who then assumed the regency in his name, and dominated and demeaned him throughout his youth.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_REDANIAN_FOOTSOLDIER_NAME" Language="en_US">
+			<Text>Redanian Footsoldier</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_REDANIAN_FOOTSOLDIER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength if there is at least one Redanian Footsoldier adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TRETEGOR" Language="en_US">
+			<Text>Tretegor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OXENFURT" Language="en_US">
+			<Text>Oxenfurt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RINDE" Language="en_US">
+			<Text>Rinde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ROGGEVERN" Language="en_US">
+			<Text>Roggevern</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MURIVEL" Language="en_US">
+			<Text>Murivel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CRINFRID" Language="en_US">
+			<Text>Crinfrid</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PIANA" Language="en_US">
+			<Text>Piana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DRAKENBORG" Language="en_US">
+			<Text>Drakenborg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MONTECALVO" Language="en_US">
+			<Text>Montecalvo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DENESLE" Language="en_US">
+			<Text>Denesle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GELIBOL" Language="en_US">
+			<Text>Gelibol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIRT" Language="en_US">
+			<Text>Mirt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLAVIKEN" Language="en_US">
+			<Text>Blaviken</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TROY" Language="en_US">
+			<Text>Troy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YSPADEN" Language="en_US">
+			<Text>Yspaden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VARTBURG" Language="en_US">
+			<Text>Vartburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JAMURLAK" Language="en_US">
+			<Text>Jamurlak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LUTON" Language="en_US">
+			<Text>Luton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOWDON" Language="en_US">
+			<Text>Bowdon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRUNWICH" Language="en_US">
+			<Text>Brunwich</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YANTRA" Language="en_US">
+			<Text>Yantra</Text>
+		</Row>
+		<!-- END OF REDANIA | DIJKSTRA & RADOVID -->
+		<!-- KAEDWEN | HENSELT -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_HENSELT" Language="en_US">
+			<Text>King Henselt, King of  Kaedwen, heir to the Dynasty of the Unicorn. For many years, he engaged in an ongoing dispute with King Demavend III of Aedirn over the Lormark. Henselt was also the architect of a plan to exterminate all non-humans in areas bound by the Pontar, Gwenllech and Buina rivers. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUN_BANNER_NAME" Language="en_US">
+			<Text>Dun Banner</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUN_BANNER_DESCRIPTION" Language="en_US">
+			<Text>Can can move after attacking and move over Hills faster.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARD_CARRAIGH" Language="en_US">
+			<Text>Ard Carraigh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAN_GLEAN" Language="en_US">
+			<Text>Ban Gleán</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAN_ARD" Language="en_US">
+			<Text>Ban Ard</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEYDA" Language="en_US">
+			<Text>Leyda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAEVON" Language="en_US">
+			<Text>Daevon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VSPADEN" Language="en_US">
+			<Text>Vspaden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUINA" Language="en_US">
+			<Text>Buina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GWENLLECH" Language="en_US">
+			<Text>Gwenllech</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HERTCH" Language="en_US">
+			<Text>Hertch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIXELA" Language="en_US">
+			<Text>Lixela</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PONTAR_VALLEY" Language="en_US">
+			<Text>Pontar Valley</Text>
+		</Row>
+		<!-- END OF KAEDWEN | HENSELT -->
+		<!-- SKELLIGE | CRACH_AN_CRAITE -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CRACH_AN_CRAITE" Language="en_US">
+			<Text>Crach an Craite, after the death of his uncle Eist Tuirseach, who had inherited the throne of King Bran, Crach became the Jarl and thus the ruler of the Skellige Islands. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SKELLIGE_RAIDER_NAME" Language="en_US">
+			<Text>Skellige Raider</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SKELLIGE_RAIDER_DESCRIPTION" Language="en_US">
+			<Text>Yields 60% of defeated units' [ICON_Strength] as [ICON_Gold] on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAER_TROLDE" Language="en_US">
+			<Text>Kaer Trolde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAER_MUILDE" Language="en_US">
+			<Text>Kaer Muilde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_URIALLA" Language="en_US">
+			<Text>Urialla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARVIKEN" Language="en_US">
+			<Text>Harviken</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HINDARSFJALL" Language="en_US">
+			<Text>Hindarsfjall</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOLMSTEIN" Language="en_US">
+			<Text>Holmstein</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARINBJORN" Language="en_US">
+			<Text>Arinbjorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BLANDARE" Language="en_US">
+			<Text>Blandare</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FAYRLUND" Language="en_US">
+			<Text>Fayrlund</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FYRESDAL" Language="en_US">
+			<Text>Fyresdal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RANNVAIG" Language="en_US">
+			<Text>Rannvaig</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ROGNE" Language="en_US">
+			<Text>Rogne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SVORLAG" Language="en_US">
+			<Text>Svorlag</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOV" Language="en_US">
+			<Text>Hov</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TROTTHEIM" Language="en_US">
+			<Text>Trottheim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UNDVIK" Language="en_US">
+			<Text>Undvik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAER_ALMHULT" Language="en_US">
+			<Text>Kaer Almhult</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAER_GELEN" Language="en_US">
+			<Text>Kaer Gelen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAER_DHU" Language="en_US">
+			<Text>Kaer Dhu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOXHOLM" Language="en_US">
+			<Text>Boxholm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORNHALA" Language="en_US">
+			<Text>Fornhala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REDGILL" Language="en_US">
+			<Text>Redgill</Text>
+		</Row>
+		<!-- END OF SKELLIGE | CRACH_AN_CRAITE -->
+		<!-- AEDIRN | DEMAVEND -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DEMAVEND" Language="en_US">
+			<Text>King Demavend III was the ruler of Aedirn. As a ruler he was known for being rather cruel and envious, but also quite intelligent and knowledgeable about the tactics of war.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AEDIRN_SPECIAL_FORCES_NAME" Language="en_US">
+			<Text>Aedirn Special Forces</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AEDIRN_SPECIAL_FORCES_DESCRIPTION" Language="en_US">
+			<Text>+4 [ICON_Strength] Combat Strength when fighting civilizations that follow other Religions.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VENGEBERG" Language="en_US">
+			<Text>Vengeberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALDERSBERG" Language="en_US">
+			<Text>Aldersberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EISENLAAN" Language="en_US">
+			<Text>Eysenlaan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VAITTWEIR" Language="en_US">
+			<Text>Vaittweir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GULET" Language="en_US">
+			<Text>Gulet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ASHEBERG" Language="en_US">
+			<Text>Asheberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAGGE" Language="en_US">
+			<Text>Hagge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VERGEN" Language="en_US">
+			<Text>Vergen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KALKAR" Language="en_US">
+			<Text>Kalkar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HOSHBERG" Language="en_US">
+			<Text>Hoshberg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIEL" Language="en_US">
+			<Text>Tiel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BERG_AEN_DAL" Language="en_US">
+			<Text>Berg Aen Dal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LORMARK" Language="en_US">
+			<Text>Lormark</Text>
+		</Row>
+		<!-- END OF AEDIRN | DEMAVEND -->
+		<!-- LYRIA RIVIA | MEVE -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MEVE" Language="en_US">
+			<Text>Meve is the queen of Lyria and Rivia. She was known for her wisdom and beauty, but a later battle left her face bearing wounds that became disfiguring scars. She was the one who knighted Geralt for his valour in the same battle and granted him the right to be known as Geralt of Rivia. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RIVIAN_CROSSBOWMAN_FORCES_NAME" Language="en_US">
+			<Text>Rivian Crossbowman</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RIVIAN_CROSSBOWMAN_FORCES_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength vs. melee and ranged units.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIVIA" Language="en_US">
+			<Text>Rivia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LYRIA" Language="en_US">
+			<Text>Lyria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SPALLA" Language="en_US">
+			<Text>Spalla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCALLA" Language="en_US">
+			<Text>Scalla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GLEVITZIGEN" Language="en_US">
+			<Text>Glevitzigen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RASTBURG" Language="en_US">
+			<Text>Rastburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOC_ESKALOTT" Language="en_US">
+			<Text>Loc Eskalott</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOL_ANGRA" Language="en_US">
+			<Text>Dol Angra</Text>
+		</Row>
+		<!-- END OF LYRIA RIVIA | MEVE -->
+		<!-- SCOIATAEL | FRANCESCA_FINDABAIR -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_FRANCESCA_FINDABAIR" Language="en_US">
+			<Text>Enid an Gleanna, also known as Francesca Findabair, is an elf, a sorceress and the queen of the elves of Dol Blathanna as decreed by the Imperator Emhyr var Emreis. She is also a founding member of the Lodge of Sorceresses. </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELF_COMMANDO_NAME" Language="en_US">
+			<Text>Elf Commando</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELF_COMMANDO_DESCRIPTION" Language="en_US">
+			<Text>Can move and see through Woods and Rainforest.Cannot be seen in the woods or jungle unless they are adjacent to it.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELF_HORSE_ARCHER_NAME" Language="en_US">
+			<Text>Elf Horse Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELF_HORSE_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Can move and see through Woods and Rainforest.Cannot be seen in the woods or jungle unless they are adjacent to it.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELF_COMMANDO_ARCHER_NAME" Language="en_US">
+			<Text>Elf Commando Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ELF_COMMANDO_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Can move and see through Woods and Rainforest.Cannot be seen in the woods or jungle unless they are adjacent to it.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DOL_BLATHANNA" Language="en_US">
+			<Text>Dol Blathanna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GWENDEITH" Language="en_US">
+			<Text>Gwendeith</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOC_MUINE" Language="en_US">
+			<Text>Loc Muine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CRAAG_AN" Language="en_US">
+			<Text>Craag An</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUEN_CANELL" Language="en_US">
+			<Text>Duén Canell</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COL_SERRAI" Language="en_US">
+			<Text>Col Serrai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EST_HAEMLET" Language="en_US">
+			<Text>Est Haemlet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UPPER_POSADA" Language="en_US">
+			<Text>Upper Posada</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOWER_POSADA" Language="en_US">
+			<Text>Lower Posada</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHAERRAWEDD" Language="en_US">
+			<Text>Shaerrawedd</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EST_TAYIAR" Language="en_US">
+			<Text>Est Tayiar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BROKILON" Language="en_US">
+			<Text>Brokilon</Text>
+		</Row>
+		<!-- END OF SCOIATAEL | FRANCESCA_FINDABAIR -->
+		<!-- KOVIR AND POVISS | ESTERAD_THYSSEN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ESTERAD_THYSSEN" Language="en_US">
+			<Text>Esterad Thyssen was the king of Kovir, Poviss, Narok, Velhad and Talgar during the second war with Nilfgaard. He was the son of Baldwin and Blanka of Malleore. Although Kovir was officially neutral, Esterad helped the Northern forces by granting royal pardon to the prisoners in his kingdom, many of which later formed the Free Company led by "Adieu" Pangratt.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAN_EXETER" Language="en_US">
+			<Text>Lan Exeter</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PONT_VANIS" Language="en_US">
+			<Text>Pont Vanis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TRIDAM" Language="en_US">
+			<Text>Tridam</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AEDD_GYNVAEL" Language="en_US">
+			<Text>Aedd Gynvael</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAKVERELIN" Language="en_US">
+			<Text>Rakverelin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TARCANVILLE" Language="en_US">
+			<Text>Tarcanville</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VELHAD" Language="en_US">
+			<Text>Velhad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TALGAR" Language="en_US">
+			<Text>Talgar</Text>
+		</Row>
+		<!-- END OF KOVIR AND POVISS | ESTERAD_THYSSEN -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MORVRAN_VOORHIS" Language="en_US">
+			<Text>Morvran Voorhis was an Imperator of the Nilfgaardian Empire from the Voorhis family who ascended the throne sometime around the end of the 13th century. As a relative of Emhyr var Emreis through both paternal and maternal lines, his position was always secured.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JAN_CALVEIT" Language="en_US">
+			<Text>Jan Calveit was Emperor of Nilfgaard, succeeding Morvran Voorhis. He was aware of Emhyr's mistakes and tried to not repeat them. He was also apparently forgiving and able to give second chances. Emperor Jan Calveit had broad intellectual horizons. He dabbled in a variety of scholarly disciplines; medicine and astrology in particular. His critics complained at his hobbies' lack of practical application, until the time came to prove how very wrong they were. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_BRAN_TUIRSEACH" Language="en_US">
+			<Text>Bran Tuirseach was a monarch of Skellige, the maternal uncle of Crach an Craite and the brother of Eist Tuirseach, with whom he had a friendly relationship and who led his army as Jarl of Skellige. Other than his brother, the king had a good friend and confidante in druid Mousesack. </Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HARALD_AN_CRAITE" Language="en_US">
+			<Text>Harald an Craite, a member of the an Craite clan. As a warrior, Harald was thoroughly unremarkable. Then a bear mangled his leg and the bone healed back crooked. After that, each step caused him agonizing pain... and he fought better than ever before. He claimed the grit of constant suffering had honed an unstoppable edge.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LADY_EITHNE" Language="en_US">
+			<Text>Eithné is the queen of the dryads and ruler of Brokilon. She is famous for her wisdom and implacable stance towards humans. Their attempts to claim the ancient forest for its trees and supposed treasures have fostered centuries of conflict.d</Text>
+		</Row>
+		<!-- City States -->
+		<!-- Mahakam-->
+		<Row Tag="LOC_MINOR_CIV_MAHAKAM_TRAIT_NAME" Language="en_US">
+			<Text>Mahakam</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MAHAKAM_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_MAHAKAM_NAME" Language="en_US">
+			<Text>Mahakam</Text>
+		</Row>
+		<Row Tag="LOC_MAHAKAM_DESCRIPTION" Language="en_US">
+			<Text>City State of Mahakam</Text>
+		</Row>
+		<Row Tag="LOC_MAHAKAM_ADJECTIVE" Language="en_US">
+			<Text>Mahakam</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAHAKAM" Language="en_US">
+			<Text>Mahakam</Text>
+		</Row>
+		<!-- Novigrad-->
+		<Row Tag="LOC_MINOR_CIV_NOVIGRAD_TRAIT_NAME" Language="en_US">
+			<Text>Novigrad</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_NOVIGRAD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +1 Faith [ICON_FAITH] and +1 Gold [ICON_Gold] for you.</Text>
+		</Row>
+		<Row Tag="LOC_NOVIGRAD_NAME" Language="en_US">
+			<Text>Novigrad</Text>
+		</Row>
+		<Row Tag="LOC_NOVIGRAD_DESCRIPTION" Language="en_US">
+			<Text>City State of Novigrad</Text>
+		</Row>
+		<Row Tag="LOC_NOVIGRAD_ADJECTIVE" Language="en_US">
+			<Text>Novigrad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOVIGRAD" Language="en_US">
+			<Text>Novigrad</Text>
+		</Row>
+		<!-- Brugge-->
+		<Row Tag="LOC_MINOR_CIV_BRUGGE_TRAIT_NAME" Language="en_US">
+			<Text>Brugge</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BRUGGE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>-50% war weariness from combat in your territory.</Text>
+		</Row>
+		<Row Tag="LOC_BRUGGE_NAME" Language="en_US">
+			<Text>Brugge</Text>
+		</Row>
+		<Row Tag="LOC_BRUGGE_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Brugge</Text>
+		</Row>
+		<Row Tag="LOC_BRUGGE_ADJECTIVE" Language="en_US">
+			<Text>Brugge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MYWITCHER_BRUGGE" Language="en_US">
+			<Text>Brugge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DILLINGEN" Language="en_US">
+			<Text>Dillingen</Text>
+		</Row>
+		<!-- Ellander-->
+		<Row Tag="LOC_MINOR_CIV_ELLANDER_TRAIT_NAME" Language="en_US">
+			<Text>Ellander</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ELLANDER_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 Faith [ICON_FAITH].</Text>
+		</Row>
+		<Row Tag="LOC_ELLANDER_NAME" Language="en_US">
+			<Text>Ellander</Text>
+		</Row>
+		<Row Tag="LOC_ELLANDER_DESCRIPTION" Language="en_US">
+			<Text>City State of Ellander</Text>
+		</Row>
+		<Row Tag="LOC_ELLANDER_ADJECTIVE" Language="en_US">
+			<Text>Ellander</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELLANDER" Language="en_US">
+			<Text>Ellander</Text>
+		</Row>
+		<!-- Cidaris-->
+		<Row Tag="LOC_MINOR_CIV_CIDARIS_TRAIT_NAME" Language="en_US">
+			<Text>Cidaris</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CIDARIS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+20% Production toward Ranged Naval units from all the eras since the Classical Era.</Text>
+		</Row>
+		<Row Tag="LOC_CIDARIS_NAME" Language="en_US">
+			<Text>Cidaris</Text>
+		</Row>
+		<Row Tag="LOC_CIDARIS_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Cidaris</Text>
+		</Row>
+		<Row Tag="LOC_CIDARIS_ADJECTIVE" Language="en_US">
+			<Text>Cidaris</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CIDARIS" Language="en_US">
+			<Text>Cidaris</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BREMERVOORD" Language="en_US">
+			<Text>Bremervoord</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VOLE" Language="en_US">
+			<Text>Vole</Text>
+		</Row>
+		<!-- Kerack-->
+		<Row Tag="LOC_MINOR_CIV_KERACK_TRAIT_NAME" Language="en_US">
+			<Text>Kerack</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_KERACK_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 Gold [ICON_Gold] for all districts next to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_KERACK_NAME" Language="en_US">
+			<Text>Kerack</Text>
+		</Row>
+		<Row Tag="LOC_KERACK_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Kerack</Text>
+		</Row>
+		<Row Tag="LOC_KERACK_ADJECTIVE" Language="en_US">
+			<Text>Kerack</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KERACK" Language="en_US">
+			<Text>Kerack</Text>
+		</Row>
+		<!-- Verden-->
+		<Row Tag="LOC_MINOR_CIV_VERDEN_TRAIT_NAME" Language="en_US">
+			<Text>Verden</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_VERDEN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 Gold [ICON_Gold] in the Encampment next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_VERDEN_NAME" Language="en_US">
+			<Text>Verden</Text>
+		</Row>
+		<Row Tag="LOC_VERDEN_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Verden</Text>
+		</Row>
+		<Row Tag="LOC_VERDEN_ADJECTIVE" Language="en_US">
+			<Text>Verden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NASTROG" Language="en_US">
+			<Text>Nastrog</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BODROG" Language="en_US">
+			<Text>Bodrog</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAMN" Language="en_US">
+			<Text>Hamn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ROZROG" Language="en_US">
+			<Text>Rozrog</Text>
+		</Row>
+		<!-- Toussaint-->
+		<Row Tag="LOC_MINOR_CIV_TOUSSAINT_TRAIT_NAME" Language="en_US">
+			<Text>Toussaint</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TOUSSAINT_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Receive the [ICON_RESOURCE_WINE] Wine. +1 [ICON_Gold] Gold from [ICON_RESOURCE_WINE] Wine, [ICON_RESOURCE_INCENSE] Incense, [ICON_RESOURCE_COCOA] Cocoa, [ICON_RESOURCE_TOBACCO] Tobacco, [ICON_RESOURCE_COFFEE] Coffee, and [ICON_RESOURCE_TEA] Tea Plantations.</Text>
+		</Row>
+		<Row Tag="LOC_TOUSSAINT_NAME" Language="en_US">
+			<Text>Toussaint</Text>
+		</Row>
+		<Row Tag="LOC_TOUSSAINT_DESCRIPTION" Language="en_US">
+			<Text>Duchy of Toussaint</Text>
+		</Row>
+		<Row Tag="LOC_TOUSSAINT_ADJECTIVE" Language="en_US">
+			<Text>Toussaint</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BEAUCLAIR" Language="en_US">
+			<Text>Beauclair</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CORVO" Language="en_US">
+			<Text>Corvo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUN_TYNNE" Language="en_US">
+			<Text>Dun Tynne</Text>
+		</Row>
+		<!-- Cintra-->
+		<Row Tag="LOC_MINOR_CIV_CINTRA_TRAIT_NAME" Language="en_US">
+			<Text>Cintra</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CINTRA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+2 Culture [ICON_Culture] for all districts next to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_CINTRA_NAME" Language="en_US">
+			<Text>Cintra</Text>
+		</Row>
+		<Row Tag="LOC_CINTRA_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Cintra</Text>
+		</Row>
+		<Row Tag="LOC_CINTRA_ADJECTIVE" Language="en_US">
+			<Text>Cintra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CINTRA" Language="en_US">
+			<Text>Cintra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATTRE" Language="en_US">
+			<Text>Attre</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIGG" Language="en_US">
+			<Text>Tigg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORTAGOR" Language="en_US">
+			<Text>Ortagor</Text>
+		</Row>
+		<!-- Hengfors League-->
+		<Row Tag="LOC_MINOR_CIV_HENGFORSLEAGUE_TRAIT_NAME" Language="en_US">
+			<Text>Hengfors League</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_HENGFORSLEAGUE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TRADEROUTE] Trade Routes to any City-State provide +2 [ICON_Gold] Gold for every specialty district in the origin city. </Text>
+		</Row>
+		<Row Tag="LOC_HENGFORSLEAGUE_NAME" Language="en_US">
+			<Text>Hengfors League</Text>
+		</Row>
+		<Row Tag="LOC_HENGFORSLEAGUE_DESCRIPTION" Language="en_US">
+			<Text>Hengfors League</Text>
+		</Row>
+		<Row Tag="LOC_HENGFORSLEAGUE_ADJECTIVE" Language="en_US">
+			<Text>Hengfors</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HENGFORS" Language="en_US">
+			<Text>Hengfors</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CREYDEN" Language="en_US">
+			<Text>Creyden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALLEORE" Language="en_US">
+			<Text>Malleore</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAREFIELD" Language="en_US">
+			<Text>Barefield</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CREIGIAU" Language="en_US">
+			<Text>Creigiau</Text>
+		</Row>
+		<!-- Sodden-->
+		<Row Tag="LOC_MINOR_CIV_SODDEN_TRAIT_NAME" Language="en_US">
+			<Text>Sodden</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SODDEN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_Gold] Gold to your [ICON_TradeRoute] Trade Routes passing through.</Text>
+		</Row>
+		<Row Tag="LOC_SODDEN_NAME" Language="en_US">
+			<Text>Sodden</Text>
+		</Row>
+		<Row Tag="LOC_SODDEN_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Sodden</Text>
+		</Row>
+		<Row Tag="LOC_SODDEN_ADJECTIVE" Language="en_US">
+			<Text>Sodden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARMERIA" Language="en_US">
+			<Text>Armeria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARCANO" Language="en_US">
+			<Text>Carcano</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VIDORT" Language="en_US">
+			<Text>Vidort</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAGEN" Language="en_US">
+			<Text>Kagen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIEDBRUNE" Language="en_US">
+			<Text>Riedbrune</Text>
+		</Row>
+		<!-- Angren-->
+		<Row Tag="LOC_MINOR_CIV_ANGREN_TRAIT_NAME" Language="en_US">
+			<Text>Angren</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ANGREN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Holy Sites gains +1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_ANGREN_NAME" Language="en_US">
+			<Text>Angren</Text>
+		</Row>
+		<Row Tag="LOC_ANGREN_DESCRIPTION" Language="en_US">
+			<Text>Angren</Text>
+		</Row>
+		<Row Tag="LOC_ANGREN_ADJECTIVE" Language="en_US">
+			<Text>Angren</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGREN" Language="en_US">
+			<Text>Angren</Text>
+		</Row>
+		<!-- BAREFIELD-->
+		<Row Tag="LOC_MINOR_CIV_BAREFIELD_TRAIT_NAME" Language="en_US">
+			<Text>Barefield</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BAREFIELD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Pastures gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_BAREFIELD_NAME" Language="en_US">
+			<Text>Barefield</Text>
+		</Row>
+		<Row Tag="LOC_BAREFIELD_DESCRIPTION" Language="en_US">
+			<Text>Barefield</Text>
+		</Row>
+		<Row Tag="LOC_BAREFIELD_ADJECTIVE" Language="en_US">
+			<Text>Barefield</Text>
+		</Row>
+		<!-- MALLEORE-->
+		<Row Tag="LOC_MINOR_CIV_MALLEORE_TRAIT_NAME" Language="en_US">
+			<Text>Malleore</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MALLEORE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_MALLEORE_NAME" Language="en_US">
+			<Text>Malleore</Text>
+		</Row>
+		<Row Tag="LOC_MALLEORE_DESCRIPTION" Language="en_US">
+			<Text>Malleore</Text>
+		</Row>
+		<Row Tag="LOC_MALLEORE_ADJECTIVE" Language="en_US">
+			<Text>Malleore</Text>
+		</Row>
+		<!-- CREYDEN-->
+		<Row Tag="LOC_MINOR_CIV_CREYDEN_TRAIT_NAME" Language="en_US">
+			<Text>Creyden</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CREYDEN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Teather districts gains 1 [ICON_Culture] Culture if they are next to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_CREYDEN_NAME" Language="en_US">
+			<Text>Creyden</Text>
+		</Row>
+		<Row Tag="LOC_CREYDEN_DESCRIPTION" Language="en_US">
+			<Text>Creyden</Text>
+		</Row>
+		<Row Tag="LOC_CREYDEN_ADJECTIVE" Language="en_US">
+			<Text>Creyden</Text>
+		</Row>
+		<Row Tag="MYWITCHER_LOC_DISTRICT_MOUNTAIN_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for mountain adjacency</Text>
+		</Row>
+		<!-- YMLAC-->
+		<Row Tag="LOC_MINOR_CIV_YMLAC_TRAIT_NAME" Language="en_US">
+			<Text>Ymlac</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_YMLAC_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your districts provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts).</Text>
+		</Row>
+		<Row Tag="LOC_YMLAC_NAME" Language="en_US">
+			<Text>Ymlac</Text>
+		</Row>
+		<Row Tag="LOC_YMLAC_DESCRIPTION" Language="en_US">
+			<Text>Ymlac</Text>
+		</Row>
+		<Row Tag="LOC_YMLAC_ADJECTIVE" Language="en_US">
+			<Text>Ymlac</Text>
+		</Row>
+		<!-- ROWAN-->
+		<Row Tag="LOC_MINOR_CIV_ROWAN_TRAIT_NAME" Language="en_US">
+			<Text>Rowan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ROWAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to foreign cities earn +1 [ICON_Gold] Gold for each Luxury resource at the destination.</Text>
+		</Row>
+		<Row Tag="LOC_ROWAN_NAME" Language="en_US">
+			<Text>Rowan</Text>
+		</Row>
+		<Row Tag="LOC_ROWAN_DESCRIPTION" Language="en_US">
+			<Text>Rowan</Text>
+		</Row>
+		<Row Tag="LOC_ROWAN_ADJECTIVE" Language="en_US">
+			<Text>Rowan</Text>
+		</Row>
+		<!-- VICOVARO-->
+		<Row Tag="LOC_MINOR_CIV_VICOVARO_TRAIT_NAME" Language="en_US">
+			<Text>Vicovaro</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_VICOVARO_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities have full [ICON_Housing] Housing from water, as if they were all next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_VICOVARO_NAME" Language="en_US">
+			<Text>Vicovaro</Text>
+		</Row>
+		<Row Tag="LOC_VICOVARO_DESCRIPTION" Language="en_US">
+			<Text>Vicovaro</Text>
+		</Row>
+		<Row Tag="LOC_VICOVARO_ADJECTIVE" Language="en_US">
+			<Text>Vicovaro</Text>
+		</Row>
+		<!-- EBBING-->
+		<Row Tag="LOC_MINOR_CIV_EBBING_TRAIT_NAME" Language="en_US">
+			<Text>Ebbing</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_EBBING_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your light and heavy cavalry units have +5 [ICON_Strength] Strength when fighting on hill tiles.</Text>
+		</Row>
+		<Row Tag="LOC_EBBING_NAME" Language="en_US">
+			<Text>Ebbing</Text>
+		</Row>
+		<Row Tag="LOC_EBBING_DESCRIPTION" Language="en_US">
+			<Text>Ebbing</Text>
+		</Row>
+		<Row Tag="LOC_EBBING_ADJECTIVE" Language="en_US">
+			<Text>Ebbing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EBBING" Language="en_US">
+			<Text>Ebbing</Text>
+		</Row>
+		<!-- NAZAIR-->
+		<Row Tag="LOC_MINOR_CIV_NAZAIR_TRAIT_NAME" Language="en_US">
+			<Text>Nazair</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_NAZAIR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production for all districts next to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_NAZAIR_NAME" Language="en_US">
+			<Text>Nazair</Text>
+		</Row>
+		<Row Tag="LOC_NAZAIR_DESCRIPTION" Language="en_US">
+			<Text>Nazair</Text>
+		</Row>
+		<Row Tag="LOC_NAZAIR_ADJECTIVE" Language="en_US">
+			<Text>Nazair</Text>
+		</Row>
+		<!-- METINNA-->
+		<Row Tag="LOC_MINOR_CIV_METINNA_TRAIT_NAME" Language="en_US">
+			<Text>Metinna</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_METINNA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
+		</Row>
+		<Row Tag="LOC_METINNA_NAME" Language="en_US">
+			<Text>Metinna</Text>
+		</Row>
+		<Row Tag="LOC_METINNA_DESCRIPTION" Language="en_US">
+			<Text>Metinna</Text>
+		</Row>
+		<Row Tag="LOC_METINNA_ADJECTIVE" Language="en_US">
+			<Text>Metinna</Text>
+		</Row>
+		<!-- MAECHT-->
+		<Row Tag="LOC_MINOR_CIV_MAECHT_TRAIT_NAME" Language="en_US">
+			<Text>Maecht</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MAECHT_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Encampment districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_MAECHT_NAME" Language="en_US">
+			<Text>Maecht</Text>
+		</Row>
+		<Row Tag="LOC_MAECHT_DESCRIPTION" Language="en_US">
+			<Text>Maecht</Text>
+		</Row>
+		<Row Tag="LOC_MAECHT_ADJECTIVE" Language="en_US">
+			<Text>Maecht</Text>
+		</Row>
+		<!-- GESO-->
+		<Row Tag="LOC_MINOR_CIV_GESO_TRAIT_NAME" Language="en_US">
+			<Text>Geso</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_GESO_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+50% Production toward anti-cavalry units from all the eras.</Text>
+		</Row>
+		<Row Tag="LOC_GESO_NAME" Language="en_US">
+			<Text>Geso</Text>
+		</Row>
+		<Row Tag="LOC_GESO_DESCRIPTION" Language="en_US">
+			<Text>Geso</Text>
+		</Row>
+		<Row Tag="LOC_GESO_ADJECTIVE" Language="en_US">
+			<Text>Geso</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GESO" Language="en_US">
+			<Text>Geso</Text>
+		</Row>
+		<!-- MAG_TURGA-->
+		<Row Tag="LOC_MINOR_CIV_MAG_TURGA_TRAIT_NAME" Language="en_US">
+			<Text>Mag Turga</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MAG_TURGA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zone districts gains 1 [ICON_Production] Production if they are next to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_MAG_TURGA_NAME" Language="en_US">
+			<Text>Mag Turga</Text>
+		</Row>
+		<Row Tag="LOC_MAG_TURGA_DESCRIPTION" Language="en_US">
+			<Text>Mag Turga</Text>
+		</Row>
+		<Row Tag="LOC_MAG_TURGA_ADJECTIVE" Language="en_US">
+			<Text>Mag Turga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAG_TURGA" Language="en_US">
+			<Text>Mag Turga</Text>
+		</Row>
+		<Row Tag="MYWITCHER_LOC_DISTRICT_MOUNTAIN_PRODUCTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production for mountain adjacency</Text>
+		</Row>
+		<!-- GEMMERA-->
+		<Row Tag="LOC_MINOR_CIV_GEMMERA_TRAIT_NAME" Language="en_US">
+			<Text>Gemmera</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_GEMMERA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Lumber Mills gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_GEMMERA_NAME" Language="en_US">
+			<Text>Gemmera</Text>
+		</Row>
+		<Row Tag="LOC_GEMMERA_DESCRIPTION" Language="en_US">
+			<Text>Gemmera</Text>
+		</Row>
+		<Row Tag="LOC_GEMMERA_ADJECTIVE" Language="en_US">
+			<Text>Gemmera</Text>
+		</Row>
+		<!-- ETOLIA-->
+		<Row Tag="LOC_MINOR_CIV_ETOLIA_TRAIT_NAME" Language="en_US">
+			<Text>Etolia</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ETOLIA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Farms gain +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_ETOLIA_NAME" Language="en_US">
+			<Text>Etolia</Text>
+		</Row>
+		<Row Tag="LOC_ETOLIA_DESCRIPTION" Language="en_US">
+			<Text>Etolia</Text>
+		</Row>
+		<Row Tag="LOC_ETOLIA_ADJECTIVE" Language="en_US">
+			<Text>Etolia</Text>
+		</Row>
+		<!-- BREMERVOORD-->
+		<Row Tag="LOC_MINOR_CIV_BREMERVOORD_TRAIT_NAME" Language="en_US">
+			<Text>Bremervoord</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_BREMERVOORD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Fishing Boats gain +1 [ICON_Gold] Gold. Receive the [ICON_RESOURCE_PEARLS] Pearls.</Text>
+		</Row>
+		<Row Tag="LOC_BREMERVOORD_NAME" Language="en_US">
+			<Text>Bremervoord</Text>
+		</Row>
+		<Row Tag="LOC_BREMERVOORD_DESCRIPTION" Language="en_US">
+			<Text>Bremervoord</Text>
+		</Row>
+		<Row Tag="LOC_BREMERVOORD_ADJECTIVE" Language="en_US">
+			<Text>Bremervoord</Text>
+		</Row>
+		<!-- ATTRE-->
+		<Row Tag="LOC_MINOR_CIV_ATTRE_TRAIT_NAME" Language="en_US">
+			<Text>Attre</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ATTRE_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zone districts gains 1 [ICON_Production] Production if they are next to Plains.</Text>
+		</Row>
+		<Row Tag="LOC_ATTRE_NAME" Language="en_US">
+			<Text>Attre</Text>
+		</Row>
+		<Row Tag="LOC_ATTRE_DESCRIPTION" Language="en_US">
+			<Text>Attre</Text>
+		</Row>
+		<Row Tag="LOC_ATTRE_ADJECTIVE" Language="en_US">
+			<Text>Attre</Text>
+		</Row>
+		<Row Tag="MYWITCHER_LOC_DISTRICT_PLAINS_PRODUCTION" Language="en_US">
+			<Text>+1 [ICON_Production] Production for Plains</Text>
+		</Row>
+		<!-- MARIBOR-->
+		<Row Tag="LOC_MINOR_CIV_MARIBOR_TRAIT_NAME" Language="en_US">
+			<Text>Maribor</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MARIBOR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Regional effects from your Industrial Zone and Entertainment Complex districts reach 3 tiles farther.</Text>
+		</Row>
+		<Row Tag="LOC_MARIBOR_NAME" Language="en_US">
+			<Text>Maribor</Text>
+		</Row>
+		<Row Tag="LOC_MARIBOR_DESCRIPTION" Language="en_US">
+			<Text>Maribor</Text>
+		</Row>
+		<Row Tag="LOC_MARIBOR_ADJECTIVE" Language="en_US">
+			<Text>Maribor</Text>
+		</Row>
+		<!-- JAMURLAK-->
+		<Row Tag="LOC_MINOR_CIV_JAMURLAK_TRAIT_NAME" Language="en_US">
+			<Text>Jamurlak</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_JAMURLAK_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Automatically converts to the Religion you founded, and exerts pressure for that Religion as if it were a Holy City.</Text>
+		</Row>
+		<Row Tag="LOC_JAMURLAK_NAME" Language="en_US">
+			<Text>Jamurlak</Text>
+		</Row>
+		<Row Tag="LOC_JAMURLAK_DESCRIPTION" Language="en_US">
+			<Text>Jamurlak</Text>
+		</Row>
+		<Row Tag="LOC_JAMURLAK_ADJECTIVE" Language="en_US">
+			<Text>Jamurlak</Text>
+		</Row>
+		<!-- RIVERDELL-->
+		<Row Tag="LOC_MINOR_CIV_RIVERDELL_TRAIT_NAME" Language="en_US">
+			<Text>Riverdell</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RIVERDELL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 Faith [ICON_Faith] in the Holy Sites next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_RIVERDELL_NAME" Language="en_US">
+			<Text>Riverdell</Text>
+		</Row>
+		<Row Tag="LOC_RIVERDELL_DESCRIPTION" Language="en_US">
+			<Text>Riverdell</Text>
+		</Row>
+		<Row Tag="LOC_RIVERDELL_ADJECTIVE" Language="en_US">
+			<Text>Riverdell</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIVERDELL" Language="en_US">
+			<Text>Riverdell</Text>
+		</Row>
+		<!-- CAINGORN-->
+		<Row Tag="LOC_MINOR_CIV_CAINGORN_TRAIT_NAME" Language="en_US">
+			<Text>Caingorn</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CAINGORN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_Culture] Culture and +1 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+		</Row>
+		<Row Tag="LOC_CAINGORN_NAME" Language="en_US">
+			<Text>Caingorn</Text>
+		</Row>
+		<Row Tag="LOC_CAINGORN_DESCRIPTION" Language="en_US">
+			<Text>Caingorn</Text>
+		</Row>
+		<Row Tag="LOC_CAINGORN_ADJECTIVE" Language="en_US">
+			<Text>Caingorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAINGORN" Language="en_US">
+			<Text>Caingorn</Text>
+		</Row>
+		<!-- ARETUZA-->
+		<Row Tag="LOC_MINOR_CIV_ARETUZA_TRAIT_NAME" Language="en_US">
+			<Text>Aretuza</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ARETUZA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>When you enter a new era, earn 1 random [ICON_TechBoosted] Eureka from that era.</Text>
+		</Row>
+		<Row Tag="LOC_ARETUZA_NAME" Language="en_US">
+			<Text>Aretuza</Text>
+		</Row>
+		<Row Tag="LOC_ARETUZA_DESCRIPTION" Language="en_US">
+			<Text>Aretuza</Text>
+		</Row>
+		<Row Tag="LOC_ARETUZA_ADJECTIVE" Language="en_US">
+			<Text>Aretuza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARETUZA" Language="en_US">
+			<Text>Aretuza</Text>
+		</Row>
+		<!-- End of City States-->
+		<Row Tag="LOC_CONTINENT_WITCHER_NORTHERN_KINGDOMS_DESCRIPTION" Language="en_US">
+			<Text>Northern Kingdoms</Text>
+		</Row>
+		<!-- RELIGIONS -->
+		<Row Tag="LOC_RELIGION_GREAT_SUN" Language="en_US">
+			<Text>Great Sun</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_MELITELE" Language="en_US">
+			<Text>Melitele</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ETERNAL_FIRE" Language="en_US">
+			<Text>Eternal Fire</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_GREAT_MOTHER_FREYA" Language="en_US">
+			<Text>Great Mother Freya</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FOREFATHER_KREVE" Language="en_US">
+			<Text>Forefather Kreve</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_LEBIODA" Language="en_US">
+			<Text>Lebioda</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_WITCHER_DRUIDS" Language="en_US">
+			<Text>Druids</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_DANA_MEADBH" Language="en_US">
+			<Text>Dana Méadbh</Text>
+		</Row>
+		<!-- END OF RELIGIONS -->
+		<Row Tag="LOC_ABILITY_TUIRSEACH_AXEMEN_NAME" Language="en_US">
+			<Text>Tuirseach Axemen</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TUIRSEACH_AXEMEN_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength against damaged units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DRYAD_ARCHER_NAME" Language="en_US">
+			<Text>Dryad Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DRYAD_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength when attacking and -7 [ICON_Strength] Combat Strength when defending.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_POOR_FLANKING_INFANTRY_NAME" Language="en_US">
+			<Text>Poor Flanking Infantry</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_POOR_FLANKING_INFANTRY_DESCRIPTION" Language="en_US">
+			<Text>75% flanking bonus.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NORTHERN_TREBUCHET_NAME" Language="en_US">
+			<Text>Northern Trebuchet</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NORTHERN_TREBUCHET_DESCRIPTION" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength if there is at least one Trebuchet adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FIRE_SCORPION_NAME" Language="en_US">
+			<Text>Fire Scorpion</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FIRE_SCORPION_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength vs. melee and ranged units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BROKVAR_ARCHER_NAME" Language="en_US">
+			<Text>Brokvar Archer</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BROKVAR_ARCHER_DESCRIPTION" Language="en_US">
+			<Text>Half of the attack of the Crossbowman, but can attack twice per turn.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VRIHEDD_BRIGADE_NAME" Language="en_US">
+			<Text>Vrihedd Brigade</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VRIHEDD_BRIGADE_DESCRIPTION" Language="en_US">
+			<Text>+7 [ICON_Strength] Combat Strength when defending in Woods, Jungle, Hills, or Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LYRIAN_FREE_COMPANY_NAME" Language="en_US">
+			<Text>Lyrian Free Company</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LYRIAN_FREE_COMPANY_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting in or adjacent to its home territory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TEMERIAN_LANDSKNECHT_NAME" Language="en_US">
+			<Text>Temerian Landsknech</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TEMERIAN_LANDSKNECHT_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength vs. cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAVY_DUN_BANNER_NAME" Language="en_US">
+			<Text>Heavy Dun Banner</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAVY_DUN_BANNER_DESCRIPTION" Language="en_US">
+			<Text>Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROYAL_ELITE_NAME" Language="en_US">
+			<Text>Royal Elite</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROYAL_ELITE_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength vs. anti-cavalry units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROYAL_KNIGHTS_NAME" Language="en_US">
+			<Text>Royal Knight</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROYAL_KNIGHTS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength vs. melee and ranged units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NORTHERN_SORCERES_NAME" Language="en_US">
+			<Text>Northern Sorceres</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NORTHERN_SORCERES_DESCRIPTION" Language="en_US">
+			<Text>Heals at the end of every turn, even after moving or attacking.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

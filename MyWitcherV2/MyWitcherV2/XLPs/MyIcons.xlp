@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="MyIcons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="MyWitcherFlag256"/>
+			<m_ObjectName text="MyWitcherFlag256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag80"/>
+			<m_ObjectName text="MyWitcherFlag80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag64"/>
+			<m_ObjectName text="MyWitcherFlag64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag50"/>
+			<m_ObjectName text="MyWitcherFlag50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag48"/>
+			<m_ObjectName text="MyWitcherFlag48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag45"/>
+			<m_ObjectName text="MyWitcherFlag45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag44"/>
+			<m_ObjectName text="MyWitcherFlag44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag36"/>
+			<m_ObjectName text="MyWitcherFlag36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag32"/>
+			<m_ObjectName text="MyWitcherFlag32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag30"/>
+			<m_ObjectName text="MyWitcherFlag30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherFlag22"/>
+			<m_ObjectName text="MyWitcherFlag22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherLeaders256"/>
+			<m_ObjectName text="MyWitcherLeaders256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherLeaders80"/>
+			<m_ObjectName text="MyWitcherLeaders80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherLeaders64"/>
+			<m_ObjectName text="MyWitcherLeaders64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherLeaders55"/>
+			<m_ObjectName text="MyWitcherLeaders55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherLeaders50"/>
+			<m_ObjectName text="MyWitcherLeaders50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherLeaders48"/>
+			<m_ObjectName text="MyWitcherLeaders48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherLeaders45"/>
+			<m_ObjectName text="MyWitcherLeaders45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherLeaders32"/>
+			<m_ObjectName text="MyWitcherLeaders32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units256_FOW"/>
+			<m_ObjectName text="MyWitcher_Units256_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units80_FOW"/>
+			<m_ObjectName text="MyWitcher_Units80_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units50_FOW"/>
+			<m_ObjectName text="MyWitcher_Units50_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units38_FOW"/>
+			<m_ObjectName text="MyWitcher_Units38_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units32_FOW"/>
+			<m_ObjectName text="MyWitcher_Units32_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units22_FOW"/>
+			<m_ObjectName text="MyWitcher_Units22_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units256"/>
+			<m_ObjectName text="MyWitcher_Units256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units80"/>
+			<m_ObjectName text="MyWitcher_Units80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units50"/>
+			<m_ObjectName text="MyWitcher_Units50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units38"/>
+			<m_ObjectName text="MyWitcher_Units38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units32"/>
+			<m_ObjectName text="MyWitcher_Units32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Units22"/>
+			<m_ObjectName text="MyWitcher_Units22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherPotraits256"/>
+			<m_ObjectName text="MyWitcherPotraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherPotraits200"/>
+			<m_ObjectName text="MyWitcherPotraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherPotraits95"/>
+			<m_ObjectName text="MyWitcherPotraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherPotraits70"/>
+			<m_ObjectName text="MyWitcherPotraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherPotraits50"/>
+			<m_ObjectName text="MyWitcherPotraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherPotraits38"/>
+			<m_ObjectName text="MyWitcherPotraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherReligionIcon_270"/>
+			<m_ObjectName text="MyWitcherReligionIcon_270"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherReligionIcon_100"/>
+			<m_ObjectName text="MyWitcherReligionIcon_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherReligionIcon_50"/>
+			<m_ObjectName text="MyWitcherReligionIcon_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcherReligionIcon_22"/>
+			<m_ObjectName text="MyWitcherReligionIcon_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WitcherBuildings256"/>
+			<m_ObjectName text="WitcherBuildings256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WitcherBuildings128"/>
+			<m_ObjectName text="WitcherBuildings128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WitcherBuildings80"/>
+			<m_ObjectName text="WitcherBuildings80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WitcherBuildings50"/>
+			<m_ObjectName text="WitcherBuildings50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WitcherBuildings38"/>
+			<m_ObjectName text="WitcherBuildings38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="WitcherBuildings32"/>
+			<m_ObjectName text="WitcherBuildings32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyWitcher_Loading_Background"/>
+			<m_ObjectName text="MyWitcher_Loading_Background"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FOLTEST"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FOLTEST"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_EMHYR_VAR_EMREIS"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_EMHYR_VAR_EMREIS"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DIJKSTRA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DIJKSTRA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_RADOVID"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_RADOVID"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_HENSELT"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_HENSELT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_CRACH_AN_CRAITE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_CRACH_AN_CRAITE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DEMAVEND"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DEMAVEND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_FRANCESCA_FINDABAIR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_FRANCESCA_FINDABAIR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ESTERAD_THYSSEN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ESTERAD_THYSSEN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MORVRAN_VOORHIS"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MORVRAN_VOORHIS"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_JAN_CALVEIT"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_JAN_CALVEIT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_BRAN_TUIRSEACH"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_BRAN_TUIRSEACH"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_HARALD_AN_CRAITE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_HARALD_AN_CRAITE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_LADY_EITHNE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_LADY_EITHNE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MEVE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MEVE"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

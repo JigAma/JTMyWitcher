@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="ABILITY_BLUE_STRIPES" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MYWITCHER_SIEGE_UNITS_BONUS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_IMPERA_BRIGADE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BLACK_INFANTRY_ARCHERS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NAUSICAA_CAVALRY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_REDANIAN_FOOTSOLDIER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DUN_BANNER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SKELLIGE_RAIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_AEDIRN_SPECIAL_FORCES" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_RIVIAN_CROSSBOWMAN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ELF_COMMANDO" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ELF_HORSE_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ELF_COMMANDO_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TUIRSEACH_AXEMEN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DRYAD_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_POOR_FLANKING_INFANTRY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NORTHERN_TREBUCHET" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_FIRE_SCORPION" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ALBA_DIVISION" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BROKVAR_ARCHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_VRIHEDD_BRIGADE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LYRIAN_FREE_COMPANY" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TEMERIAN_LANDSKNECHT" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HEAVY_DUN_BANNER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ROYAL_ELITE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ROYAL_KNIGHTS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NORTHERN_SORCERES" Kind="KIND_ABILITY"/>
+
+	</Types>
+
+	<TypeTags>
+		<Row Type="ABILITY_BLUE_STRIPES" Tag="CLASS_BLUE_STRIPES"/>
+		<Row Type="ABILITY_MYWITCHER_SIEGE_UNITS_BONUS" Tag="CLASS_SIEGE"/>
+		<Row Type="ABILITY_IMPERA_BRIGADE" Tag="CLASS_IMPERA_BRIGADE"/>
+		<Row Type="ABILITY_BLACK_INFANTRY_ARCHERS" Tag="CLASS_BLACK_INFANTRY_ARCHERS"/>
+		<Row Type="ABILITY_NAUSICAA_CAVALRY" Tag="CLASS_NAUSICAA_CAVALRY"/>
+		<Row Type="ABILITY_REDANIAN_FOOTSOLDIER" Tag="CLASS_REDANIAN_FOOTSOLDIER"/>
+		<Row Type="ABILITY_DUN_BANNER" Tag="CLASS_DUN_BANNER"/>
+		<Row Type="ABILITY_SKELLIGE_RAIDER" Tag="CLASS_SKELLIGE_RAIDER"/>
+		<Row Type="ABILITY_AEDIRN_SPECIAL_FORCES" Tag="CLASS_AEDIRN_SPECIAL_FORCES"/>
+		<Row Type="ABILITY_RIVIAN_CROSSBOWMAN" Tag="CLASS_RIVIAN_CROSSBOWMAN"/>
+		<Row Type="ABILITY_ELF_COMMANDO" Tag="CLASS_ELF_COMMANDO"/>
+		<Row Type="ABILITY_ELF_HORSE_ARCHER" Tag="CLASS_ELF_HORSE_ARCHER"/>
+		<Row Type="ABILITY_ELF_COMMANDO_ARCHER" Tag="CLASS_ELF_COMMANDO_ARCHER"/>
+		<Row Type="ABILITY_TUIRSEACH_AXEMEN" Tag="CLASS_TUIRSEACH_AXEMEN"/>
+		<Row Type="ABILITY_DRYAD_ARCHER" Tag="CLASS_DRYAD_ARCHER"/>
+		<Row Type="ABILITY_POOR_FLANKING_INFANTRY" Tag="CLASS_POOR_FLANKING_INFANTRY"/>
+		<Row Type="ABILITY_NORTHERN_TREBUCHET" Tag="CLASS_NORTHERN_TREBUCHET"/>
+		<Row Type="ABILITY_FIRE_SCORPION" Tag="CLASS_FIRE_SCORPION"/>
+		<Row Type="ABILITY_ALBA_DIVISION" Tag="CLASS_ALBA_DIVISION"/>
+		<Row Type="ABILITY_BROKVAR_ARCHER" Tag="CLASS_BROKVAR_ARCHER"/>
+		<Row Type="ABILITY_VRIHEDD_BRIGADE" Tag="CLASS_VRIHEDD_BRIGADE"/>
+		<Row Type="ABILITY_LYRIAN_FREE_COMPANY" Tag="CLASS_LYRIAN_FREE_COMPANY"/>
+		<Row Type="ABILITY_TEMERIAN_LANDSKNECHT" Tag="CLASS_TEMERIAN_LANDSKNECHT"/>
+		<Row Type="ABILITY_HEAVY_DUN_BANNER" Tag="CLASS_HEAVY_DUN_BANNER"/>
+		<Row Type="ABILITY_ROYAL_ELITE" Tag="CLASS_ROYAL_ELITE"/>
+		<Row Type="ABILITY_ROYAL_KNIGHTS" Tag="CLASS_ROYAL_KNIGHTS"/>
+		<Row Type="ABILITY_NORTHERN_SORCERES" Tag="CLASS_NORTHERN_SORCERES"/>
+
+	</TypeTags>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_BLUE_STRIPES" Name="LOC_ABILITY_BLUE_STRIPES_NAME" Description="LOC_ABILITY_BLUE_STRIPES_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MYWITCHER_SIEGE_UNITS_BONUS" Name="LOC_TRAIT_SIEGEMASTER_NAME" Description="LOC_ABILITY_SIEGE_COMBAT_BONUS_MODIFIER_DESCRIPTION"  Inactive="true"/>
+		<Row UnitAbilityType="ABILITY_IMPERA_BRIGADE" Name="LOC_ABILITY_IMPERA_BRIGADE_NAME" Description="LOC_ABILITY_IMPERA_BRIGADE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BLACK_INFANTRY_ARCHERS" Name="LOC_ABILITY_BLACK_INFANTRY_ARCHERS_NAME" Description="LOC_ABILITY_BLACK_INFANTRY_ARCHERS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NAUSICAA_CAVALRY" Name="LOC_ABILITY_NAUSICAA_CAVALRY_NAME" Description="LOC_ABILITY_NAUSICAA_CAVALRY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_REDANIAN_FOOTSOLDIER" Name="LOC_ABILITY_REDANIAN_FOOTSOLDIER_NAME" Description="LOC_ABILITY_REDANIAN_FOOTSOLDIER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DUN_BANNER" Name="LOC_ABILITY_DUN_BANNER_NAME" Description="LOC_ABILITY_DUN_BANNER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SKELLIGE_RAIDER" Name="LOC_ABILITY_SKELLIGE_RAIDER_NAME" Description="LOC_ABILITY_SKELLIGE_RAIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_AEDIRN_SPECIAL_FORCES" Name="LOC_ABILITY_AEDIRN_SPECIAL_FORCES_NAME" Description="LOC_ABILITY_AEDIRN_SPECIAL_FORCES_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_RIVIAN_CROSSBOWMAN" Name="LOC_ABILITY_RIVIAN_CROSSBOWMAN_NAME" Description="LOC_ABILITY_RIVIAN_CROSSBOWMAN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ELF_COMMANDO" Name="LOC_ABILITY_ELF_COMMANDO_NAME" Description="LOC_ABILITY_ELF_COMMANDO_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ELF_HORSE_ARCHER" Name="LOC_ABILITY_ELF_HORSE_ARCHER_NAME" Description="LOC_ABILITY_ELF_HORSE_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ELF_COMMANDO_ARCHER" Name="LOC_ABILITY_ELF_COMMANDO_ARCHER_NAME" Description="LOC_ABILITY_ELF_COMMANDO_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TUIRSEACH_AXEMEN" Name="LOC_ABILITY_TUIRSEACH_AXEMEN_NAME" Description="LOC_ABILITY_TUIRSEACH_AXEMEN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DRYAD_ARCHER" Name="LOC_ABILITY_DRYAD_ARCHER_NAME" Description="LOC_ABILITY_DRYAD_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_POOR_FLANKING_INFANTRY" Name="LOC_ABILITY_POOR_FLANKING_INFANTRY_NAME" Description="LOC_ABILITY_POOR_FLANKING_INFANTRY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NORTHERN_TREBUCHET" Name="LOC_ABILITY_NORTHERN_TREBUCHET_NAME" Description="LOC_ABILITY_NORTHERN_TREBUCHET_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_FIRE_SCORPION" Name="LOC_ABILITY_FIRE_SCORPION_NAME" Description="LOC_ABILITY_FIRE_SCORPION_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ALBA_DIVISION" Name="LOC_ALBA_DIVISION_NAME" Description="LOC_ALBA_DIVISION_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BROKVAR_ARCHER" Name="LOC_BROKVAR_ARCHER_NAME" Description="LOC_BROKVAR_ARCHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_VRIHEDD_BRIGADE" Name="LOC_VRIHEDD_BRIGADE_NAME" Description="LOC_VRIHEDD_BRIGADE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LYRIAN_FREE_COMPANY" Name="LOC_LYRIAN_FREE_COMPANY_NAME" Description="LOC_LYRIAN_FREE_COMPANY_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TEMERIAN_LANDSKNECHT" Name="LOC_TEMERIAN_LANDSKNECHT_NAME" Description="LOC_TEMERIAN_LANDSKNECHT_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HEAVY_DUN_BANNER" Name="LOC_HEAVY_DUN_BANNER_NAME" Description="LOC_HEAVY_DUN_BANNER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ROYAL_ELITE" Name="LOC_ABILITY_ROYAL_ELITE_NAME" Description="LOC_ABILITY_ROYAL_ELITE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ROYAL_KNIGHTS" Name="LOC_ABILITY_ROYAL_KNIGHTS_NAME" Description="LOC_ABILITY_ROYAL_KNIGHTS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NORTHERN_SORCERES" Name="LOC_ABILITY_NORTHERN_SORCERES_NAME" Description="LOC_ABILITY_NORTHERN_SORCERES_DESCRIPTION"/>
+
+
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>ABILITY_BLUE_STRIPES</UnitAbilityType>
+			<ModifierId>MYWITCHER_BLUESTRIPES_FOREST_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_MYWITCHER_SIEGE_UNITS_BONUS</UnitAbilityType>
+			<ModifierId>MYWITCHER_SIEGE_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_IMPERA_BRIGADE</UnitAbilityType>
+			<ModifierId>COSSACK_LOCAL_COMBAT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BLACK_INFANTRY_ARCHERS</UnitAbilityType>
+			<ModifierId>MYWITCHER_WHEN_ATTACKING_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NAUSICAA_CAVALRY</UnitAbilityType>
+			<ModifierId>MYWITCHER_FLANKING_BONUS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_REDANIAN_FOOTSOLDIER</UnitAbilityType>
+			<ModifierId>MYWITCHER_REDANIAN_FOOTSOLDIER_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DUN_BANNER</UnitAbilityType>
+			<ModifierId>ALTITUDE_TRAINING_IGNORE_HILLS</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DUN_BANNER</UnitAbilityType>
+			<ModifierId>COSSACK_MOVE_AND_ATTACK</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_SKELLIGE_RAIDER</UnitAbilityType>
+			<ModifierId>MYWITCHER_POST_COMBAT_GOLD</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_AEDIRN_SPECIAL_FORCES</UnitAbilityType>
+			<ModifierId>WARS_OF_RELIGION_COMBAT_MODIFIER</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_RIVIAN_CROSSBOWMAN</UnitAbilityType>
+			<ModifierId>BATTLECRY_BONUS_VS_MELEE_RANGED</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_COMMANDO</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_COMMANDO</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_MOVEMENT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_COMMANDO</UnitAbilityType>
+			<ModifierId>MYWITCHER_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_HORSE_ARCHER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_HORSE_ARCHER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_MOVEMENT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_HORSE_ARCHER</UnitAbilityType>
+			<ModifierId>MYWITCHER_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_COMMANDO_ARCHER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_SIGHT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_COMMANDO_ARCHER</UnitAbilityType>
+			<ModifierId>NAGAO_FOREST_MOVEMENT</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ELF_COMMANDO_ARCHER</UnitAbilityType>
+			<ModifierId>MYWITCHER_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_TUIRSEACH_AXEMEN</UnitAbilityType>
+			<ModifierId>VULTURE_BONUS_VS_DAMAGED</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DRYAD_ARCHER</UnitAbilityType>
+			<ModifierId>UNIT_STRONG_WHEN_ATTACKING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_DRYAD_ARCHER</UnitAbilityType>
+			<ModifierId>UNIT_WEAK_WHEN_DEFENDING</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_POOR_FLANKING_INFANTRY</UnitAbilityType>
+			<ModifierId>MYWITCHER_BONUS_FLANKING_BONUS_MODIFIER</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NORTHERN_TREBUCHET</UnitAbilityType>
+			<ModifierId>MYWITCHER_TREBUCHET_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_FIRE_SCORPION</UnitAbilityType>
+			<ModifierId>BATTLECRY_BONUS_VS_MELEE_RANGED</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ALBA_DIVISION</UnitAbilityType>
+			<ModifierId>MYWITCHER_ALBA_DIVISION_NEIGHBOR_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_BROKVAR_ARCHER</UnitAbilityType>
+			<ModifierId>EXPERT_MARKSMAN_ADDITIONAL_ATTACK</ModifierId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_VRIHEDD_BRIGADE</UnitAbilityType>
+			<ModifierId>CHOKE_POINTS_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_LYRIAN_FREE_COMPANY</UnitAbilityType>
+			<ModifierId>MYWITCHER_LYRIAN_HOME_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_TEMERIAN_LANDSKNECHT</UnitAbilityType>
+			<ModifierId>MYWITCHER_TEMERIAN_LANDSKNECHT_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_HEAVY_DUN_BANNER</UnitAbilityType>
+			<ModifierId>HUSSAR_FORCE_RETREAT</ModifierId>
+			<!-- Implemented In WinterPatch-->
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ROYAL_ELITE</UnitAbilityType>
+			<ModifierId>MYWITCHER_ROYAL_ELITE_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_ROYAL_KNIGHTS</UnitAbilityType>
+			<ModifierId>MYWITCHER_ROYAL_KNIGHTS_COMBAT_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>ABILITY_NORTHERN_SORCERES</UnitAbilityType>
+			<ModifierId>MAMLUK_HEAL_EVERY_MOVE</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYWITCHER_BLUESTRIPES_FOREST_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_FOREST_COMBAT_BONUS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGE_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_WHEN_ATTACKING_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>UNIT_STRONG_WHEN_ATTACKING_REQUIREMENTS</SubjectRequirementSetId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_FLANKING_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_FLANKING_BONUS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_REDANIAN_FOOTSOLDIER_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_REDANIAN_FOOTSOLDIER_PLOT_IS_REDANIAN_FOOTSOLDIER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_POST_COMBAT_GOLD</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_HIDDEN_VISIBILITY</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_FOREST_HIDDEN_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_BONUS_FLANKING_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_FLANKING_BONUS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TREBUCHET_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_UNIT_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_PLOT_IS_TREBUCHET_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TREBUCHET_NEIGHBOR_COMBAT_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_ALBA_DIVISION_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_UNIT_ATTACH_MODIFIER</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_PLOT_IS_ALBA_DIVISION_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_ALBA_DIVISION_NEIGHBOR_COMBAT_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_LYRIAN_HOME_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>COSSACK_PLOT_IS_OWNER_OR_ADJACENT_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TEMERIAN_LANDSKNECHT_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>ECHELON_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_ROYAL_ELITE_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>CAPARISON_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_ROYAL_KNIGHTS_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>BATTLECRY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierStrings>
+		<Row ModifierId="MYWITCHER_BLUESTRIPES_FOREST_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_BLUE_STRIPES_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_SIEGE_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_SIEGE_COMBAT_BONUS_MODIFIER_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_WHEN_ATTACKING_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_BLACK_INFANTRY_ARCHERS_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_FLANKING_BONUS_MODIFIER" Context="Preview" Text="LOC_ABILITY_NAUSICAA_CAVALRY_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_REDANIAN_FOOTSOLDIER_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_REDANIAN_FOOTSOLDIER_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_TREBUCHET_NEIGHBOR_COMBAT_MODIFIER" Context="Preview" Text="LOC_ABILITY_NORTHERN_TREBUCHET_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_BONUS_FLANKING_BONUS_MODIFIER" Context="Preview" Text="LOC_ABILITY_POOR_FLANKING_INFANTRY_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_ALBA_DIVISION_NEIGHBOR_COMBAT_MODIFIER" Context="Preview" Text="LOC_ABILITY_ALBA_DIVISION_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_LYRIAN_HOME_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_LYRIAN_FREE_COMPANY_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_TEMERIAN_LANDSKNECHT_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_TEMERIAN_LANDSKNECHT_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_ROYAL_ELITE_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_ROYAL_ELITE_DESCRIPTION"/>
+		<Row ModifierId="MYWITCHER_ROYAL_KNIGHTS_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_ROYAL_KNIGHTS_DESCRIPTION"/>
+
+	</ModifierStrings>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYWITCHER_BLUESTRIPES_FOREST_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_SIEGE_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_WHEN_ATTACKING_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_FLANKING_BONUS_MODIFIER</ModifierId>
+			<Name>Percent</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_REDANIAN_FOOTSOLDIER_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_POST_COMBAT_GOLD</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>60</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_POST_COMBAT_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+			<Name>Hidden</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_BONUS_FLANKING_BONUS_MODIFIER</ModifierId>
+			<Name>Percent</Name>
+			<Value>75</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TREBUCHET_NEIGHBOR_COMBAT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWITCHER_TREBUCHET_NEIGHBOR_COMBAT_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TREBUCHET_NEIGHBOR_COMBAT_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_ALBA_DIVISION_NEIGHBOR_COMBAT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYWITCHER_ALBA_DIVISION_NEIGHBOR_COMBAT_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_ALBA_DIVISION_NEIGHBOR_COMBAT_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>7</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_LYRIAN_HOME_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_TEMERIAN_LANDSKNECHT_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_ROYAL_ELITE_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYWITCHER_ROYAL_KNIGHTS_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYWITCHER_FOREST_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_REDANIAN_FOOTSOLDIER_PLOT_IS_REDANIAN_FOOTSOLDIER_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_PLOT_IS_TREBUCHET_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_PLOT_IS_ALBA_DIVISION_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYWITCHER_FOREST_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_FOREST_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_FOREST_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_JUNGLE_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_REDANIAN_FOOTSOLDIER_PLOT_IS_REDANIAN_FOOTSOLDIER_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYWITCHER_REQUIRES_UNIT_NEXT_TO_REDANIAN_FOOTSOLDIER</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_FOREST_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_JUNGLE_REQUIREMENT</RequirementId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_PLOT_IS_TREBUCHET_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_TREBUCHET</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_PLOT_IS_ALBA_DIVISION_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_ALBA_DIVISION</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_UNIT_NEXT_TO_REDANIAN_FOOTSOLDIER</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_TREBUCHET</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_ALBA_DIVISION</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_UNIT_NEXT_TO_REDANIAN_FOOTSOLDIER</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_REDANIAN_FOOTSOLDIER</Value>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_TREBUCHET</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_NORTHERN_TREBUCHET</Value>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_ALBA_DIVISION</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_ALBA_DIVISION</Value>
+		</Row>
+	</RequirementArguments>
+</GameData>

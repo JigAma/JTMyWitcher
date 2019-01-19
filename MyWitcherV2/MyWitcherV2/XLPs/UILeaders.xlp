@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_FOLTEST_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FOLTEST_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FOLTEST_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FOLTEST_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_EMHYR_VAR_EMREIS_NEUTRAL"/>
+			<m_ObjectName text="LEADER_EMHYR_VAR_EMREIS_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_EMHYR_VAR_EMREIS_BACKGROUND"/>
+			<m_ObjectName text="LEADER_EMHYR_VAR_EMREIS_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DIJKSTRA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DIJKSTRA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DIJKSTRA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DIJKSTRA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RADOVID_NEUTRAL"/>
+			<m_ObjectName text="LEADER_RADOVID_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RADOVID_BACKGROUND"/>
+			<m_ObjectName text="LEADER_RADOVID_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HENSELT_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HENSELT_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HENSELT_BACKGROUND"/>
+			<m_ObjectName text="LEADER_HENSELT_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CRACH_AN_CRAITE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CRACH_AN_CRAITE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CRACH_AN_CRAITE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CRACH_AN_CRAITE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DEMAVEND_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DEMAVEND_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DEMAVEND_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DEMAVEND_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MEVE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MEVE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FRANCESCA_FINDABAIR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_FRANCESCA_FINDABAIR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FRANCESCA_FINDABAIR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_FRANCESCA_FINDABAIR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ESTERAD_THYSSEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ESTERAD_THYSSEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ESTERAD_THYSSEN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ESTERAD_THYSSEN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MORVRAN_VOORHIS_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MORVRAN_VOORHIS_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JAN_CALVEIT_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JAN_CALVEIT_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BRAN_TUIRSEACH_NEUTRAL"/>
+			<m_ObjectName text="LEADER_BRAN_TUIRSEACH_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HARALD_AN_CRAITE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HARALD_AN_CRAITE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LADY_EITHNE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_LADY_EITHNE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_LADY_EITHNE_BACKGROUND"/>
+			<m_ObjectName text="LEADER_LADY_EITHNE_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MEVE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MEVE_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

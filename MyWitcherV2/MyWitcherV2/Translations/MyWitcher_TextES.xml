@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_MYWITCHER_DISTRICT_FOREST_FAITH" Language="es_ES">
+			<Text>+1 [ICON_Faith] Fe por Bosques</Text>
+		</Replace>
+		<!-- TEMERIA | FOLTEST -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_FOLTEST" Language="es_ES">
+			<Text>El Rey Foltest fue el gobernante de Temeria, principe de Sodden, soberano de Pontaria y Mahakam como también protector de Brugge y Ellander. Fue el hijo del Rey Medell y la Reina Sancia de Sodden.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SIEGE_COMBAT_BONUS_MODIFIER_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] por Maestro del Asedio.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BLUE_STRIPES_NAME" Language="es_ES">
+			<Text>Franjas Azules</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BLUE_STRIPES_DESCRIPTION" Language="es_ES">
+			<Text>+5 [ICON_Strength] luchando en Bosques y Junglas.</Text>
+		</Replace>
+		<!-- END OF TEMERIA | FOLTEST -->
+		<!-- NILFGAARD | EMHYR_VAR_EMREIS -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_EMHYR_VAR_EMREIS" Language="es_ES">
+			<Text>Emhyr var Emreis fue Emperador de Nilfgaard. Su gobierno del Imperio fue agressivo y expansionista, similar a sus predecesores. El lidero las dos guerras contra los Reinos del Norte. Emhyr var Emreis fue un gobernador inteligente y brillante, escogio a su gente bien y aplasto todas las conspiraciones contra él. Fue despiadado contra los traidores y consiguio sus objetivos con gran determinación.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_IMPERA_BRIGADE_NAME" Language="es_ES">
+			<Text>Brigada Imperial</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_IMPERA_BRIGADE_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] en tu territorio o adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BLACK_INFANTRY_ARCHERS_NAME" Language="es_ES">
+			<Text>Arqueros de Infanteria Negros</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BLACK_INFANTRY_ARCHERS_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] cuando estan atacando.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAUSICAA_CAVALRY_NAME" Language="es_ES">
+			<Text>Caballeria Nausicaa</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NAUSICAA_CAVALRY_DESCRIPTION" Language="es_ES">
+			<Text>+100% de bonus de flanqueo.</Text>
+		</Replace>
+		<!-- END OF NILFGAARD | EMHYR_VAR_EMREIS -->
+		<!-- REDANIA | DIJKSTRA & RADOVID -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DIJKSTRA" Language="es_ES">
+			<Text>Sigismund Dijkstra es el jefe de la inteligencia de Redania, o servicio secreto. Durante la Segunda Guerra contra Nilfgaard, el Rey Vizimir de Redania fue asesinado. Durante el interregno, el reino fue gobernado por el Consejo de Regencia formado por Dijkstra y Philippa Eilhart. De esta forma se convirtió en la persona más poderosa del reino.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_RADOVID" Language="es_ES">
+			<Text>Radovid V el Cruel fue Rey de Redania. Tiene un profundo odio por los magos ya que su padre Vizimir II el justo fue assesinado durante la infancia de Radovid probablemente por la hechizera Philippa Eilhart, quién asumió la regencia en su nombre.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_REDANIAN_FOOTSOLDIER_NAME"  Language="es_ES">
+			<Text>Infanteria Redeniana</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_REDANIAN_FOOTSOLDIER_DESCRIPTION" Language="es_ES">
+			<Text>+5 de Fuerza de Combate [ICON_Strength] si se encuentra a lado de otra Infanteria Redeniana.</Text>
+		</Replace>
+		<!-- END OF REDANIA | DIJKSTRA & RADOVID -->
+		<!-- KAEDWEN | HENSELT -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_HENSELT" Language="es_ES">
+			<Text>El Rey Henselt, Rey de Kaedwen, herederp a la Dinastia del Unicornio. Por muchos años, tuvo disputas con el Rey Demavend III de Aedirn por Lormark. Henselt también es el arquitecto del plan para exterminar a todos los no-humanos en las areas alrededor de los Rios Pontar, Gwenllech y Buina.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DUN_BANNER_DESCRIPTION" Language="es_ES">
+			<Text>Puede moverse despues de atacar y moverse más rapido en las Colinas.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PONTAR_VALLEY" Language="es_ES">
+			<Text>Valle de Pontar</Text>
+		</Replace>
+		<!-- END OF KAEDWEN | HENSELT -->
+		<!-- SKELLIGE | CRACH_AN_CRAITE -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CRACH_AN_CRAITE" Language="es_ES">
+			<Text>Crach an Craite, despues de la muerte de su tío Eist Tuirseach, quién ocupava el Trono de Rey Bran, Crach se convirtió en Jarl y el gobernante de las Islas Skellige. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SKELLIGE_RAIDER_NAME" Language="es_ES">
+			<Text>Skellige Raider</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_SKELLIGE_RAIDER_DESCRIPTION" Language="es_ES">
+			<Text>Da el 60% de la Fuerza de Combate [ICON_Strength] de las unidades derrotadas como Oro [ICON_Gold].</Text>
+		</Replace>
+		<!-- END OF SKELLIGE | CRACH_AN_CRAITE -->
+		<!-- AEDIRN | DEMAVEND -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DEMAVEND" Language="es_ES">
+			<Text>El Rey Demavend III fue gobernador de Aedirn. Como gobernador fue conocido por ser cruel y envidioso, pero también por su inteligencia y conocimiento sobre tacticas de guerra.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AEDIRN_SPECIAL_FORCES_NAME" Language="es_ES">
+			<Text>Fuerzas Especiales de Aedirn</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_AEDIRN_SPECIAL_FORCES_DESCRIPTION" Language="es_ES">
+			<Text>+4 a la Fuerza de combate [ICON_Strength] al luchar contra civilizaciones que siguen otras religiones.</Text>
+		</Replace>
+		<!-- END OF AEDIRN | DEMAVEND -->
+		<!-- LYRIA RIVIA | MEVE -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MEVE" Language="es_ES">
+			<Text>Meve es la reina de Lyria y Rivia. Ella es conocida por su sabiduria y belleza, pero despues de una batalla su cara fue marcada con cicatrices.  Fue quien hizo caballero a Geralt.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RIVIAN_CROSSBOWMAN_FORCES_NAME" Language="es_ES">
+			<Text>Ballesteros de Rivia</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_RIVIAN_CROSSBOWMAN_FORCES_DESCRIPTION" Language="es_ES">
+			<Text>+7 a la Fuerza de combate [ICON_Strength] contra unidades a distancia y cuerpo a cuerpo.</Text>
+		</Replace>
+		<!-- END OF LYRIA RIVIA | MEVE -->
+		<!-- SCOIATAEL | FRANCESCA_FINDABAIR -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_FRANCESCA_FINDABAIR" Language="es_ES">
+			<Text>Enid an Gleanna, también conocida como Francesca Findabair, es una elfa, hechizera y reina de los elfos de Dol Blathanna gracias al decreto del Emperador Emhyr var Emreis. También es la fundadora de la Logia de Hechizeras. </Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELF_COMMANDO_NAME" Language="es_ES">
+			<Text>Comando de Elfos</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELF_COMMANDO_DESCRIPTION" Language="es_ES">
+			<Text>Puede moverse más rapido y ver atraves de los Bosques y Junglas. No pueden ser vistos en los bosques o junglas a no ser que esten al lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELF_HORSE_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero a Caballo Elfo</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELF_HORSE_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Puede moverse más rapido y ver atraves de los Bosques y Junglas. No pueden ser vistos en los bosques o junglas a no ser que esten al lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELF_COMMANDO_ARCHER_NAME" Language="es_ES">
+			<Text>Comando de Elfos Arqueros</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ELF_COMMANDO_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Puede moverse más rapido y ver atraves de los Bosques y Junglas. No pueden ser vistos en los bosques o junglas a no ser que esten al lado.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UPPER_POSADA" Language="es_ES">
+			<Text>Upper Posada</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_LOWER_POSADA" Language="es_ES">
+			<Text>Lower Posada</Text>
+		</Replace>
+		<!-- END OF SCOIATAEL | FRANCESCA_FINDABAIR -->
+		<!-- KOVIR AND POVISS | ESTERAD_THYSSEN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ESTERAD_THYSSEN" Language="es_ES">
+			<Text>Esterad Thyssen fue rey de Kovir, Poviss, Narok, Velhad y Talgar durante la segunda guerra contra Nilfgaard. Aunque Kovir fue oficialmente neutral, Esterad ayudo a las fuerzas Norteñas dando el perdon a los prisoneros de su reino para que se unieran a la compañia libre liderada por "Adieu" Pangratt.</Text>
+		</Replace>
+		<!-- END OF KOVIR AND POVISS | ESTERAD_THYSSEN -->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_MORVRAN_VOORHIS" Language="es_ES">
+			<Text>Morvran Voorhis fue emperador de Nilfgaard de la familia Voorhis que obtuvo el trono en el Siglo 13. Al ser pariente de Emhyr var Emreis atraves de la linia paterna y materna, su posición siempre estuvo asegurada.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JAN_CALVEIT" Language="es_ES">
+			<Text>Jan Calveit fue emperador de Nilfgaard, sucediendo a Morvran Voorhis. Era conciente de los errores de Emhyr y intento no repetirlos. Además también capaz de perdonar y dar segundas opurtunidades. Jan Calveit tenia amplios horizontes intelectuales. Él fue aficionado en una variedad de disciplinas académicas; medicina y astrología en particular. </Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_BRAN_TUIRSEACH" Language="es_ES">
+			<Text>Bran Tuirseach fue un monarca de Skellige, el tío por parte de madre de Crach an Craite y hermano de hermano Eist Tuirseach, con quien tenia una relación amistosa que lo llevo a Jarl de Skellige. A parte de su hermano, el rey también tenia como bueno amigo y confidente al druida Mousesack. </Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_HARALD_AN_CRAITE" Language="es_ES">
+			<Text>Harald an Craite, miembro del clan An Craite. Como guerrero, Harald fue remarcable pero un Oso le destrozo la pierna y su hueso curo torcido. Después de eso, cada paso era un sufrimiento agonizante... y lucho mejor que nunca antes debido a su constante sufrimiento.</Text>
+		</Replace>
+		<Replace Tag="LOC_LOADING_INFO_LEADER_LADY_EITHNE" Language="es_ES">
+			<Text>Eithné es la reina de las dríadas y gobierna Brokilon. Es famosa por su sabiduria y su implacable postura hacia los humanos. Los intentos de los reinos humanos para reclamar el antiguo bosque por sus arboles y los supuestos tesoros han hecho durar un conflicto por siglos.</Text>
+		</Replace>
+		<!-- City States -->
+		<!-- Mahakam-->
+		<Replace Tag="LOC_MINOR_CIV_MAHAKAM_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Minas ganan +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_MAHAKAM_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Mahakam</Text>
+		</Replace>
+		<!-- Novigrad-->
+		<Replace Tag="LOC_MINOR_CIV_NOVIGRAD_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las Rutas de Comercio [ICON_TRADEROUTE] de otras civilizaciones proporcionan +1 Fe [ICON_FAITH] y +1 Oro [ICON_Gold] para ti.</Text>
+		</Replace>
+		<Replace Tag="LOC_NOVIGRAD_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Novigrad</Text>
+		</Replace>
+		<!-- Brugge-->
+		<Replace Tag="LOC_MINOR_CIV_BRUGGE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>-50% hastío bélico por combate en tu territorio.</Text>
+		</Replace>
+		<Replace Tag="LOC_BRUGGE_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Brugge</Text>
+		</Replace>
+		<!-- Ellander-->
+		<Replace Tag="LOC_MINOR_CIV_ELLANDER_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las Rutas de Comercio [ICON_TRADEROUTE] de otras civilizaciones proporcionan +2 Fe [ICON_FAITH].</Text>
+		</Replace>
+		<Replace Tag="LOC_ELLANDER_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ellander</Text>
+		</Replace>
+		<!-- Cidaris-->
+		<Replace Tag="LOC_MINOR_CIV_CIDARIS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+20% Producción para crear unidades a distancia navales de todas las eras, empezando desde la Era Classica.</Text>
+		</Replace>
+		<Replace Tag="LOC_CIDARIS_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Cidaris</Text>
+		</Replace>
+		<!-- Kerack-->
+		<Replace Tag="LOC_MINOR_CIV_KERACK_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 Oro [ICON_Gold] por todos los distritos al lado de la costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_KERACK_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Kerack</Text>
+		</Replace>
+		<!-- Verden-->
+		<Replace Tag="LOC_MINOR_CIV_VERDEN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 de Oro [ICON_Gold] en los Campamentos que esten al lado de un rio.</Text>
+		</Replace>
+		<Replace Tag="LOC_VERDEN_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Verden</Text>
+		</Replace>
+		<!-- Toussaint-->
+		<Replace Tag="LOC_MINOR_CIV_TOUSSAINT_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Recibe el recurso de lujo [ICON_RESOURCE_WINE] Vino. +1 [ICON_Gold] Oro de Plantaciones de [ICON_RESOURCE_WINE] Vino, [ICON_RESOURCE_INCENSE] Incenso, [ICON_RESOURCE_COCOA] Cacao, [ICON_RESOURCE_TOBACCO] Tabaco, [ICON_RESOURCE_COFFEE] Cafe y [ICON_RESOURCE_TEA] Te.</Text>
+		</Replace>
+		<Replace Tag="LOC_TOUSSAINT_DESCRIPTION" Language="es_ES">
+			<Text>Ducado de Toussaint</Text>
+		</Replace>
+		<!-- Cintra-->
+		<Replace Tag="LOC_MINOR_CIV_CINTRA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+2 de Cultura [ICON_Culture] en todos los distritos a lado de la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_CINTRA_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Cintra</Text>
+		</Replace>
+		<!-- Hengfors League-->
+		<Replace Tag="LOC_MINOR_CIV_HENGFORSLEAGUE_TRAIT_NAME" Language="es_ES">
+			<Text>Liga Hengfors</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_HENGFORSLEAGUE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus [ICON_TRADEROUTE] Rutas Comerciales a cualquier Ciudad Estado dan +2 [ICON_Gold] de Oro por cada distrito especializado en la ciudad original. </Text>
+		</Replace>
+		<Replace Tag="LOC_HENGFORSLEAGUE_NAME" Language="es_ES">
+			<Text>Liga Hengfors</Text>
+		</Replace>
+		<Replace Tag="LOC_HENGFORSLEAGUE_DESCRIPTION" Language="es_ES">
+			<Text>Liga Hengfors</Text>
+		</Replace>
+		<!-- Sodden-->
+		<Replace Tag="LOC_MINOR_CIV_SODDEN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Puestos comerciales [ICON_TradingPost] en ciudades extranjeras proporcionan +1 de Oro [ICON_Gold] a las Rutas comerciales de tu propiedad [ICON_TradeRoute] que las atraviesen.</Text>
+		</Replace>
+		<Replace Tag="LOC_SODDEN_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Sodden</Text>
+		</Replace>
+		<!-- Angren-->
+		<Replace Tag="LOC_MINOR_CIV_ANGREN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Holy Sites gains +1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Replace>
+		<Replace Tag="LOC_ANGREN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Angren</Text>
+		</Replace>
+		<!-- BAREFIELD-->
+		<Replace Tag="LOC_MINOR_CIV_BAREFIELD_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Pasturas ganan +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_BAREFIELD_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Barefield</Text>
+		</Replace>
+		<!-- MALLEORE-->
+		<Replace Tag="LOC_MINOR_CIV_MALLEORE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Centros Comerciales dan 1 de Gold [ICON_Gold] si estan al lado de una Montaña.</Text>
+		</Replace>
+		<Replace Tag="LOC_MALLEORE_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Malleore</Text>
+		</Replace>
+		<!-- CREYDEN-->
+		<Replace Tag="LOC_MINOR_CIV_CREYDEN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Teatros dan 1 de Cultura [ICON_Culture] si estan al lado de una Montaña.</Text>
+		</Replace>
+		<Replace Tag="LOC_CREYDEN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Creyden</Text>
+		</Replace>
+		<Replace Tag="MYWITCHER_LOC_DISTRICT_MOUNTAIN_CULTURE" Language="es_ES">
+			<Text>+1 [ICON_Culture] Cultura por adyacencia a montañas</Text>
+		</Replace>
+		<!-- YMLAC-->
+		<Replace Tag="LOC_MINOR_CIV_YMLAC_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus distritos proporcionan +1 punto de gran personaje [ICON_GreatPerson] de su tipo (Gran escritor [ICON_GreatWriter], Gran artista [ICON_GreatArtist] y, para los distritos de Teatros, Gran músico [ICON_GreatMusician]).</Text>
+		</Replace>
+		<Replace Tag="LOC_YMLAC_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ymlac</Text>
+		</Replace>
+		<!-- ROWAN-->
+		<Replace Tag="LOC_MINOR_CIV_ROWAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] a ciudades extranjeras obtienen +1 de Oro [ICON_Gold] por cada recurso de lujo en el destino.</Text>
+		</Replace>
+		<Replace Tag="LOC_ROWAN_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Rowan</Text>
+		</Replace>
+		<!-- VICOVARO-->
+		<Replace Tag="LOC_MINOR_CIV_VICOVARO_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus ciudades tienen Alojamiento [ICON_Housing] completo por el agua, como si estuviesen junto a un Río.</Text>
+		</Replace>
+		<Replace Tag="LOC_VICOVARO_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Vicovaro</Text>
+		</Replace>
+		<!-- EBBING-->
+		<Replace Tag="LOC_MINOR_CIV_EBBING_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Your light and heavy cavalry units have +5 [ICON_Strength] Strength when fighting on hill tiles.</Text>
+		</Replace>
+		<Replace Tag="LOC_EBBING_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Ebbing</Text>
+		</Replace>
+		<!-- NAZAIR-->
+		<Replace Tag="LOC_MINOR_CIV_NAZAIR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Production] por todos los distritos al lado de la costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_NAZAIR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Nazair</Text>
+		</Replace>
+		<!-- METINNA-->
+		<Replace Tag="LOC_MINOR_CIV_METINNA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus recursos adicionales actúan como recursos de lujo, proporcionando 1 Servicio [ICON_Amenities] por tipo.</Text>
+		</Replace>
+		<Replace Tag="LOC_METINNA_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Metinna</Text>
+		</Replace>
+		<!-- MAECHT-->
+		<Replace Tag="LOC_MINOR_CIV_MAECHT_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus distritos de Campamento proporcionan +1 a la capacidad de las Rutas comerciales [ICON_TradeRoute] cada uno.</Text>
+		</Replace>
+		<Replace Tag="LOC_MAECHT_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Maecht</Text>
+		</Replace>
+		<!-- GESO-->
+		<Replace Tag="LOC_MINOR_CIV_GESO_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+50% Producción para crear unidades anticaballeria de todas las eras.</Text>
+		</Replace>
+		<Replace Tag="LOC_GESO_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Geso</Text>
+		</Replace>
+		<!-- MAG_TURGA-->
+		<Replace Tag="LOC_MINOR_CIV_MAG_TURGA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Zonas Industriales dan 1 de Producción [ICON_Production] si estan al lado de una Montaña.</Text>
+		</Replace>
+		<Replace Tag="LOC_MAG_TURGA_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Mag Turga</Text>
+		</Replace>
+		<Replace Tag="MYWITCHER_LOC_DISTRICT_MOUNTAIN_PRODUCTION" Language="es_ES">
+			<Text>+1 [ICON_Production] Producción por adyacencia a montañas</Text>
+		</Replace>
+		<!-- GEMMERA-->
+		<Replace Tag="LOC_MINOR_CIV_GEMMERA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas los Asseraderos ganan +1 [ICON_Production] Producción.</Text>
+		</Replace>
+		<Replace Tag="LOC_GEMMERA_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Gemmera</Text>
+		</Replace>
+		<!-- ETOLIA-->
+		<Replace Tag="LOC_MINOR_CIV_ETOLIA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todas las Granjas ganan +1 [ICON_Food] Alimentos.</Text>
+		</Replace>
+		<Replace Tag="LOC_ETOLIA_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Etolia</Text>
+		</Replace>
+		<!-- BREMERVOORD-->
+		<Replace Tag="LOC_MINOR_CIV_BREMERVOORD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Todos los botes Pesqueros ganan +1 [ICON_Gold] Oro. Recibe el recurso [ICON_RESOURCE_PEARLS] Perlas.</Text>
+		</Replace>
+		<Replace Tag="LOC_BREMERVOORD_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Bremervoord</Text>
+		</Replace>
+		<!-- ATTRE-->
+		<Replace Tag="LOC_MINOR_CIV_ATTRE_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Zonas Industriales ganan +1 [ICON_Production] Producción por adyacencia a Llanuras.</Text>
+		</Replace>
+		<Replace Tag="LOC_ATTRE_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Attre</Text>
+		</Replace>
+		<Replace Tag="MYWITCHER_LOC_DISTRICT_PLAINS_PRODUCTION" Language="es_ES">
+			<Text>+1 [ICON_Production] Producción por adyacencia a Llanuras</Text>
+		</Replace>
+		<!-- MARIBOR-->
+		<Replace Tag="LOC_MINOR_CIV_MARIBOR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Los efectos regionales de tus distritos de Zona industrial y de Complejo de ocio llegan 3 casillas más lejos.</Text>
+		</Replace>
+		<Replace Tag="LOC_MARIBOR_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Maribor</Text>
+		</Replace>
+		<!-- JAMURLAK-->
+		<Replace Tag="LOC_MINOR_CIV_JAMURLAK_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Se convierte de forma automática a la religión que has fundado, y ejerce presión a favor de esa religión como si fuese una ciudad santa.</Text>
+		</Replace>
+		<Replace Tag="LOC_JAMURLAK_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Jamurlak</Text>
+		</Replace>
+		<!-- RIVERDELL-->
+		<Replace Tag="LOC_MINOR_CIV_RIVERDELL_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 Fe [ICON_Faith] en los Sitios Sagrados a lado de ríos.</Text>
+		</Replace>
+		<Replace Tag="LOC_RIVERDELL_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Riverdell</Text>
+		</Replace>
+		<!-- CAINGORN-->
+		<Replace Tag="LOC_MINOR_CIV_CAINGORN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] a cualquier ciudad-estado proporcionan +2 a Cultura [ICON_Culture] y +1 de Oro [ICON_Gold] por cada distrito de especialización en la ciudad de origen.</Text>
+		</Replace>
+		<Replace Tag="LOC_CAINGORN_NAME" Language="es_ES">
+			<Text>Caingorn</Text>
+		</Replace>
+		<Replace Tag="LOC_CAINGORN_ADJECTIVE" Language="es_ES">
+			<Text>Ciudad Estado de Caingorn</Text>
+		</Replace>
+		<!-- ARETUZA-->
+		<Replace Tag="LOC_MINOR_CIV_ARETUZA_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Cuando entres en una nueva época, consigue 1 Eureka [ICON_TechBoosted] aleatoria de dicha época.</Text>
+		</Replace>
+		<Replace Tag="LOC_ARETUZA_DESCRIPTION" Language="es_ES">
+			<Text>Ciudad Estado de Aretuza</Text>
+		</Replace>
+		<!-- End of City States-->
+		<Replace Tag="LOC_CONTINENT_WITCHER_NORTHERN_KINGDOMS_DESCRIPTION" Language="es_ES">
+			<Text>Reinos del Norte</Text>
+		</Replace>
+		<!-- RELIGIONS -->
+		<Replace Tag="LOC_RELIGION_GREAT_SUN" Language="es_ES">
+			<Text>Gran Sol</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_ETERNAL_FIRE" Language="es_ES">
+			<Text>Fuego Eterno</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_GREAT_MOTHER_FREYA" Language="es_ES">
+			<Text>Gran Madre Freya</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_FOREFATHER_KREVE" Language="es_ES">
+			<Text>Ancestro Kreve</Text>
+		</Replace>
+		<Replace Tag="LOC_RELIGION_WITCHER_DRUIDS" Language="es_ES">
+			<Text>Druidas</Text>
+		</Replace>
+		<!-- END OF RELIGIONS -->
+		<Replace Tag="LOC_ABILITY_TUIRSEACH_AXEMEN_NAME" Language="es_ES">
+			<Text>Hacheros Tuirseach</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TUIRSEACH_AXEMEN_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] contra unidades dañadas.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DRYAD_ARCHER_NAME" Language="es_ES">
+			<Text>Arquera Dryad</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_DRYAD_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>+7 a la Fuerza de combate [ICON_Strength] al atacar y -7 a la Fuerza de combate [ICON_Strength] al defender.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_POOR_FLANKING_INFANTRY_NAME" Language="es_ES">
+			<Text>Infanteria de Flanqueo Pobre</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_POOR_FLANKING_INFANTRY_DESCRIPTION" Language="es_ES">
+			<Text>75% bonus de flanqueo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NORTHERN_TREBUCHET_NAME" Language="es_ES">
+			<Text>Trabuquete Norteño</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NORTHERN_TREBUCHET_DESCRIPTION" Language="es_ES">
+			<Text>+10 de Fuerza de Combate [ICON_Strength] si se encuentra a lado de otro Trabuquete.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_FIRE_SCORPION_NAME" Language="es_ES">
+			<Text>Escorpion de Fuego</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_FIRE_SCORPION_DESCRIPTION" Language="es_ES">
+			<Text>+7 a la Fuerza de combate [ICON_Strength] contra unidades a distancia y cuerpo a cuerpo.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BROKVAR_ARCHER_NAME" Language="es_ES">
+			<Text>Arquero Brokvar</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_BROKVAR_ARCHER_DESCRIPTION" Language="es_ES">
+			<Text>Tienen la mitad de ataque que los Ballesteros pero pueden atacar dos veces por turno.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VRIHEDD_BRIGADE_NAME" Language="es_ES">
+			<Text>Brigada de Vrihedd</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_VRIHEDD_BRIGADE_DESCRIPTION" Language="es_ES">
+			<Text>+7 a la Fuerza de combate [ICON_Strength] al defender en Bosques, Selva, Colinas o Pantano.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LYRIAN_FREE_COMPANY_NAME" Language="es_ES">
+			<Text>Compañia Libre de Lyria</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_LYRIAN_FREE_COMPANY_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] cuando lucha en su territorio de origen o en uno adyacente.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TEMERIAN_LANDSKNECHT_NAME" Language="es_ES">
+			<Text>Landsknech Temeriano</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_TEMERIAN_LANDSKNECHT_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] contra unidades de Caballería.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HEAVY_DUN_BANNER_NAME" Language="es_ES">
+			<Text>Heavy Dun Banner</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_HEAVY_DUN_BANNER_DESCRIPTION" Language="es_ES">
+			<Text>Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ROYAL_ELITE_NAME" Language="es_ES">
+			<Text>Elite Real</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ROYAL_ELITE_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] contra unidades de anticaballería.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ROYAL_KNIGHTS_NAME" Language="es_ES">
+			<Text>Caballero Real</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_ROYAL_KNIGHTS_DESCRIPTION" Language="es_ES">
+			<Text>+5 a la Fuerza de combate [ICON_Strength] contra unidades de cuerpo a cuerpo y a distancia.</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NORTHERN_SORCERES_NAME" Language="es_ES">
+			<Text>Hechizeros Norteños</Text>
+		</Replace>
+		<Replace Tag="LOC_ABILITY_NORTHERN_SORCERES_DESCRIPTION" Language="es_ES">
+			<Text>Se cura al final de cada turno, incluso después de moverse o atacar.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

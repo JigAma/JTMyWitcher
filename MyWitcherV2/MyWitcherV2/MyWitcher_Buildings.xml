@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="BUILDING_MAGE_ACADEMY" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_REDANIAN_PRISION" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_NORTHERN_UNIVERSITY" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_ELDBERG_LIGHTHOUSE" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_FORGE_PLANT" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_KOVIR_MARKET" Kind="KIND_BUILDING"/>
+	</Types>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_MAGE_ACADEMY" ReplacesBuildingType="BUILDING_UNIVERSITY"/>
+		<Row CivUniqueBuildingType="BUILDING_NORTHERN_UNIVERSITY" ReplacesBuildingType="BUILDING_UNIVERSITY"/>
+		<Row CivUniqueBuildingType="BUILDING_ELDBERG_LIGHTHOUSE" ReplacesBuildingType="BUILDING_LIGHTHOUSE"/>
+		<Row CivUniqueBuildingType="BUILDING_FORGE_PLANT" ReplacesBuildingType="BUILDING_WORKSHOP"/>
+		<Row CivUniqueBuildingType="BUILDING_KOVIR_MARKET" ReplacesBuildingType="BUILDING_MARKET"/>
+	</BuildingReplaces>
+	
+	<Buildings>
+		<Row BuildingType="BUILDING_MAGE_ACADEMY" Name="LOC_BUILDING_MAGE_ACADEMY_NAME" Description="LOC_BUILDING_MAGE_ACADEMY_DESCRIPTION"  PrereqTech="TECH_EDUCATION" PrereqDistrict="DISTRICT_CAMPUS" PurchaseYield="YIELD_GOLD" Cost="225" AdvisorType="ADVISOR_TECHNOLOGY" Maintenance="2" Housing="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_MAGE_ACADEMY"/>
+		<Row BuildingType="BUILDING_REDANIAN_PRISION" Name="LOC_BUILDING_REDANIAN_PRISION_NAME" Description="LOC_BUILDING_REDANIAN_PRISION_DESCRIPTION" PrereqCivic="CIVIC_FEUDALISM" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="225" AdvisorType="ADVISOR_GENERIC" Maintenance="2" Entertainment="1" TraitType="TRAIT_CIVILIZATION_BUILDING_REDANIAN_PRISION"/>
+		<Row BuildingType="BUILDING_NORTHERN_UNIVERSITY" Name="LOC_BUILDING_NORTHERN_UNIVERSITY_NAME" Description="LOC_BUILDING_NORTHERN_UNIVERSITY_DESCRIPTION"  PrereqTech="TECH_EDUCATION" PrereqDistrict="DISTRICT_CAMPUS" PurchaseYield="YIELD_GOLD" Cost="225" AdvisorType="ADVISOR_TECHNOLOGY" Maintenance="2" Housing="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_NORTHERN_UNIVERSITY"/>
+		<Row BuildingType="BUILDING_ELDBERG_LIGHTHOUSE" Name="LOC_BUILDING_ELDBERG_LIGHTHOUSE_NAME" Description="LOC_BUILDING_ELDBERG_LIGHTHOUSE_DESCRIPTION" PrereqTech="TECH_CELESTIAL_NAVIGATION" PrereqDistrict="DISTRICT_HARBOR" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_GENERIC" Housing="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_ELDBERG_LIGHTHOUSE"/>
+		<Row BuildingType="BUILDING_FORGE_PLANT" Name="LOC_BUILDING_FORGE_PLANT_NAME" Description="LOC_BUILDING_FORGE_PLANT_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_INDUSTRIAL_ZONE" PurchaseYield="YIELD_GOLD" Cost="175" AdvisorType="ADVISOR_GENERIC" Maintenance="1" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_FORGE_PLANT"/>
+		<Row BuildingType="BUILDING_KOVIR_MARKET" Name="LOC_BUILDING_KOVIR_MARKET_NAME" Description="LOC_BUILDING_KOVIR_MARKET_DESCRIPTION" PrereqTech="TECH_CURRENCY" PrereqDistrict="DISTRICT_COMMERCIAL_HUB" PurchaseYield="YIELD_GOLD" Cost="105" AdvisorType="ADVISOR_GENERIC" CitizenSlots="1" TraitType="TRAIT_CIVILIZATION_BUILDING_KOVIR_MARKET"/>
+	</Buildings>
+	
+	<BuildingPrereqs>
+		<Row Building="BUILDING_MAGE_ACADEMY" PrereqBuilding="BUILDING_LIBRARY"/>
+		<Row Building="BUILDING_NORTHERN_UNIVERSITY" PrereqBuilding="BUILDING_LIBRARY"/>
+	</BuildingPrereqs>
+	
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_MAGE_ACADEMY" YieldType="YIELD_SCIENCE" YieldChange="5"/>
+		<Row BuildingType="BUILDING_MAGE_ACADEMY" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row BuildingType="BUILDING_NORTHERN_UNIVERSITY" YieldType="YIELD_SCIENCE" YieldChange="5"/>
+		<Row BuildingType="BUILDING_NORTHERN_UNIVERSITY" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row BuildingType="BUILDING_ELDBERG_LIGHTHOUSE" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_ELDBERG_LIGHTHOUSE" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row BuildingType="BUILDING_FORGE_PLANT" YieldType="YIELD_PRODUCTION" YieldChange="3"/>
+		<Row BuildingType="BUILDING_FORGE_PLANT" YieldType="YIELD_GOLD" YieldChange="1"/>
+		<Row BuildingType="BUILDING_KOVIR_MARKET" YieldType="YIELD_GOLD" YieldChange="3"/>
+	</Building_YieldChanges>
+
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_MAGE_ACADEMY" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_NORTHERN_UNIVERSITY" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_NORTHERN_UNIVERSITY" GreatPersonClassType="GREAT_PERSON_CLASS_WRITER" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_NORTHERN_UNIVERSITY" GreatPersonClassType="GREAT_PERSON_CLASS_ARTIST" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_ELDBERG_LIGHTHOUSE" GreatPersonClassType="GREAT_PERSON_CLASS_ADMIRAL" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_FORGE_PLANT" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="2"/>
+		<Row BuildingType="BUILDING_FORGE_PLANT" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_KOVIR_MARKET" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="2"/>
+	</Building_GreatPersonPoints>
+
+	<BuildingModifiers>
+		<Row>
+			<BuildingType>BUILDING_REDANIAN_PRISION</BuildingType>
+			<ModifierId>REDANIAN_PRISION_ADDAMENITIES</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_ELDBERG_LIGHTHOUSE</BuildingType>
+			<ModifierId>LIGHTHOUSE_TRAINED_UNIT_XP_MODIFIER</ModifierId><!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KOVIR_MARKET</BuildingType>
+			<ModifierId>KOVIR_MARKET_IRON_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KOVIR_MARKET</BuildingType>
+			<ModifierId>KOVIR_MARKET_COPPER_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KOVIR_MARKET</BuildingType>
+			<ModifierId>KOVIR_MARKET_SILVER_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KOVIR_MARKET</BuildingType>
+			<ModifierId>KOVIR_MARKET_PEARLS_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KOVIR_MARKET</BuildingType>
+			<ModifierId>KOVIR_MARKET_DIAMONDS_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KOVIR_MARKET</BuildingType>
+			<ModifierId>KOVIR_MARKET_JADE_BONUS</ModifierId>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_KOVIR_MARKET</BuildingType>
+			<ModifierId>KOVIR_MARKET_SALT_BONUS</ModifierId>
+		</Row>
+	</BuildingModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>REDANIAN_PRISION_ADDAMENITIES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_CITY_AMENITIES</ModifierType>
+			<SubjectRequirementSetId>CITY_HAS_GARRISON_UNIT_REQUIERMENT</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_IRON_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_RESOURCE_IS_IRON</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_COPPER_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_RESOURCE_IS_COPPER</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_SILVER_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_RESOURCE_IS_SILVER</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_PEARLS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_RESOURCE_IS_PEARLS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_DIAMONDS_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_RESOURCE_IS_DIAMONDS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_JADE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_RESOURCE_IS_JADE</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_SALT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYWITCHER_RESOURCE_IS_SALT</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>REDANIAN_PRISION_ADDAMENITIES</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_IRON_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_IRON_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_COPPER_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_COPPER_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_SILVER_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_SILVER_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_PEARLS_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_PEARLS_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_DIAMONDS_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_DIAMONDS_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_JADE_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_JADE_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_SALT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>KOVIR_MARKET_SALT_BONUS</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+	</ModifierArguments>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_IRON</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_COPPER</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_SILVER</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_PEARLS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_DIAMONDS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_JADE</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_SALT</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_IRON</RequirementSetId>
+			<RequirementId>MYWITCHER_REQUIRES_IRON_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_COPPER</RequirementSetId>
+			<RequirementId>MYWITCHER_REQUIRES_COPPER_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_SILVER</RequirementSetId>
+			<RequirementId>MYWITCHER_REQUIRES_SILVER_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_PEARLS</RequirementSetId>
+			<RequirementId>MYWITCHER_REQUIRES_PEARLS_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_DIAMONDS</RequirementSetId>
+			<RequirementId>MYWITCHER_REQUIRES_DIAMONDS_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_JADE</RequirementSetId>
+			<RequirementId>MYWITCHER_REQUIRES_JADE_IN_PLOT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>MYWITCHER_RESOURCE_IS_SALT</RequirementSetId>
+			<RequirementId>MYWITCHER_REQUIRES_SALT_IN_PLOT</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_IRON_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_COPPER_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_SILVER_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_PEARLS_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_DIAMONDS_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_JADE_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_SALT_IN_PLOT</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_RESOURCE_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+
+	<RequirementArguments>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_IRON_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_IRON</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_COPPER_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_COPPER</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_SILVER_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_SILVER</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_PEARLS_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_PEARLS</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_DIAMONDS_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_DIAMONDS</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_JADE_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_JADE</Value>
+		</Row>
+		<Row>
+			<RequirementId>MYWITCHER_REQUIRES_SALT_IN_PLOT</RequirementId>
+			<Name>ResourceType</Name>
+			<Value>RESOURCE_SALT</Value>
+		</Row>
+	</RequirementArguments>
+</GameData>

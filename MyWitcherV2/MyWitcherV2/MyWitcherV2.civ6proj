@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: Witcher Mod</Name>
+    <Guid>af83dd65-7f06-4686-a881-d284e2940bd5</Guid>
+    <ProjectGuid>22054dd4-f081-4fa5-b766-00c183f8b2d6</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Mod Witcher, Gerald of Rivia</Teaser>
+    <Description>Mod based in the Books of Gerald of Rivia and the game Witcher.</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+      <InGameActions>
+        <UpdateDatabase id="Gameplay">
+          <File>MyWitcher_Civs.xml</File>
+          <File>MyWitcher_Leaders.xml</File>
+          <File>MyWitcher_Buildings.xml</File>
+          <File>MyWitcher_Units.xml</File>
+          <File>MyWitcher_UnitAbilities.xml</File>
+          <File>MyWitcher_Colors.xml</File>
+          <File>MyWitcher_Religions.xml</File>
+          <File>MyWitcher_Improvements.xml</File>
+          <File>MyWitcher_CityStates.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="Text">
+          <File>MyWitcher_ConfigText.xml</File>
+          <File>MyWitcher_Text.xml</File>
+          <File>Translations/MyWitcher_ConfigES.xml</File>
+          <File>Translations/MyWitcher_TextES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="Icons">
+          <File>MyWitcher_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="Art">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </InGameActions>
+    ]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+      <FrontEndActions>
+        <UpdateDatabase id="Config">
+          <File>MyWitcher_Config.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="ConfigText">
+          <File>MyWitcher_ConfigText.xml</File>
+          <File>Translations/MyWitcher_ConfigES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="ConfigIcons">
+          <File>MyWitcher_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="ConfigArt">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </FrontEndActions>
+    ]]></FrontEndActionData>
+    <AssemblyName>MyWitcherV2</AssemblyName>
+    <RootNamespace>MyWitcherV2</RootNamespace>
+    <Authors>Jordi Torné</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Improvements.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Units.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWitcher_CityStates.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWitcher_Religions.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWitcher_UnitAbilities.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWitcher_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWitcher_ConfigES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyWitcher_TextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyWitcher_Config.xml" />
+    <Content Include="MyWitcher_ConfigText.xml" />
+    <Content Include="MyWitcher_Civs.xml" />
+    <Content Include="MyWitcher_Icons.xml" />
+    <Content Include="MyWitcher_Improvements.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWitcher_Leaders.xml" />
+    <Content Include="MyWitcher_Buildings.xml" />
+    <Content Include="MyWitcher_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWitcher_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
