@@ -1,5 +1,12 @@
 # Civ VI Witcher Mod
 - - - -
+# INDEX 
+1. [To Do](#1-to-do)
+2. [Leader & Civs](#2-leader--civs)
+3. [City States](#3-city-states)
+4. [Natural Wonders](#4-natural-wonders)
+5. [Building Wonders](#5-building-wonders)
+- - - -
 # 1. To Do
 Things to Do:
 * World wonders using existing models or new
@@ -163,3 +170,11 @@ Koviri Delight: All cities you found or conquer start with a Trading Post.Your [
 * Angren: Holy Sites gains +1 [ICON_Faith] Faith for Forest adjacency.
 * Jamurlak: Automatically converts to the Religion you founded, and exerts pressure for that Religion as if it were a Holy City.
 * Riverdell: +1 Faith [ICON_Faith] in the Holy Sites next to a River.
+- - - -
+# 4. Natural Wonders
+Possible wonders:
+Mount Carbon, Caed Dhu, Bald Mountain(Aard Cerbin), Great Kestrel, Mount Cremora, Kaer Trolde mountain, Loc Grim, Loc Muinne, Loc Eskalott, Pereplut, Tarn Mira
+- - - -
+# 5. Building Wonders
+Possible wonders:
+Oxenfurt Academy, Great Temple of the Eternal Fire, Hindar, Temple of Freyja, Imperial Academy, Markus Braibant Military Academy, Temple of Melitele, Imperial Palace, Millennium Square, Vivaldi Bank 
