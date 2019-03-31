@@ -47,56 +47,56 @@
 
 	<Colors>
 		<Row>
-			<Type>RELIGION_GREAT_SUN</Type>
+			<Type>COLOR_RELIGION_GREAT_SUN</Type>
 			<Red>1</Red>
 			<Green>0.615</Green>
 			<Blue>0</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
-			<Type>RELIGION_MELITELE</Type>
+			<Type>COLOR_RELIGION_MELITELE</Type>
 			<Red>1</Red>
 			<Green>0.407</Green>
 			<Blue>0.329</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
-			<Type>RELIGION_ETERNAL_FIRE</Type>
+			<Type>COLOR_RELIGION_ETERNAL_FIRE</Type>
 			<Red>1</Red>
 			<Green>0.184</Green>
 			<Blue>0</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
-			<Type>RELIGION_GREAT_MOTHER_FREYA</Type>
+			<Type>COLOR_RELIGION_GREAT_MOTHER_FREYA</Type>
 			<Red>1</Red>
 			<Green>1</Green>
 			<Blue>1</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
-			<Type>RELIGION_FOREFATHER_KREVE</Type>
+			<Type>COLOR_RELIGION_FOREFATHER_KREVE</Type>
 			<Red>1</Red>
 			<Green>0.886</Green>
 			<Blue>0.517</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
-			<Type>RELIGION_LEBIODA</Type>
+			<Type>COLOR_RELIGION_LEBIODA</Type>
 			<Red>0.568</Red>
 			<Green>0.427</Green>
 			<Blue>1</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
-			<Type>RELIGION_WITCHER_DRUIDS</Type>
+			<Type>COLOR_RELIGION_WITCHER_DRUIDS</Type>
 			<Red>0.321</Red>
 			<Green>0.498</Green>
 			<Blue>0.247</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
-			<Type>RELIGION_DANA_MEADBH</Type>
+			<Type>COLOR_RELIGION_DANA_MEADBH</Type>
 			<Red>0.713</Red>
 			<Green>1</Green>
 			<Blue>0</Blue>

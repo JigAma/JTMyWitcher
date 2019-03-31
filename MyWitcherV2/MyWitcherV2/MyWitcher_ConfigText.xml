@@ -32,7 +32,7 @@
 			<Gender>Masculine:a</Gender>
 		</Row>
 		<Row Tag="LOC_UNIT_BLUE_STRIPES_DESCRIPTION" Language="en_US">
-			<Text>Temerian unique Medieval era melee unit, replace swordman. +5 [ICON_Strength] when fighting in Forest or Jungle.</Text>
+			<Text>Temerian unique Medieval era melee unit. +5 [ICON_Strength] when fighting in Forest or Jungle.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_MAGE_ACADEMY_NAME" Language="en_US">
 			<Text>Mage Academy</Text>

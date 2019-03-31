@@ -19,14 +19,14 @@
 			<Type>LEADER_DIJKSTRA</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_REDANIA_PRIMARY</PrimaryColor>
-			<SecondaryColor>COLOR_PLAYER_REDANIA_SECONDARY</SecondaryColor>
+			<SecondaryColor>COLOR_PLAYER_REDANIA_TER</SecondaryColor>
 			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
 			<Type>LEADER_RADOVID</Type>
 			<Usage>Unique</Usage>
 			<PrimaryColor>COLOR_PLAYER_REDANIA_PRIMARY</PrimaryColor>
-			<SecondaryColor>COLOR_PLAYER_REDANIA_TER</SecondaryColor>
+			<SecondaryColor>COLOR_PLAYER_REDANIA_SECONDARY</SecondaryColor>
 			<TextColor>COLOR_PLAYER_PINK_TEXT</TextColor>
 		</Row>
 		<Row>
@@ -386,16 +386,16 @@
 		</Row>
 		<Row>
 			<Type>COLOR_PLAYER_REDANIA_TER</Type>
-			<Red>0.956</Red>
-			<Green>0.764</Green>
-			<Blue>0</Blue>
+			<Red>0.874</Red>
+			<Green>0</Green>
+			<Blue>0.141</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>
 			<Type>COLOR_PLAYER_KAEDWEN_PRIMARY</Type>
-			<Red>0.874</Red>
-			<Green>0</Green>
-			<Blue>0.141</Blue>
+			<Red>0.486</Red>
+			<Green>0.321</Green>
+			<Blue>0.208</Blue>
 			<Alpha>1</Alpha>
 		</Row>
 		<Row>

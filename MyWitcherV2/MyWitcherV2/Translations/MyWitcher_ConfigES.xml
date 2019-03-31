@@ -26,7 +26,7 @@
 			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Tag="LOC_UNIT_BLUE_STRIPES_DESCRIPTION" Language="es_ES">
-			<Text>Unidad cuerpo a cuerpo única de Temeria, remplaza el Soldado con Espada. +5 [ICON_Strength] luchando en Bosques y Junglas.</Text>
+			<Text>Unidad cuerpo a cuerpo única de Temeria. +5 [ICON_Strength] luchando en Bosques y Junglas.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_MAGE_ACADEMY_NAME" Language="es_ES">
 			<Text>Academia de Magia</Text>

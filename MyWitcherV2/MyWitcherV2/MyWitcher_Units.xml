@@ -144,7 +144,6 @@
 	</UnitAiInfos>
 
 	<UnitReplaces>
-		<Row CivUniqueUnitType="UNIT_BLUE_STRIPES" ReplacesUnitType="UNIT_SWORDSMAN"/>
 		<Row CivUniqueUnitType="UNIT_IMPERA_BRIGADE" ReplacesUnitType="UNIT_SWORDSMAN"/>
 		<Row CivUniqueUnitType="UNIT_BLACK_INFANTRY_ARCHERS" ReplacesUnitType="UNIT_CROSSBOWMAN"/>
 		<Row CivUniqueUnitType="UNIT_NAUSICAA_CAVALRY" ReplacesUnitType="UNIT_HORSEMAN"/>

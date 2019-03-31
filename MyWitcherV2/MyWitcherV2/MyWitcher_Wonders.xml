@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="FEATURE_MOUNT_GORGON" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_CARBON" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_MOUNT_KESTREL" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_KAER_TROLDE_MOUNT" Kind="KIND_FEATURE" />
+		<Row Type="FEATURE_TARN_MIRA" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_CAED_DHU" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_PEREPLUT" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_SEDNA_ABYSS" Kind="KIND_FEATURE"/>
+	</Types>
+
+	<Features>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" Name="LOC_FEATURE_MOUNT_GORGON_NAME" Description="LOC_FEATURE_MOUNT_GORGON_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_GORGON_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" Name="LOC_FEATURE_MOUNT_CARBON_NAME" Description="LOC_FEATURE_MOUNT_CARBON_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_CARBON_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_MOUNT_KESTREL" Name="LOC_FEATURE_MOUNT_KESTREL_NAME" Description="LOC_FEATURE_MOUNT_KESTREL_DESCRIPTION" Quote="LOC_FEATURE_MOUNT_KESTREL_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="2" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_KAER_TROLDE_MOUNT" Name="LOC_FEATURE_KAER_TROLDE_MOUNT_NAME" Description="LOC_FEATURE_KAER_TROLDE_MOUNT_DESCRIPTION" Quote="LOC_FEATURE_KAER_TROLDE_MOUNT_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="3" NoRiver="true" Settlement="false" FollowRulesInWB="false" Impassable="true" SightThroughModifier="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_TARN_MIRA" Name="LOC_FEATURE_TARN_MIRA_NAME" Description="LOC_FEATURE_TARN_MIRA_DESCRIPTION" Quote="LOC_FEATURE_TARN_MIRA_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="2" NoAdjacentFeatures="true" NoRiver="true" NoCoast="true" Lake="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_CAED_DHU" Name="LOC_FEATURE_CAED_DHU_NAME" Description="LOC_FEATURE_CAED_DHU_DESCRIPTION" Quote="LOC_FEATURE_CAED_DHU_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="4" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" DefenseModifier="-2" MovementChange="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_PEREPLUT" Name="LOC_FEATURE_PEREPLUT_NAME" Description="LOC_FEATURE_PEREPLUT_DESCRIPTION" Quote="LOC_FEATURE_PEREPLUT_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" Tiles="4" NoRiver="true" NoCoast="true" Settlement="false" FollowRulesInWB="false" DefenseModifier="-2" MovementChange="1" MinDistanceNW="8"/>
+		<Row FeatureType="FEATURE_SEDNA_ABYSS" Name="LOC_FEATURE_SEDNA_ABYSS_NAME" Description="LOC_FEATURE_SEDNA_ABYSS_DESCRIPTION" Quote="LOC_FEATURE_SEDNA_ABYSS_QUOTE" QuoteAudio="" NaturalWonder="true" Appeal="2" MinDistanceLand="3" MaxDistanceLand="6" Tiles="2" NoRiver="true" Settlement="false" FollowRulesInWB="false" MinDistanceNW="8"/>
+
+	</Features>
+
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_KESTREL" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_MOUNT_KESTREL" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_KAER_TROLDE_MOUNT" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_KAER_TROLDE_MOUNT" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_KAER_TROLDE_MOUNT" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_KAER_TROLDE_MOUNT" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_TARN_MIRA" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_TARN_MIRA" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_CAED_DHU" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_CAED_DHU" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_PEREPLUT" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_PEREPLUT" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_SEDNA_ABYSS" TerrainType="TERRAIN_OCEAN"/>
+
+	</Feature_ValidTerrains>
+	<Feature_AdjacentTerrains>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_KESTREL" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOUNT_KESTREL" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOUNT_KESTREL" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOUNT_KESTREL" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+	</Feature_AdjacentTerrains>
+	<Feature_NotAdjacentTerrains>
+		<Row FeatureType="FEATURE_TARN_MIRA" TerrainType="TERRAIN_GRASS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_TARN_MIRA" TerrainType="TERRAIN_PLAINS_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_TARN_MIRA" TerrainType="TERRAIN_DESERT_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_TARN_MIRA" TerrainType="TERRAIN_TUNDRA_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_TARN_MIRA" TerrainType="TERRAIN_SNOW_MOUNTAIN"/>
+		<Row FeatureType="FEATURE_CAED_DHU" TerrainType="TERRAIN_SNOW"/>
+		<Row FeatureType="FEATURE_PEREPLUT" TerrainType="TERRAIN_SNOW"/>
+	</Feature_NotAdjacentTerrains>
+	<Feature_NotNearFeatures>
+		<Row FeatureType="FEATURE_SEDNA_ABYSS" FeatureTypeAvoid="FEATURE_ICE"/>
+	</Feature_NotNearFeatures>
+	<Feature_AdjacentYields>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" YieldType="YIELD_FOOD" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_GORGON" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row FeatureType="FEATURE_MOUNT_CARBON" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_MOUNT_KESTREL" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row FeatureType="FEATURE_KAER_TROLDE_MOUNT" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_KAER_TROLDE_MOUNT" YieldType="YIELD_FAITH" YieldChange="1"/>
+	</Feature_AdjacentYields>
+	<Feature_YieldChanges>
+		<Row FeatureType="FEATURE_TARN_MIRA" YieldType="YIELD_SCIENCE" YieldChange="4"/>
+		<Row FeatureType="FEATURE_CAED_DHU" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_CAED_DHU" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_CAED_DHU" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row FeatureType="FEATURE_PEREPLUT" YieldType="YIELD_FAITH" YieldChange="3"/>
+		<Row FeatureType="FEATURE_PEREPLUT" YieldType="YIELD_SCIENCE" YieldChange="1"/>
+		<Row FeatureType="FEATURE_SEDNA_ABYSS" YieldType="YIELD_SCIENCE" YieldChange="5"/>
+	</Feature_YieldChanges>
+</GameData>

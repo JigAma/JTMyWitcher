@@ -1394,5 +1394,223 @@
 		<Row Tag="LOC_ABILITY_NORTHERN_SORCERES_DESCRIPTION" Language="en_US">
 			<Text>Heals at the end of every turn, even after moving or attacking.</Text>
 		</Row>
+		<!-- Rivers-->
+		<Row Tag="LOC_NAMED_RIVER_ADALATTE_NAME" Language="en_US">
+			<Text>Adalatte River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_VDA_NAME" Language="en_US">
+			<Text>Vda River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ALBA_NAME" Language="en_US">
+			<Text>Alba River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_IM_LEBAR_NAME" Language="en_US">
+			<Text>Im Lebar River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_VELDA_NAME" Language="en_US">
+			<Text>Velda River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WAGTAIL_NAME" Language="en_US">
+			<Text>Wagtail River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ARETE_NAME" Language="en_US">
+			<Text>Arete River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LETE_NAME" Language="en_US">
+			<Text>Lete River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SYLTE_NAME" Language="en_US">
+			<Text>Sylte River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YELENA_NAME" Language="en_US">
+			<Text>Yelena River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SANSRETOUR_NAME" Language="en_US">
+			<Text>Sansretour River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BLESSURE_NAME" Language="en_US">
+			<Text>Blessure River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YARUGA_NAME" Language="en_US">
+			<Text>Yaruga River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ANGRA_NAME" Language="en_US">
+			<Text>Angra River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SOLVEIGA_NAME" Language="en_US">
+			<Text>Solveiga River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NEWI_NAME" Language="en_US">
+			<Text>Newi River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DUPPA_NAME" Language="en_US">
+			<Text>Duppa River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BUINA_NAME" Language="en_US">
+			<Text>Buina River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NIMNAR_NAME" Language="en_US">
+			<Text>Nimnar River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BRAA_NAME" Language="en_US">
+			<Text>Braa River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CREA_NAME" Language="en_US">
+			<Text>Crea River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ISMENA_NAME" Language="en_US">
+			<Text>Ismena River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CHOTLA_NAME" Language="en_US">
+			<Text>Chotla River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_INA_NAME" Language="en_US">
+			<Text>Ina River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MARNADAL_NAME" Language="en_US">
+			<Text>Marnadal River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIBBON_NAME" Language="en_US">
+			<Text>Ribbon River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TRAVA_NAME" Language="en_US">
+			<Text>Trava River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LIXELA_NAME" Language="en_US">
+			<Text>Lixela River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GWENLLECH_NAME" Language="en_US">
+			<Text>Gwenllech River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DYFNE_NAME" Language="en_US">
+			<Text>Dyfne River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_EMBLA_NAME" Language="en_US">
+			<Text>Embla River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TANGO_NAME" Language="en_US">
+			<Text>Tango River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TOINA_NAME" Language="en_US">
+			<Text>Toina River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YAVINA_NAME" Language="en_US">
+			<Text>Yavina River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PONTAR_NAME" Language="en_US">
+			<Text>Pontar River</Text>
+		</Row>
+		<!-- Desert-->
+		<Row Tag="LOC_NAMED_DESERT_KORATH_NAME" Language="en_US">
+			<Text>Korath Desert</Text>
+		</Row>
+		<!-- Mountains-->
+		<Row Tag="LOC_NAMED_MOUNTAIN_AMELL_NAME" Language="en_US">
+			<Text>Amell Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BLUE_MOUNTAIN_NAME" Language="en_US">
+			<Text>Blue Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DRAGON_MOUNTAINS_NAME" Language="en_US">
+			<Text>Dragon Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TIR_TOCHAIR_NAME" Language="en_US">
+			<Text>Tir Tochair</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_FIERY_MOUNRAINS_NAME" Language="en_US">
+			<Text>Fiery Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KESTREL_NAME" Language="en_US">
+			<Text>Kestrel Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HERTCH_NAME" Language="en_US">
+			<Text>Hertch Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MAHAKAM_NAME" Language="en_US">
+			<Text>Mahakam Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CREMORA_NAME" Language="en_US">
+			<Text>Mount Cremora</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ARMUSH_NAME" Language="en_US">
+			<Text>Armush Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SKARRAK_NAME" Language="en_US">
+			<Text>Mount Skarrak</Text>
+		</Row>
+		<!-- Natural Wonders-->
+		<Row Tag="LOC_FEATURE_MOUNT_GORGON_NAME" Language="en_US" >
+			<Text>Mount Gorgon</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_GORGON_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Food] Food, +1 [ICON_Science] Science and  +1 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_GORGON_QUOTE" Language="en_US">
+			<Text>Mount Gorgon, also known as "Devil Mountain" is the highest peak in the Amell range most of time covered by fog.  The elven cemetery of Tir ná Béa Arainne is found in a cave there. </Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_CARBON_NAME" Language="en_US" >
+			<Text>Mount Carbon</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_CARBON_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Production] Production, +1 [ICON_Culture] Culture to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_CARBON_QUOTE" Language="en_US">
+			<Text>Located in the mountains of Mahakamm, Mahakamm is famous for its weapons, forged using advanced gnomish technology in workshops which are reported to lie deep in its depths. Many mines, foundries and forges are located there. Iron from Mount Carbon is famous for its quality and is considered to be the best in the world.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_KESTREL_NAME" Language="en_US" >
+			<Text>Great Kestrel</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_KESTREL_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Culture] Culture to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_KESTREL_QUOTE" Language="en_US">
+			<Text>The Great Kestrel is one of the three tallest peaks in the Kestrel Mountains, a range which separates Kaedwen from Redania, Kovir and Poviss.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KAER_TROLDE_MOUNT_NAME" Language="en_US" >
+			<Text>Kaer Trolde Mountain</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KAER_TROLDE_MOUNT_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. Provides +1 [ICON_Culture] Culture and +1 [ICON_Faith] Faith to adjacent tiles</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_KAER_TROLDE_MOUNT_QUOTE" Language="en_US">
+			<Text>Kaer Trolde mountain is the highest peak in the archipelago above the Kaer Trolde. According to legend, Grymmdjarr, first lord of Ard Skellig, dove into the depths of the sea and used the thickest chain his father, Hemdall, could forge to drag an enormous rock to the surface, placing it on Ard Skellig's north-eastern shore. This enormous rock was the mountain that Grymmdjarr carved Kaer Trolde out of with his bare hands, and where it stands to this day, the pride and glory of his clan, Clan an Craite. </Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TARN_MIRA_NAME" Language="en_US" >
+			<Text>Tarn Mira</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TARN_MIRA_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder. It appears as a Lake and provides +4 [ICON_Science] Science.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_TARN_MIRA_QUOTE" Language="en_US">
+			<Text>Tarn Mira, or Bottomless Lake is a clover-shaped lake in Mil Tracta on the north shore of which rises Tor Zireael. The banks are very steep and it is surrounded by a dark forest. </Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CAED_DHU_NAME" Language="en_US" >
+			<Text>Caed Dhu</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CAED_DHU_DESCRIPTION" Language="en_US" >
+			<Text>Four tile natural wonder. It appears as Marsh and provides +1 [ICON_Faith] Faith, +1 [ICON_Science] Science and +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_CAED_DHU_QUOTE" Language="en_US">
+			<Text>Caed Dhu is a forest in Angren, on the bank of the Yaruga. In Elder Speech the phrase means Black Forest, or Black Grove.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PEREPLUT_NAME" Language="en_US" >
+			<Text>Pereplut</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PEREPLUT_DESCRIPTION" Language="en_US" >
+			<Text>Four tile natural wonder. It appears as Marsh and provides +1 [ICON_Science] Science and +4 [ICON_Food] Food.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_PEREPLUT_QUOTE" Language="en_US">
+			<Text>The swamps of Pereplut in Ebbing. It is there that Vysogota of Corvo, the noted scholar, fled when he was pursued. He eventually created a hermitage there. </Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SEDNA_ABYSS_NAME" Language="en_US" >
+			<Text>Sedna Abyss</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SEDNA_ABYSS_DESCRIPTION" Language="en_US" >
+			<Text>Two tile natural wonder that can be found on ocean terrain and provides +4 [ICON_Science] Science.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_SEDNA_ABYSS_QUOTE" Language="en_US">
+			<Text>Sedna Abyss, also known as Sedna Trench, tends to be avoided by the islanders as ships disappear in this area due to unnatural causes. In particular, if entered, a maelstrom forms out of nowhere and the unlucky ship disappears. </Text>
+		</Row>
+		
 	</LocalizedText>
 </GameData>

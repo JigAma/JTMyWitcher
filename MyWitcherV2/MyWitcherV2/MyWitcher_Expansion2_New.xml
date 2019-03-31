@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<UnitReplaces>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_NAUSICAA_CAVALRY"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_DUN_BANNER"/></Update>
+		<Update><Set ReplacesUnitType="UNIT_COURSER"/><Where CivUniqueUnitType="UNIT_VRIHEDD_BRIGADE"/></Update>
+	</UnitReplaces>
+	<Units>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_NAUSICAA_CAVALRY</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_DUN_BANNER</UnitType>
+			</Where>
+		</Update>
+		<Update>
+			<Set>
+				<Cost>200</Cost>
+				<Maintenance>3</Maintenance>
+				<Combat>44</Combat>
+				<BaseMoves>5</BaseMoves>
+				<PrereqTech>TECH_CASTLES</PrereqTech>
+			</Set>
+			<Where>
+				<UnitType>UNIT_VRIHEDD_BRIGADE</UnitType>
+			</Where>
+		</Update>
+	</Units>
+	<UnitUpgrades>
+		<Update><Where Unit="UNIT_NAUSICAA_CAVALRY"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_DUN_BANNER"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+		<Update><Where Unit="UNIT_VRIHEDD_BRIGADE"/><Set><UpgradeUnit>UNIT_CUIRASSIER</UpgradeUnit></Set></Update>
+	</UnitUpgrades>
+
+	<Units_XP2>
+		<Row UnitType="UNIT_BLUE_STRIPES" ResourceCost="20"/>
+		<Row UnitType="UNIT_IMPERA_BRIGADE" ResourceCost="20"/>
+		<Row UnitType="UNIT_NAUSICAA_CAVALRY" ResourceCost="20"/>
+		<Row UnitType="UNIT_DUN_BANNER" ResourceCost="20"/>
+		<Row UnitType="UNIT_ALBA_DIVISION" ResourceCost="20"/>
+		<Row UnitType="UNIT_AN_CRAITE_WARRIOR" ResourceCost="20"/>
+		<Row UnitType="UNIT_VRIHEDD_BRIGADE" ResourceCost="20"/>
+		<Row UnitType="UNIT_LYRIAN_FREE_COMPANY" ResourceCost="20"/>
+		<Row UnitType="UNIT_HEAVY_DUN_BANNER" ResourceCost="20"/>
+		<Row UnitType="UNIT_ROYAL_ELITE" ResourceCost="20"/>
+		<Row UnitType="UNIT_ROYAL_KNIGHTS" ResourceCost="20"/>
+	</Units_XP2>
+
+	<Types>
+		<Row Type="NAMED_RIVER_ADALATTE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_VDA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ALBA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_IM_LEBAR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_VELDA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_WAGTAIL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ARETE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_LETE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SYLTE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_YELENA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SANSRETOUR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BLESSURE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_YARUGA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ANGRA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_SOLVEIGA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_NEWI" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_DUPPA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BUINA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_NIMNAR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_BRAA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CREA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_ISMENA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_CHOTLA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_INA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_MARNADAL" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_RIBBON" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TRAVA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_LIXELA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_GWENLLECH" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_DYFNE" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_EMBLA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TANGO" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_TOINA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_YAVINA" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_RIVER_PONTAR" Kind="KIND_NAMED_RIVER"/>
+		<Row Type="NAMED_DESERT_KORATH" Kind="KIND_NAMED_DESERT"/>
+		<Row Type="NAMED_MOUNTAIN_AMELL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_BLUE_MOUNTAIN" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_DRAGON_MOUNTAINS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_TIR_TOCHAIR" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_FIERY_MOUNRAINS" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_KESTREL" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_HERTCH" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_MAHAKAM" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_CREMORA" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_ARMUSH" Kind="KIND_NAMED_MOUNTAIN"/>
+		<Row Type="NAMED_MOUNTAIN_SKARRAK" Kind="KIND_NAMED_MOUNTAIN"/>
+	</Types>
+	<NamedMountains>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AMELL" Name="LOC_NAMED_MOUNTAIN_AMELL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BLUE_MOUNTAIN" Name="LOC_NAMED_MOUNTAIN_BLUE_MOUNTAIN_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGON_MOUNTAINS" Name="LOC_NAMED_MOUNTAIN_DRAGON_MOUNTAINS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_TIR_TOCHAIR" Name="LOC_NAMED_MOUNTAIN_TIR_TOCHAIR_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_FIERY_MOUNRAINS" Name="LOC_NAMED_MOUNTAIN_FIERY_MOUNRAINS_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KESTREL" Name="LOC_NAMED_MOUNTAIN_KESTREL_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_HERTCH" Name="LOC_NAMED_MOUNTAIN_HERTCH_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MAHAKAM" Name="LOC_NAMED_MOUNTAIN_MAHAKAM_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_CREMORA" Name="LOC_NAMED_MOUNTAIN_CREMORA_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ARMUSH" Name="LOC_NAMED_MOUNTAIN_ARMUSH_NAME"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_SKARRAK" Name="LOC_NAMED_MOUNTAIN_SKARRAK_NAME"/>
+	</NamedMountains>
+
+	<NamedMountainCivilizations>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AMELL" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BLUE_MOUNTAIN" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_FIERY_MOUNRAINS" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BLUE_MOUNTAIN" CivilizationType="CIVILIZATION_AEDIRN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MAHAKAM" CivilizationType="CIVILIZATION_AEDIRN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_CREMORA" CivilizationType="CIVILIZATION_AEDIRN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KESTREL" CivilizationType="CIVILIZATION_KAEDWEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BLUE_MOUNTAIN" CivilizationType="CIVILIZATION_KAEDWEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_HERTCH" CivilizationType="CIVILIZATION_KAEDWEN"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_BLUE_MOUNTAIN" CivilizationType="CIVILIZATION_SCOIATAEL"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_DRAGON_MOUNTAINS" CivilizationType="CIVILIZATION_KOVIR_POVISS"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_TIR_TOCHAIR" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_AMELL" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_FIERY_MOUNRAINS" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ARMUSH" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_KESTREL" CivilizationType="CIVILIZATION_REDANIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_MAHAKAM" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_CREMORA" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_ARMUSH" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedMountainType="NAMED_MOUNTAIN_SKARRAK" CivilizationType="CIVILIZATION_SKELLIGE"/>
+	</NamedMountainCivilizations>
+	<NamedDeserts>
+		<Row NamedDesertType="NAMED_DESERT_KORATH" Name="LOC_NAMED_DESERT_KORATH_NAME"/>
+	</NamedDeserts>
+	<NamedDesertCivilizations>
+		<Row NamedDesertType="NAMED_DESERT_KORATH" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedDesertType="NAMED_DESERT_KORATH" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+	</NamedDesertCivilizations>
+	<NamedRivers>
+		<Row NamedRiverType="NAMED_RIVER_ADALATTE" Name="LOC_NAMED_RIVER_ADALATTE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_VDA" Name="LOC_NAMED_RIVER_VDA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ALBA" Name="LOC_NAMED_RIVER_ALBA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_IM_LEBAR" Name="LOC_NAMED_RIVER_IM_LEBAR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_VELDA" Name="LOC_NAMED_RIVER_VELDA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_WAGTAIL" Name="LOC_NAMED_RIVER_WAGTAIL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ARETE" Name="LOC_NAMED_RIVER_ARETE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_LETE" Name="LOC_NAMED_RIVER_LETE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SYLTE" Name="LOC_NAMED_RIVER_SYLTE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_YELENA" Name="LOC_NAMED_RIVER_YELENA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SANSRETOUR" Name="LOC_NAMED_RIVER_SANSRETOUR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BLESSURE" Name="LOC_NAMED_RIVER_BLESSURE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_YARUGA" Name="LOC_NAMED_RIVER_YARUGA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ANGRA" Name="LOC_NAMED_RIVER_ANGRA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_SOLVEIGA" Name="LOC_NAMED_RIVER_SOLVEIGA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_NEWI" Name="LOC_NAMED_RIVER_NEWI_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_DUPPA" Name="LOC_NAMED_RIVER_DUPPA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BUINA" Name="LOC_NAMED_RIVER_BUINA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_NIMNAR" Name="LOC_NAMED_RIVER_NIMNAR_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_BRAA" Name="LOC_NAMED_RIVER_BRAA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CREA" Name="LOC_NAMED_RIVER_CREA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_ISMENA" Name="LOC_NAMED_RIVER_ISMENA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_CHOTLA" Name="LOC_NAMED_RIVER_CHOTLA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_INA" Name="LOC_NAMED_RIVER_INA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_MARNADAL" Name="LOC_NAMED_RIVER_MARNADAL_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_RIBBON" Name="LOC_NAMED_RIVER_RIBBON_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TRAVA" Name="LOC_NAMED_RIVER_TRAVA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_LIXELA" Name="LOC_NAMED_RIVER_LIXELA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_GWENLLECH" Name="LOC_NAMED_RIVER_GWENLLECH_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_DYFNE" Name="LOC_NAMED_RIVER_DYFNE_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_EMBLA" Name="LOC_NAMED_RIVER_EMBLA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TANGO" Name="LOC_NAMED_RIVER_TANGO_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_TOINA" Name="LOC_NAMED_RIVER_TOINA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_YAVINA" Name="LOC_NAMED_RIVER_YAVINA_NAME"/>
+		<Row NamedRiverType="NAMED_RIVER_PONTAR" Name="LOC_NAMED_RIVER_PONTAR_NAME"/>
+	</NamedRivers>
+
+	<NamedRiverCivilizations>
+		<Row NamedRiverType="NAMED_RIVER_DYFNE" CivilizationType="CIVILIZATION_SCOIATAEL"/>
+		<Row NamedRiverType="NAMED_RIVER_ADALATTE" CivilizationType="CIVILIZATION_SCOIATAEL"/>
+		<Row NamedRiverType="NAMED_RIVER_VDA" CivilizationType="CIVILIZATION_SCOIATAEL"/>
+		<Row NamedRiverType="NAMED_RIVER_ALBA" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_IM_LEBAR" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_VELDA" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_WAGTAIL" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_ARETE" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_LETE" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_SYLTE" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_YELENA" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_SANSRETOUR" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_BLESSURE" CivilizationType="CIVILIZATION_NILFGAARD"/>
+		<Row NamedRiverType="NAMED_RIVER_YARUGA" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedRiverType="NAMED_RIVER_ANGRA" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedRiverType="NAMED_RIVER_SOLVEIGA" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedRiverType="NAMED_RIVER_NEWI" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedRiverType="NAMED_RIVER_YAVINA" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedRiverType="NAMED_RIVER_SANSRETOUR" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedRiverType="NAMED_RIVER_BLESSURE" CivilizationType="CIVILIZATION_LYRIA_RIVIA"/>
+		<Row NamedRiverType="NAMED_RIVER_DUPPA" CivilizationType="CIVILIZATION_REDANIA"/>
+		<Row NamedRiverType="NAMED_RIVER_BUINA" CivilizationType="CIVILIZATION_REDANIA"/>
+		<Row NamedRiverType="NAMED_RIVER_NIMNAR" CivilizationType="CIVILIZATION_REDANIA"/>
+		<Row NamedRiverType="NAMED_RIVER_PONTAR" CivilizationType="CIVILIZATION_REDANIA"/>
+		<Row NamedRiverType="NAMED_RIVER_BRAA" CivilizationType="CIVILIZATION_REDANIA"/>
+		<Row NamedRiverType="NAMED_RIVER_CREA" CivilizationType="CIVILIZATION_REDANIA"/>
+		<Row NamedRiverType="NAMED_RIVER_EMBLA" CivilizationType="CIVILIZATION_REDANIA"/>
+		<Row NamedRiverType="NAMED_RIVER_ISMENA" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_CHOTLA" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_INA" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_MARNADAL" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_RIBBON" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_TRAVA" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_VDA" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_PONTAR" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_YARUGA" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_EMBLA" CivilizationType="CIVILIZATION_TEMERIA"/>
+		<Row NamedRiverType="NAMED_RIVER_LIXELA" CivilizationType="CIVILIZATION_KAEDWEN"/>
+		<Row NamedRiverType="NAMED_RIVER_GWENLLECH" CivilizationType="CIVILIZATION_KAEDWEN"/>
+		<Row NamedRiverType="NAMED_RIVER_PONTAR" CivilizationType="CIVILIZATION_KAEDWEN"/>
+		<Row NamedRiverType="NAMED_RIVER_BRAA" CivilizationType="CIVILIZATION_KAEDWEN"/>
+		<Row NamedRiverType="NAMED_RIVER_CREA" CivilizationType="CIVILIZATION_KAEDWEN"/>
+		<Row NamedRiverType="NAMED_RIVER_DYFNE" CivilizationType="CIVILIZATION_AEDIRN"/>
+		<Row NamedRiverType="NAMED_RIVER_PONTAR" CivilizationType="CIVILIZATION_AEDIRN"/>
+		<Row NamedRiverType="NAMED_RIVER_YAVINA" CivilizationType="CIVILIZATION_AEDIRN"/>
+		<Row NamedRiverType="NAMED_RIVER_TANGO" CivilizationType="CIVILIZATION_KOVIR_POVISS"/>
+		<Row NamedRiverType="NAMED_RIVER_TOINA" CivilizationType="CIVILIZATION_KOVIR_POVISS"/>
+		<Row NamedRiverType="NAMED_RIVER_BRAA" CivilizationType="CIVILIZATION_KOVIR_POVISS"/>
+		<Row NamedRiverType="NAMED_RIVER_CREA" CivilizationType="CIVILIZATION_KOVIR_POVISS"/>
+	</NamedRiverCivilizations>
+
+</GameData>

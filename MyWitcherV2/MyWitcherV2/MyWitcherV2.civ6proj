@@ -24,6 +24,11 @@
           <File>MyWitcher_Religions.xml</File>
           <File>MyWitcher_Improvements.xml</File>
           <File>MyWitcher_CityStates.xml</File>
+          <File>MyWitcher_Wonders.xml</File>
+        </UpdateDatabase>
+        <UpdateDatabase id="UsingExpansion2">
+          <Criteria>Expansion2</Criteria>
+          <File>MyWitcher_Expansion2_New.xml</File>
         </UpdateDatabase>
         <UpdateText id="Text">
           <File>MyWitcher_ConfigText.xml</File>
@@ -58,7 +63,14 @@
     ]]></FrontEndActionData>
     <AssemblyName>MyWitcherV2</AssemblyName>
     <RootNamespace>MyWitcherV2</RootNamespace>
-    <Authors>Jordi Torné</Authors>
+    <Authors>Joto92</Authors>
+    <ActionCriteriaData><![CDATA[
+      <ActionCriteria>
+        <Criteria id="Expansion2">
+          <GameCoreInUse>Expansion2</GameCoreInUse>
+        </Criteria>
+      </ActionCriteria>
+    ]]></ActionCriteriaData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -73,6 +85,9 @@
     <Content Include="MyWitcher_CityStates.xml">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="MyWitcher_Expansion2_New.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="MyWitcher_Religions.xml">
       <SubType>Content</SubType>
     </Content>
@@ -80,6 +95,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="MyWitcher_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyWitcher_Wonders.xml">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Translations\MyWitcher_ConfigES.xml">
