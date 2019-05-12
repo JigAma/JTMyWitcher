@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- TEMERIA | FOLTEST -->
+		<Replace Tag="LOC_CIVILIZATION_TEMERIA_NAME" Language="fr_FR">
+			<Text>Temeria</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_TEMERIA_DESCRIPTION" Language="fr_FR">
+			<Text>Royaume de Temeria</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_TEMERIA_ADJECTIVE" Language="fr_FR">
+			<Text>Temerien</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FOLTEST_NAME" Language="fr_FR">
+			<Text>Foltest</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PEARL_OF_THE_NORTH_NAME" Language="fr_FR">
+			<Text>Perle du Nord</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PEARL_OF_THE_NORTH_DESCRIPTION" Language="fr_FR">
+			<<Text>+4 Influence points per turn toward earning city-state [ICON_Envoy] Envoys. +4 [ICON_Gold] Or pour chaque Cité-État de laquelle vous êtes Suzerain.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_SIEGEMASTER_NAME" Language="fr_FR">
+			<Text>Maître du siège</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SIEGEMASTER_DESCRIPTION" Language="fr_FR">
+			<Text>Toutes les unités de Siège Classique et de la Renaissance gagnent +5 [ICON_Strength] force de Combat. +100% [ICON_Production] Production des unités de Siège Classique et Renaissance et les unités de Support de l'Antiquité, Classique et Médiévale.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BLUE_STRIPES_NAME" Language="fr_FR">
+			<Text>Stries Bleues</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BLUE_STRIPES_DESCRIPTION" Language="fr_FR">
+			<Text>Unité Temerienne de Mélée unique de l'ère Médiévale +5 [ICON_Strength] quand se bat en Forêt ou en Jungle.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MAGE_ACADEMY_NAME" Language="fr_FR">
+			<Text>Académie de Magie</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_MAGE_ACADEMY_DESCRIPTION" Language="fr_FR">
+			<Text>+5 [ICON_Science] Science et +2 [ICON_Culture] Culture. +2 Points par Grand Scientifique</Text>
+		</Replace>
+		<!-- END OF TEMERIA | FOLTEST -->
+		<!-- NILFGAARD | EMHYR_VAR_EMREIS -->
+		<Replace Tag="LOC_CIVILIZATION_NILFGAARD_NAME" Language="fr_FR">
+			<Text>Nilfgaard</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NILFGAARD_DESCRIPTION" Language="fr_FR">
+			<Text>Empire de Nilfgaard</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NILFGAARD_ADJECTIVE" Language="fr_FR">
+			<Text>Nilfgaardien</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_EMHYR_VAR_EMREIS_NAME" Language="fr_FR">
+			<Text>Emhyr Var Emreis</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_EMPIRE_OF_NILFGAARD_NAME" Language="fr_FR">
+			<Text>Empire de Nilfgaard</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_EMPIRE_OF_NILFGAARD_DESCRIPTION" Language="fr_FR">
+			<Text>Accumule 25% moins de lassitude de guerre que d'habitude. Coût de maintenande des Unités réduit de 1 Or par tour, par unité. +7 [ICON_Strength] Force de Combat lors d'attaque de Cité-État. Toutes les Villes que vous fondez ou conquérez, si à portée d'une [ICON_TradeRoute] Route Commerciale de votre [ICON_Capital] Capitale, Elles démarrent avec une route vers elles. Vos [ICON_TradeRoute] Routes Commerciale gagnent +1 [ICON_Gold] Or en passant dans vos Postes de Traite dans vos propre Villes.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_WHITE_FLAME_DANCING_NAME" Language="fr_FR">
+			<Text>Flamme Blanche qui Danse sur la Tombe de ses Ennemis.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WHITE_FLAME_DANCING_DESCRIPTION" Language="fr_FR">
+			<Text>Capture les unités ennemies en tant que Bâtisseurs. 1 niveau de [ICON_VisLimited] Visibilité Diplomatique supérieur à la normal avec chaque civilisation qu'il a rencontré. Reçoit la capacité de construire un Espion supplémentaire avec la découverte des Châteaux.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMPERA_BRIGADE_NAME" Language="fr_FR">
+			<Text>Brigade Impera</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_IMPERA_BRIGADE_DESCRIPTION" Language="fr_FR">
+			<Text>Unité Nilfgaardienne de Mélée unique de l'ère Médiévale, remplace épéiste. +5 [ICON_Strength] Force de Combat dans vos territoires ou adjacent à vos territoires.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BLACK_INFANTRY_ARCHERS_NAME" Language="fr_FR">
+			<Text>Archer de l'Infantrie Noire</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BLACK_INFANTRY_ARCHERS_DESCRIPTION" Language="fr_FR">
+			<Text>Unité Nilfgaardienne à Distance unique, remplace arbalétrier. +5 [ICON_Strength] force de Combat lors d'attaque.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NAUSICAA_CAVALRY_NAME" Language="fr_FR">
+			<Text>Cavalerie Nausicaa</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NAUSICAA_CAVALRY_DESCRIPTION" Language="fr_FR">
+			<<Text>Unité Nilfgaardienne de Cavalerie Légère unique de l'ère Médiévale, remplace cavalier. +100% flanking bonus.</Text>
+		</Replace>
+		<!-- END OF NILFGAARD | EMHYR_VAR_EMREIS -->
+		<!-- REDANIA | DIJKSTRA & RADOVID -->
+		<Replace Tag="LOC_CIVILIZATION_REDANIA_NAME" Language="fr_FR">
+			<Text>Rédanie</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_REDANIA_DESCRIPTION" Language="fr_FR">
+			<Text>Royaume de  Rédanie</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_REDANIA_ADJECTIVE" Language="fr_FR">
+			<Text>Rédanien</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_DIJKSTRA_NAME" Language="fr_FR">
+			<Text>Dijkstra</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_RADOVID_NAME" Language="fr_FR">
+			<Text>Radovid V</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_GANARY_OF_THE_CONTINENT_NAME" Language="fr_FR">
+			<Text>Le Grenier du Continent</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_GANARY_OF_THE_CONTINENT_DESCRIPTION" Language="fr_FR">
+			<Text>Vos [ICON_TradeRoute] Routes Commerciale vers les autres civilisations fournissent +4 [ICON_Gold] Or pour la Rédanie. Other civilizations' [ICON_TradeRoute] Trade Routes to Redania provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Redania. +4 [ICON_Food] Food from domestic [ICON_TradeRoute] Trade Routes.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_REDANIAN_SPYMASTER_NAME" Language="fr_FR">
+			<Text>Maître Espion Rédanien</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_REDANIAN_SPYMASTER_DESCRIPTION" Language="fr_FR">
+			<<Text>+50% [ICON_Production] Production toward Spies. Spy operations take 25% less time. Enemy Spies level reduced by 2 in your lands. 1 level of [ICON_VisLimited] Diplomatic Visibility greater than normal with every civilization that she's met. Receives capacity to build an extra Spy with the Castles technology.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_STERN_NAME" Language="fr_FR">
+			<Text>Le Sévère</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_STERN_DESCRIPTION" Language="fr_FR">
+			<Text>Les Inquisiteurs peuvent retirer l'Hérésie une fois supplémentaire. Les Unités de Combat ont un bonus de +4 [ICON_Strength] Force de Combat contres les joueurs croyant en une autre Religion.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REDANIAN_FOOTSOLDIER_NAME" Language="fr_FR">
+			<Text>Fantassin Rédanien</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_REDANIAN_FOOTSOLDIER_DESCRIPTION" Language="fr_FR">
+			<Text>Unité Rédanienne unique anti-cavalerie. +5 [ICON_Strength] Force de Combat si au moins un Fantassin Rédanien adjacent.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_REDANIAN_PRISION_NAME" Language="fr_FR">
+			<Text>Redanian Prision</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_REDANIAN_PRISION_DESCRIPTION" Language="fr_FR">
+			<Text>Bâtiment unique à la Rédanie. Donne +1 [ICON_AMENITIES] Aménité et les unités en garnison donnent +1 [ICON_AMENITIES] Aménité.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NORTHERN_UNIVERSITY_NAME" Language="fr_FR">
+			<Text>Université du Nord</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_NORTHERN_UNIVERSITY_DESCRIPTION" Language="fr_FR">
+			<Text>+5 [ICON_Science] Science et +2 [ICON_Culture] Culture. +1 Points pour les Grands Scientifiques, Écrivains et Artistes.</Text>
+		</Replace>
+		<!-- END OF REDANIA | DIJKSTRA & RADOVID -->
+		<!-- KAEDWEN | HENSELT -->
+		<Replace Tag="LOC_CIVILIZATION_KAEDWEN_NAME" Language="fr_FR">
+			<Text>Kaedwen</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KAEDWEN_DESCRIPTION" Language="fr_FR">
+			<Text>Royaume de Kaedwen</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KAEDWEN_ADJECTIVE" Language="fr_FR">
+			<Text>Kaedwenien</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_HENSELT_NAME" Language="fr_FR">
+			<Text>Henselt</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WHITE_FOREST_NAME" Language="fr_FR">
+			<Text>La Forêt Blanche</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_WHITE_FOREST_DESCRIPTION" Language="fr_FR">
+			<Text>+1 [ICON_Gold] Or dans le Quartier Commercial, +1 [ICON_Faith] Foi dans le Site Sacré et +1 [ICON_Production] Production dans les Zones Industrielles si elles sont à côtés d'une Forêt.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_DYNASTY_OF_THE_UNICORN_NAME" Language="fr_FR">
+			<Text>La Dynastie de la Licorne</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DYNASTY_OF_THE_UNICORN_DESCRIPTION" Language="fr_FR">
+			<Text>Réduit le coût d'achat d'une case de 40%. +4 [ICON_Strength] Force de Combat lors de combat contre des civilisations qui croient en d'autres religions. 1 niveau de [ICON_VisLimited] Visibilité Diplomatique supérieure à la normale avec chaque civilisation qu'elle rencontre.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DUN_BANNER_NAME" Language="fr_FR">
+			<Text>Dun Banner</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DUN_BANNER_DESCRIPTION" Language="fr_FR">
+			<Text>Unité Kaedwenienne de Cavalerie Légère unique de l'ère Médièvale, remplace Cavalier. Peut bouger après avoir attaqué et traverser les Collines plus rapidement.</Text>
+		</Replace>
+		<!-- END OF KAEDWEN | HENSELT -->
+		<!-- SKELLIGE | CRACH_AN_CRAITE -->
+		<Replace Tag="LOC_CIVILIZATION_SKELLIGE_NAME" Language="fr_FR">
+			<Text>Skellige</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SKELLIGE_DESCRIPTION" Language="fr_FR">
+			<Text>Kingdom of Skellige Islands</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SKELLIGE_ADJECTIVE" Language="fr_FR">
+			<Text>Skellige</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_CRACH_AN_CRAITE_NAME" Language="fr_FR">
+			<Text>Crach An Craite</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ISLAND_CLANS_NAME" Language="fr_FR">
+			<Text>Island Clans</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ISLAND_CLANS_DESCRIPTION" Language="fr_FR">
+			<Text>Units gain the ability to enter Ocean tiles after researching the Shipbuilding technology. Naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. Naval units can perform costal raids.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SEA_BOAR_NAME" Language="fr_FR">
+			<Text>Sea Boar</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SEA_BOAR_DESCRIPTION" Language="fr_FR">
+			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast. Units ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SKELLIGE_RAIDER_NAME" Language="fr_FR">
+			<Text>Skellige Raider</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_SKELLIGE_RAIDER_DESCRIPTION" Language="fr_FR">
+			<Text>Skellige unique naval unit, replace Galley. Yields 60% of defeated units' [ICON_Strength] as [ICON_Gold] on combat victory.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ELDBERG_LIGHTHOUSE_NAME" Language="fr_FR">
+			<Text>Eldberg Lighthouse</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ELDBERG_LIGHTHOUSE_DESCRIPTION" Language="fr_FR">
+			<Text>Unique Skellige building that replace the Lighthouse. Gives +2 [ICON_Food] Food, +2 [ICON_Gold] Gold, +1 [ICON_Housing] Housing and +2 Points for Great Admiral.</Text>
+		</Replace>
+		<!-- END OF SKELLIGE | CRACH_AN_CRAITE -->
+		<!-- AEDIRN | DEMAVEND -->
+		<Replace Tag="LOC_CIVILIZATION_AEDIRN_NAME" Language="fr_FR">
+			<Text>Aedirn</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AEDIRN_DESCRIPTION" Language="fr_FR">
+			<Text>Kingdom of Aedirn</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_AEDIRN_ADJECTIVE" Language="fr_FR">
+			<Text>Aedirn</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_DEMAVEND_NAME" Language="fr_FR">
+			<Text>Demavend III</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AEDIRN_INDUSTRY_NAME" Language="fr_FR">
+			<Text>Aedirn Industry</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_AEDIRN_INDUSTRY_DESCRIPTION" Language="fr_FR">
+			<Text>+100% Commercial Hub and Industrial Zone district adjacency bonuses. Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CRUEL_TACTICS_OF_WAR_NAME" Language="fr_FR">
+			<Text>Cruel Tactics of War</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CRUEL_TACTICS_OF_WAR_DESCRIPTION" Language="fr_FR">
+			<Text>Additional Military policy slot.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AEDIRN_SPECIAL_FORCES_NAME" Language="fr_FR">
+			<Text>Aedirn Special Forces</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AEDIRN_SPECIAL_FORCES_DESCRIPTION" Language="fr_FR">
+			<Text>Aedirn unique Medieval era ranged unit, replace Crossbowman. +4 [ICON_Strength] Combat Strength when fighting civilizations that follow other Religions.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_FORGE_PLANT_NAME" Language="fr_FR">
+			<Text>Forge Plant</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_FORGE_PLANT_DESCRIPTION" Language="fr_FR">
+			<Text>Aedirn unique building that replace the Workshop. Gives 3 [ICON_Production] Production, 1 [ICON_Gold] Gold, 2 Points for Great Engineer and 1 Points for Great Merchants. </Text>
+		</Replace>
+		<!-- END OF AEDIRN | DEMAVEND -->
+		<!-- LYRIA RIVIA | MEVE -->
+		<Replace Tag="LOC_CIVILIZATION_LYRIA_RIVIA_NAME" Language="fr_FR">
+			<Text>Lyria And Rivia</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LYRIA_RIVIA_DESCRIPTION" Language="fr_FR">
+			<Text>Kingdom of Lyria and Rivia</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_LYRIA_RIVIA_ADJECTIVE" Language="fr_FR">
+			<Text>Lyrian and Rivian</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_MEVE_NAME" Language="fr_FR">
+			<Text>Meve</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SMALL_NORTHERN_NAME" Language="fr_FR">
+			<Text>Small Northern</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SMALL_NORTHERN_DESCRIPTION" Language="fr_FR">
+			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_THE_WHITE_QUEEN_NAME" Language="fr_FR">
+			<Text>The White Queen</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_WHITE_QUEEN_DESCRIPTION" Language="fr_FR">
+			<Text>Additional Wildcard policy slot.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIVIAN_CROSSBOWMAN_NAME" Language="fr_FR">
+			<Text>Rivian Crossbowman</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_RIVIAN_CROSSBOWMAN_DESCRIPTION" Language="fr_FR">
+			<Text>Rivian Crossbowman unique Medieval era ranged unit, replace Crossbowman. +7 [ICON_Strength] Combat Strength vs. melee and ranged units.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_BORDER_CASTLE_NAME" Language="fr_FR">
+			<Text>Border Castle</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_BORDER_CASTLE_DESCRIPTION" Language="fr_FR">
+			<Text>Lyrian and Rivian unique improvement. Occupying unit receives +6[ICON_Strength] Defense Strength and automatically gains 2 turns of fortification. Gives 1 Housing and if its next to a River adds 1[ICON_Culture] Culture.</Text>
+		</Replace>
+		<!-- END OF LYRIA RIVIA | MEVE -->
+		<!-- SCOIATAEL | FRANCESCA_FINDABAIR -->
+		<Replace Tag="LOC_CIVILIZATION_SCOIATAEL_NAME" Language="fr_FR">
+			<Text>Scoia'tael</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCOIATAEL_DESCRIPTION" Language="fr_FR">
+			<Text>Scoia'tael of Dol Blathanna</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_SCOIATAEL_ADJECTIVE" Language="fr_FR">
+			<Text>Elven</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_FRANCESCA_FINDABAIR_NAME" Language="fr_FR">
+			<Text>Francesca Findabair</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ARMONY_WITH_THE_LAND_NAME" Language="fr_FR">
+			<Text>Armony With The Land</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_ARMONY_WITH_THE_LAND_DESCRIPTION" Language="fr_FR">
+			<Text>+1 [ICON_Gold] Gold in the Commercial Hub, +1 [ICON_Faith] Faith in the Holy Site, +1 [ICON_Culture] Culture in the Theatre and +1 [ICON_Science] Science in the Campus if they are next to a Forest.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_DAISY_OF_THE_VALLEYS_NAME" Language="fr_FR">
+			<Text>Daisy of the Valleys</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DAISY_OF_THE_VALLEYS_DESCRIPTION" Language="fr_FR">
+			<Text>Additional Wildcard policy slot. +2 [ICON_GreatArtist] Great Artist points per turn and +2 [ICON_GreatWriter] Great Writer points per turn.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_COMMANDO_NAME" Language="fr_FR">
+			<Text>Elf Commando</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_COMMANDO_DESCRIPTION" Language="fr_FR">
+			<Text>Scoia'tael unique Medieval melee unit, replace Swordsman and doesn't require Iron. Can move and see through Woods and Rainforest.Cannot be seen in the woods or jungle unless they are adjacent to it.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_HORSE_ARCHER_NAME" Language="fr_FR">
+			<Text>Elf Horse Archer</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_HORSE_ARCHER_DESCRIPTION" Language="fr_FR">
+			<Text>Scoia'tael unique Medieval ranged cavalry unit. Can move and see through Woods and Rainforest. Cannot be seen in the woods or jungle unless they are adjacent to it.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_COMMANDO_ARCHER_NAME" Language="fr_FR">
+			<Text>Elf Commando Archer</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ELF_COMMANDO_ARCHER_DESCRIPTION" Language="fr_FR">
+			<Text>Scoia'tael unique Medieval ranged unit, replace Crossbowman. Can move and see through Woods and Rainforest. Cannot be seen in the woods or jungle unless they are adjacent to it.</Text>
+		</Replace>
+		<!-- END OF SCOIATAEL | FRANCESCA_FINDABAIR -->
+		<!-- KOVIR AND POVISS | ESTERAD_THYSSEN -->
+		<Replace Tag="LOC_CIVILIZATION_KOVIR_POVISS_NAME" Language="fr_FR">
+			<Text>Kovir and Poviss</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOVIR_POVISS_DESCRIPTION" Language="fr_FR">
+			<Text>Kingdom of Kovir and Poviss</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_KOVIR_POVISS_ADJECTIVE" Language="fr_FR">
+			<Text>Kovir</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ESTERAD_THYSSEN_NAME" Language="fr_FR">
+			<Text>Esterad Thyssen</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_KOVIRI_DELIGHT_NAME" Language="fr_FR">
+			<Text>Koviri Delight</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_KOVIRI_DELIGHT_DESCRIPTION" Language="fr_FR">
+			<Text>All cities you found or conquer start with a Trading Post.Your [ICON_TradeRoute] Trade Routes earn +1 [ICON_Gold] Gold for passing through Trading Posts in your own cities. Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Kovir. Other civilizations' [ICON_TradeRoute] Trade Routes to Kovir provide +2 [ICON_Gold] Gold for Kovir.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_HOUSE_THYSSEN_NAME" Language="fr_FR">
+			<Text>House Thyssen</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HOUSE_THYSSEN_DESCRIPTION" Language="fr_FR">
+			<Text>+2 Influence points per turn toward earning city-state [ICON_Envoy] Envoys. 1 level of [ICON_VisLimited] Diplomatic Visibility greater than normal with every civilization that she's met. Receives capacity to build an extra Spy with the Castles technology.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_KOVIR_MARKET_NAME" Language="fr_FR">
+			<Text>Kovir Market</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_KOVIR_MARKET_DESCRIPTION" Language="fr_FR">
+			<Text>Kovir and Poviss unique building that replace the Market. Gives +3 [ICON_Gold] and 2 Points for Great Merchants. [ICON_RESOURCE_COPPER] Copper, [ICON_RESOURCE_IRON] Iron, [ICON_RESOURCE_SILVER] Silver, [ICON_RESOURCE_PEARLS] Pearls, [ICON_RESOURCE_DIAMONDS] Diamonds, [ICON_RESOURCE_JADE] Jade and [ICON_RESOURCE_SALT] Salt resources gain +1 [ICON_Gold] Gold each. </Text>
+		</Replace>
+		<!-- END OF KOVIR AND POVISS | ESTERAD_THYSSEN -->
+		<!-- MORVRAN_VOORHIS -->
+		<Replace Tag="LOC_LEADER_MORVRAN_VOORHIS_NAME" Language="fr_FR">
+			<Text>Morvran Voorhis</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GUILD_OF_MERCHANTS_NAME" Language="fr_FR">
+			<Text>Guild of Merchants</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GUILD_OF_MERCHANTS_DESCRIPTION" Language="fr_FR">
+			<Text>Combat victories provide [ICON_Gold] Gold equal to 100% of the [ICON_Strength] Combat Strength of the defeated unit. +50% [ICON_Gold] Gold in cities not on your original [ICON_Capital] Capital's continent. +2 [ICON_Gold] Gold from all [ICON_TradeRoute] Trade Routes.</Text>
+		</Replace>
+		<!-- END OF MORVRAN_VOORHIS -->
+		<!-- JAN_CALVEIT -->
+		<Replace Tag="LOC_LEADER_JAN_CALVEIT_NAME" Language="fr_FR">
+			<Text>Jan Calveit</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PROPER_PREPARATION_NAME" Language="fr_FR">
+			<Text>Proper Preparation</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_PROPER_PREPARATION_DESCRIPTION" Language="fr_FR">
+			<Text>+5% [ICON_Culture] Culture per city-state you are the Suzerain of. +1 [ICON_Culture] Culture and +1 [ICON_Science] Science from international [ICON_TradeRoute] Trade Routes. +100% [ICON_Science] Science from Campus district buildings Library and University.</Text>
+		</Replace>
+		<!-- END OF JAN_CALVEIT -->
+		<!-- BRAN_TUIRSEACH -->
+		<Replace Tag="LOC_LEADER_BRAN_TUIRSEACH_NAME" Language="fr_FR">
+			<Text>Bran Tuirseach</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CLAN_TUIRSEACH_NAME" Language="fr_FR">
+			<Text>Clan Tuirseach</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CLAN_TUIRSEACH_DESCRIPTION" Language="fr_FR">
+			<Text>+100% [ICON_Production] Production toward Ancient, Classical, Renaissance and Industrial era naval units. Receives [ICON_Science] Science or [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to civilizations that are more advanced than Bran (+1 per 3 technologies or civics ahead).</Text>
+		</Replace>
+		<!-- END OF BRAN_TUIRSEACH -->
+		<!-- HARALD_AN_CRAITE -->
+		<Replace Tag="LOC_LEADER_HARALD_AN_CRAITE_NAME" Language="fr_FR">
+			<Text>Harald An Craite</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_CRIPPLE_NAME" Language="fr_FR">
+			<Text>The Cripple</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_CRIPPLE_DESCRIPTION" Language="fr_FR">
+			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. When they eliminate a unit, they heal up to 50 hit points.</Text>
+		</Replace>
+		<!-- END OF HARALD_AN_CRAITE -->
+		<!-- LADY_EITHNE -->
+		<Replace Tag="LOC_LEADER_LADY_EITHNE_NAME" Language="fr_FR">
+			<Text>Lady Eithné</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SILVER_EYED_NAME" Language="fr_FR">
+			<Text>The Silver Eyed</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_SILVER_EYED_DESCRIPTION" Language="fr_FR">
+			<Text>One extra Wildcard policy slot in any government. Units receive a +5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory.</Text>
+		</Replace>
+		<!-- END OF LADY_EITHNE -->
+		<Replace Tag="LOC_UNIT_TUIRSEACH_AXEMEN_NAME" Language="fr_FR">
+			<Text>Tuirseach Axemen</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TUIRSEACH_AXEMEN_DESCRIPTION" Language="fr_FR">
+			<Text>Skellige unique meele unit. +5 [ICON_Strength] Combat Strength against damaged units.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRYAD_ARCHER_NAME" Language="fr_FR">
+			<Text>Dryad Archer</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_DRYAD_ARCHER_DESCRIPTION" Language="fr_FR">
+			<Text>Eithné unique ranged unit. +7 [ICON_Strength] Combat Strength when attacking and -7 [ICON_Strength] Combat Strength when defending.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_POOR_FLANKING_INFANTRY_NAME" Language="fr_FR">
+			<Text>Poor Flanking Infantry</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_POOR_FLANKING_INFANTRY_DESCRIPTION" Language="fr_FR">
+			<Text>Temeria unique anticavalry unit.  75% flanking bonus.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NORTHERN_TREBUCHET_NAME" Language="fr_FR">
+			<Text>Northern Trebuchet</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NORTHERN_TREBUCHET_DESCRIPTION" Language="fr_FR">
+			<Text>Northern unique siege unit. +10 [ICON_Strength] Combat Strength if there is at least one Trebuchet adjacent.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIRE_SCORPION_NAME" Language="fr_FR">
+			<Text>Fire Scorpion</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_FIRE_SCORPION_DESCRIPTION" Language="fr_FR">
+			<Text>Nilfgaard unique siege unit. +7 [ICON_Strength] Combat Strength vs. melee and ranged units.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MANGONEL_NAME" Language="fr_FR">
+			<Text>Mangonel</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_MANGONEL_DESCRIPTION" Language="fr_FR">
+			<Text>Nilfgaard unique siege unit. +1 base movement.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ALBA_DIVISION_NAME" Language="fr_FR">
+			<Text>Alba Division</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ALBA_DIVISION_DESCRIPTION" Language="fr_FR">
+			<Text>Nilfgaard unique heavy cavalry unit. +7 [ICON_Strength] Combat Strength if there is at least one Alba Division adjacent.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AN_CRAITE_WARRIOR_NAME" Language="fr_FR">
+			<Text>An Craite Warrior</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_AN_CRAITE_WARRIOR_DESCRIPTION" Language="fr_FR">
+			<Text>Skellige melee unit unit. Does not suffer combat penalties when damaged.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BROKVAR_ARCHER_NAME" Language="fr_FR">
+			<Text>Brokvar Archer</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_BROKVAR_ARCHER_DESCRIPTION" Language="fr_FR">
+			<Text>Skellige ranged unit unit. Half of the attack of the Crossbowman, but can attack twice per turn.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VRIHEDD_BRIGADE_NAME" Language="fr_FR">
+			<Text>Vrihedd Brigade</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_VRIHEDD_BRIGADE_DESCRIPTION" Language="fr_FR">
+			<Text>+7 [ICON_Strength] Combat Strength when defending in Woods, Jungle, Hills, or Marsh.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LYRIAN_FREE_COMPANY_NAME" Language="fr_FR">
+			<Text>Lyrian Free Company</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_LYRIAN_FREE_COMPANY_DESCRIPTION" Language="fr_FR">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting in or adjacent to its home territory.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TEMERIAN_LANDSKNECHT_NAME" Language="fr_FR">
+			<Text>Temerian Landsknech</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_TEMERIAN_LANDSKNECHT_DESCRIPTION" Language="fr_FR">
+			<Text>+5 [ICON_Strength] Combat Strength vs. cavalry units.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_DUN_BANNER_NAME" Language="fr_FR">
+			<Text>Heavy Dun Banner</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_HEAVY_DUN_BANNER_DESCRIPTION" Language="fr_FR">
+			<Text>Kaewdin unique Medieval cavalry unit, replace Knight. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROYAL_ELITE_NAME" Language="fr_FR">
+			<Text>Royal Elite</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROYAL_ELITE_DESCRIPTION" Language="fr_FR">
+			<Text>+5 [ICON_Strength] Combat Strength vs. anti-cavalry units.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROYAL_KNIGHTS_NAME" Language="fr_FR">
+			<Text>Royal Knight</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_ROYAL_KNIGHTS_DESCRIPTION" Language="fr_FR">
+			<Text>Redanian unique Medieval cavalry unit, replace Knight. +5 [ICON_Strength] Combat Strength vs. melee and ranged units.</Text>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NORTHERN_SORCERES_NAME" Language="fr_FR">
+			<Text>Northern Sorceres</Text>
+			<Gender>Masculine:a</Gender>
+		</Replace>
+		<Replace Tag="LOC_UNIT_NORTHERN_SORCERES_DESCRIPTION" Language="fr_FR">
+			<Text>Northern Realms unique Medieval era ranged unit. Heals at the end of every turn, even after moving or attacking.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
