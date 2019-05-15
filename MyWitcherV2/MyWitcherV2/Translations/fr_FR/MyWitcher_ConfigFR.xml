@@ -25,7 +25,7 @@
 			<Text>Maître du siège</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_SIEGEMASTER_DESCRIPTION" Language="fr_FR">
-			<Text>Toutes les unités de Siège Classique et de la Renaissance gagnent +5 [ICON_Strength] force de Combat. +100% [ICON_Production] Production des unités de Siège Classique et Renaissance et les unités de Support de l'Antiquité, Classique et Médiévale.</Text>
+			<Text>Toutes les unités de Siège Classique et de la Renaissance gagnent +5 [ICON_Strength] puissance de combat. +100% [ICON_Production] Production des unités de Siège Classique et Renaissance et les unités de Support de l'Antiquité, Classique et Médiévale.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_BLUE_STRIPES_NAME" Language="fr_FR">
 			<Text>Stries Bleues</Text>
@@ -58,7 +58,7 @@
 			<Text>Empire de Nilfgaard</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_EMPIRE_OF_NILFGAARD_DESCRIPTION" Language="fr_FR">
-			<Text>Accumule 25% moins de lassitude de guerre que d'habitude. Coût de maintenande des Unités réduit de 1 Or par tour, par unité. +7 [ICON_Strength] Force de Combat lors d'attaque de Cité-État. Toutes les Villes que vous fondez ou conquérez, si à portée d'une [ICON_TradeRoute] Route Commerciale de votre [ICON_Capital] Capitale, Elles démarrent avec une route vers elles. Vos [ICON_TradeRoute] Routes Commerciale gagnent +1 [ICON_Gold] Or en passant dans vos Postes de Traite dans vos propre Villes.</Text>
+			<Text>Accumule 25% moins de lassitude de guerre que d'habitude. Coût de maintenande des Unités réduit de 1 Or par tour, par unité. +7 [ICON_Strength] puissance de combat lors d'attaque de Cité-État. Toutes les Villes que vous fondez ou conquérez, si à portée d'une [ICON_TradeRoute] Route Commerciale de votre [ICON_Capital] Capitale, Elles démarrent avec une route vers elles. Vos [ICON_TradeRoute] Routes Commerciale gagnent +1 [ICON_Gold] Or en passant dans vos Postes de Traite dans vos propre Villes.</Text>
 		</Replace>
 
 		<Replace Tag="LOC_TRAIT_WHITE_FLAME_DANCING_NAME" Language="fr_FR">
@@ -72,14 +72,14 @@
 			<Gender>Masculine:a</Gender>
 		</Replace>
 		<Replace Tag="LOC_UNIT_IMPERA_BRIGADE_DESCRIPTION" Language="fr_FR">
-			<Text>Unité Nilfgaardienne de Mélée unique de l'ère Médiévale, remplace épéiste. +5 [ICON_Strength] Force de Combat dans vos territoires ou adjacent à vos territoires.</Text>
+			<Text>Unité Nilfgaardienne de Mélée unique de l'ère Médiévale, remplace épéiste. +5 [ICON_Strength] puissance de combat dans vos territoires ou adjacent à vos territoires.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_BLACK_INFANTRY_ARCHERS_NAME" Language="fr_FR">
 			<Text>Archer de l'Infantrie Noire</Text>
 			<Gender>Masculine:a</Gender>
 		</Replace>
 		<Replace Tag="LOC_UNIT_BLACK_INFANTRY_ARCHERS_DESCRIPTION" Language="fr_FR">
-			<Text>Unité Nilfgaardienne à Distance unique, remplace arbalétrier. +5 [ICON_Strength] force de Combat lors d'attaque.</Text>
+			<Text>Unité Nilfgaardienne à Distance unique, remplace arbalétrier. +5 [ICON_Strength] puissance de combat lors d'attaque.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_NAUSICAA_CAVALRY_NAME" Language="fr_FR">
 			<Text>Cavalerie Nausicaa</Text>
@@ -121,14 +121,14 @@
 			<Text>Le Sévère</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_THE_STERN_DESCRIPTION" Language="fr_FR">
-			<Text>Les Inquisiteurs peuvent retirer l'Hérésie une fois supplémentaire. Les Unités de Combat ont un bonus de +4 [ICON_Strength] Force de Combat contres les joueurs croyant en une autre Religion.</Text>
+			<Text>Les Inquisiteurs peuvent retirer l'Hérésie une fois supplémentaire. Les Unités de Combat ont un bonus de +4 [ICON_Strength] puissance de combat contres les joueurs croyant en une autre Religion.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_REDANIAN_FOOTSOLDIER_NAME" Language="fr_FR">
 			<Text>Fantassin Rédanien</Text>
 			<Gender>Masculine:a</Gender>
 		</Replace>
 		<Replace Tag="LOC_UNIT_REDANIAN_FOOTSOLDIER_DESCRIPTION" Language="fr_FR">
-			<Text>Unité Rédanienne unique anti-cavalerie. +5 [ICON_Strength] Force de Combat si au moins un Fantassin Rédanien adjacent.</Text>
+			<Text>Unité Rédanienne unique anti-cavalerie. +5 [ICON_Strength] puissance de combat si au moins un Fantassin Rédanien adjacent.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_REDANIAN_PRISION_NAME" Language="fr_FR">
 			<Text>Redanian Prision</Text>
@@ -167,7 +167,7 @@
 			<Text>La Dynastie de la Licorne</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_DYNASTY_OF_THE_UNICORN_DESCRIPTION" Language="fr_FR">
-			<Text>Réduit le coût d'achat d'une case de 40%. +4 [ICON_Strength] Force de Combat lors de combat contre des civilisations qui croient en d'autres religions. 1 niveau de [ICON_VisLimited] Visibilité Diplomatique supérieure à la normale avec chaque civilisation qu'elle rencontre.</Text>
+			<Text>Réduit le coût d'achat d'une case de 40%. +4 [ICON_Strength] puissance de combat lors de combat contre des civilisations qui croient en d'autres religions. 1 niveau de [ICON_VisLimited] Visibilité Diplomatique supérieure à la normale avec chaque civilisation qu'elle rencontre.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_DUN_BANNER_NAME" Language="fr_FR">
 			<Text>Dun Banner</Text>
@@ -182,7 +182,7 @@
 			<Text>Skellige</Text>
 		</Replace>
 		<Replace Tag="LOC_CIVILIZATION_SKELLIGE_DESCRIPTION" Language="fr_FR">
-			<Text>Kingdom of Skellige Islands</Text>
+			<Text>Royaume des Îles de Skellige</Text>
 		</Replace>
 		<Replace Tag="LOC_CIVILIZATION_SKELLIGE_ADJECTIVE" Language="fr_FR">
 			<Text>Skellige</Text>
@@ -191,16 +191,16 @@
 			<Text>Crach An Craite</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_ISLAND_CLANS_NAME" Language="fr_FR">
-			<Text>Island Clans</Text>
+			<<Text>Island Clans</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_ISLAND_CLANS_DESCRIPTION" Language="fr_FR">
-			<Text>Units gain the ability to enter Ocean tiles after researching the Shipbuilding technology. Naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. Naval units can perform costal raids.</Text>
+			<Text>Les Unités débloquent la capacité d'entrer sur une case Océan après avoir recherché la technologie Construction de navires. Les Unités Navales reçoivent +5 [ICON_Strength] puissance de combat sur les cases d'eau peu profonde. Les Unités Navales peuvent faire des Raids côtiers.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_SEA_BOAR_NAME" Language="fr_FR">
-			<Text>Sea Boar</Text>
+			<<Text>Sea Boar</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_SEA_BOAR_DESCRIPTION" Language="fr_FR">
-			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast. Units ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+			<Text>Les unités terrestres reçoivent +5 [ICON_Strength] puissance de combat sur les cases terrestres adjacentes à la Côte. Les unités ignorent le coût additionel de [ICON_Movement] Mouvement d'embarquement et de débarquement.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_SKELLIGE_RAIDER_NAME" Language="fr_FR">
 			<Text>Skellige Raider</Text>
@@ -210,10 +210,10 @@
 			<Text>Skellige unique naval unit, replace Galley. Yields 60% of defeated units' [ICON_Strength] as [ICON_Gold] on combat victory.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_ELDBERG_LIGHTHOUSE_NAME" Language="fr_FR">
-			<Text>Eldberg Lighthouse</Text>
+			<Text>Phare d'Eldberg</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_ELDBERG_LIGHTHOUSE_DESCRIPTION" Language="fr_FR">
-			<Text>Unique Skellige building that replace the Lighthouse. Gives +2 [ICON_Food] Food, +2 [ICON_Gold] Gold, +1 [ICON_Housing] Housing and +2 Points for Great Admiral.</Text>
+			<Text>Bâtiment exclusif à Skellige qui remplace le Phare. Donne +2 [ICON_Food] Nourriture, +2 [ICON_Gold] Or, +1 [ICON_Housing] habitations et +2 Points pour le Grand Amiral.</Text>
 		</Replace>
 		<!-- END OF SKELLIGE | CRACH_AN_CRAITE -->
 		<!-- AEDIRN | DEMAVEND -->
@@ -221,7 +221,7 @@
 			<Text>Aedirn</Text>
 		</Replace>
 		<Replace Tag="LOC_CIVILIZATION_AEDIRN_DESCRIPTION" Language="fr_FR">
-			<Text>Kingdom of Aedirn</Text>
+			<Text>Royaume d'Aedirn</Text>
 		</Replace>
 		<Replace Tag="LOC_CIVILIZATION_AEDIRN_ADJECTIVE" Language="fr_FR">
 			<Text>Aedirn</Text>
@@ -230,66 +230,66 @@
 			<Text>Demavend III</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_AEDIRN_INDUSTRY_NAME" Language="fr_FR">
-			<Text>Aedirn Industry</Text>
+			<Text>Industrie Aedirnienne</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_AEDIRN_INDUSTRY_DESCRIPTION" Language="fr_FR">
-			<Text>+100% Commercial Hub and Industrial Zone district adjacency bonuses. Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities.</Text>
+			<Text>+100% de bonus pour les Plateformes Commerciale et Zones Industrielle adjacentes. Les ressources de Luxe dans ses territoires fournissent une [ICON_Amenities] Amenité à 2 villes supplémentaire.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CRUEL_TACTICS_OF_WAR_NAME" Language="fr_FR">
-			<Text>Cruel Tactics of War</Text>
+			<Text>Tactiques de Guerre Cruelles</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CRUEL_TACTICS_OF_WAR_DESCRIPTION" Language="fr_FR">
-			<Text>Additional Military policy slot.</Text>
+			<Text>Emplacement de doctrine Militaire additionel.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_AEDIRN_SPECIAL_FORCES_NAME" Language="fr_FR">
-			<Text>Aedirn Special Forces</Text>
+			<Text>Forces spéciales d'Aedirn</Text>
 			<Gender>Masculine:a</Gender>
 		</Replace>
 		<Replace Tag="LOC_UNIT_AEDIRN_SPECIAL_FORCES_DESCRIPTION" Language="fr_FR">
-			<Text>Aedirn unique Medieval era ranged unit, replace Crossbowman. +4 [ICON_Strength] Combat Strength when fighting civilizations that follow other Religions.</Text>
+			<Text>Unité de combat à distance de l'ère Médiévale exclusive à l'Aedirn, remplace l'Arbalétrier. +4 [ICON_Strength] puissance de combat lors de combat contre des civilisations qui croient en d'autres Religions.</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_FORGE_PLANT_NAME" Language="fr_FR">
-			<Text>Forge Plant</Text>
+			<Text>Forge</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_FORGE_PLANT_DESCRIPTION" Language="fr_FR">
-			<Text>Aedirn unique building that replace the Workshop. Gives 3 [ICON_Production] Production, 1 [ICON_Gold] Gold, 2 Points for Great Engineer and 1 Points for Great Merchants. </Text>
+			<Text>Bâtiment qui remplace l'Atelier, exclusif à l'Aedirn. Donne 3 [ICON_Production] Production, 1 [ICON_Gold] Or, 2 Points pour le Grand Ingénieur et 1 Point pour les Grand Marchants. </Text>
 		</Replace>
 		<!-- END OF AEDIRN | DEMAVEND -->
 		<!-- LYRIA RIVIA | MEVE -->
 		<Replace Tag="LOC_CIVILIZATION_LYRIA_RIVIA_NAME" Language="fr_FR">
-			<Text>Lyria And Rivia</Text>
+			<Text>Lyrie et Rivie</Text>
 		</Replace>
 		<Replace Tag="LOC_CIVILIZATION_LYRIA_RIVIA_DESCRIPTION" Language="fr_FR">
-			<Text>Kingdom of Lyria and Rivia</Text>
+			<Text>Royaume de Lyrie et Rivie</Text>
 		</Replace>
 		<Replace Tag="LOC_CIVILIZATION_LYRIA_RIVIA_ADJECTIVE" Language="fr_FR">
-			<Text>Lyrian and Rivian</Text>
+			<Text>Lyrien et Rivien</Text>
 		</Replace>
 		<Replace Tag="LOC_LEADER_MEVE_NAME" Language="fr_FR">
 			<Text>Meve</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_SMALL_NORTHERN_NAME" Language="fr_FR">
-			<Text>Small Northern</Text>
+			<Text>Petit Nord</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_SMALL_NORTHERN_DESCRIPTION" Language="fr_FR">
-			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district.</Text>
+			<Text>Tout les quartiers reçoivent un bonus supplémentaire standard pour être adjacent à un autre quartier.</Text>
 		</Replace>
 
 		<Replace Tag="LOC_TRAIT_THE_WHITE_QUEEN_NAME" Language="fr_FR">
-			<Text>The White Queen</Text>
+			<Text>La Reine Blanche</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_THE_WHITE_QUEEN_DESCRIPTION" Language="fr_FR">
-			<Text>Additional Wildcard policy slot.</Text>
+			<Text>Emplacement de doctrine Aléatoire supplémentaire.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_RIVIAN_CROSSBOWMAN_NAME" Language="fr_FR">
-			<Text>Rivian Crossbowman</Text>
+			<Text>Arbalétrier Rivien</Text>
 			<Gender>Masculine:a</Gender>
 		</Replace>
 		<Replace Tag="LOC_UNIT_RIVIAN_CROSSBOWMAN_DESCRIPTION" Language="fr_FR">
-			<Text>Rivian Crossbowman unique Medieval era ranged unit, replace Crossbowman. +7 [ICON_Strength] Combat Strength vs. melee and ranged units.</Text>
+			<Text>Unité de combat à distance de l'ère Médiévale exclusive à la Rivie et Lyrie, remplace l'Arbalétrier. +7 [ICON_Strength] puissance de combat contre les unités de mélée et de combat à distance.</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_BORDER_CASTLE_NAME" Language="fr_FR">
-			<Text>Border Castle</Text>
+			<Text>Chateau Frontalier</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_BORDER_CASTLE_DESCRIPTION" Language="fr_FR">
 			<Text>Lyrian and Rivian unique improvement. Occupying unit receives +6[ICON_Strength] Defense Strength and automatically gains 2 turns of fortification. Gives 1 Housing and if its next to a River adds 1[ICON_Culture] Culture.</Text>
