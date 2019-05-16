@@ -292,7 +292,7 @@
 			<Text>Border Castle</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_BORDER_CASTLE_DESCRIPTION" Language="en_US">
-			<Text>Lyrian and Rivian unique improvement. Occupying unit receives +6[ICON_Strength] Defense Strength and automatically gains 2 turns of fortification. Gives 1 Housing and if its next to a River adds 1[ICON_Culture] Culture.</Text>
+			<Text>Lyrian and Rivian unique improvement. Occupying unit receives +6[ICON_Strength] Defense Strength and automatically gains 2 turns of fortification. Gives 1 [ICON_Housing] Housing and if its next to a River adds 1[ICON_Culture] Culture.</Text>
 		</Row>
 		<!-- END OF LYRIA RIVIA | MEVE -->
 		<!-- SCOIATAEL | FRANCESCA_FINDABAIR -->
